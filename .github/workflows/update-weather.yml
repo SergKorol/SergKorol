@@ -15,7 +15,7 @@ jobs:
           city: Lviv
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: 'templates/README.md.tpl'
+          template-file: 'README.md.template'
           out-file: 'README.md'
       - name: Commit
         run: |
