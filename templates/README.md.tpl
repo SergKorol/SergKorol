@@ -9,6 +9,6 @@
 
 {{ template "articles.md.tpl" }}
 
-## Today's Weather Forecast in My Hometown
+## Today's Weather Forecast in Lviv
 
 {{ template "weathers.md.tpl" }}
