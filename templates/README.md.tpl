@@ -7,8 +7,20 @@
 
 ## Today's Weather Forecast in Lviv
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ with $todayWeather := index .Weathers 0 }}
 
-{{ template "daily-table" .Weathers }}
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
 
-{{ formatTime .UpdatedAt }}
+<img src="{{ $todayWeather.Icon}}"/>
+
+{{ $todayWeather.Condition }}
+
+{{template "hourly-table" $todayWeather.HourlyWeathers}}
+
+{{- end }}
+
+<div align="right">
+
+*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+
+</div>
