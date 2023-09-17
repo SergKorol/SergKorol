@@ -5,22 +5,10 @@
 - Email: [korols83@mail.com](mailto:korols83@mail.com)
 - Software Engineer | .NET lover | Experimenter | Author 🇺🇦
 
-## Today's Weather Forecast in Lviv
+## My Recent Articles
 
-{{ with $todayWeather := index .Weathers 0 }}
+{{ template "articles.md.tpl" }}
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+## Today's Weather Forecast in My Hometown
 
-<img src="{{ $todayWeather.Icon}}"/>
-
-{{ $todayWeather.Condition }}
-
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
-
-<div align="right">
-
-*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
-
-</div>
+{{ template "weathers.md.tpl" }}
