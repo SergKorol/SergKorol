@@ -5,10 +5,10 @@
 - Email: [korols83@mail.com](mailto:korols83@mail.com)
 - Software Engineer | .NET lover | Experimenter | Author 🇺🇦
 
-## My Recent Articles
-
-{{ template "articles.md.tpl" }}
-
 ## Today's Weather Forecast in Lviv
 
-{{ template "weathers.md.tpl" }}
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+
+{{ template "daily-table" .Weathers }}
+
+{{ formatTime .UpdatedAt }}
