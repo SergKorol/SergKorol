@@ -63,11 +63,11 @@
 
 <div align="right">
 
-*Updated at: 2023-09-17T10:20:47Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-09-17T10:36:38Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
-## Today's Weather Forecast in My Hometown
+## Today's Weather Forecast in Lviv
 
 
 
@@ -104,6 +104,6 @@ Partly cloudy
 
 <div align="right">
 
-*Updated at: 2023-09-17T10:20:52Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-17T10:36:41Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
