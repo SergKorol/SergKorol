@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-dont-know-how-to-keep-your-secrets-1a36"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--y491yH3L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cnysdd8qtft6r5s9ymh.jpeg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-dont-know-how-to-keep-your-secrets-1a36">You don&#39;t know how to keep your secrets.</a>
+                <div>I frequently faced that people keep passwords and tokens in the wrong way. Most people keep it in...</div>
+                <div><i>15/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-generate-events-on-your-calendar-application-using-net-maui-3793"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IEKKg3ht--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d6uh8p1jrjae0i9sygg.png" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>17/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-diagnostic-http-requests-and-not-only-part-1-8b1"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uCRlOkzP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ejph7q14dxz1rinsge77.jpg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-diagnostic-http-requests-and-not-only-part-1-8b1">How diagnostic HTTP requests and not only. Part 1.</a>
-                <div>In this article, I want to show another helpful feature in .NET. You can subscribe to all HTTP...</div>
-                <div><i>10/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-15T12:36:59Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-15T18:25:39Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
