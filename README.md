@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2023-10-18T12:41:27Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-18T18:28:31Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -93,17 +93,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>2.9 °C</td><td>2.5 °C</td><td>2.2 °C</td><td>2 °C</td><td>1.7 °C</td><td>1.4 °C</td><td>1.2 °C</td><td>1 °C</td><td>2.6 °C</td><td>5.3 °C</td><td>7.4 °C</td><td>9 °C</td><td>10 °C</td><td>10.8 °C</td><td>11.3 °C</td><td>11.5 °C</td><td>11 °C</td><td>8.5 °C</td><td>6.4 °C</td><td>5.6 °C</td><td>4.9 °C</td><td>4.4 °C</td><td>4.1 °C</td><td>3.7 °C</td>
+        <td>2.9 °C</td><td>2.5 °C</td><td>2.2 °C</td><td>2 °C</td><td>1.7 °C</td><td>1.4 °C</td><td>1.2 °C</td><td>1 °C</td><td>2.6 °C</td><td>5.3 °C</td><td>7.4 °C</td><td>9 °C</td><td>10 °C</td><td>10.8 °C</td><td>11.3 °C</td><td>11.5 °C</td><td>11.1 °C</td><td>8.5 °C</td><td>6.4 °C</td><td>5.5 °C</td><td>4.9 °C</td><td>4.4 °C</td><td>4 °C</td><td>3.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>9 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>14 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>18 kph</td><td>14.8 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>5.8 kph</td>
+        <td>6.8 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>9 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>14.4 kph</td><td>17.3 kph</td><td>18 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>15.8 kph</td><td>10.4 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-18T12:41:30Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-18T18:28:34Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
