@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-are-cleaning-a-cache-wrong-1hjo"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--w0IfKBdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3nz7azlu6bf303ipt3mr.jpg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-are-cleaning-a-cache-wrong-1hjo">You are cleaning a cache wrong.</a>
+                <div>Today, I would like to talk about cache. No about how to create or as important caching. I want to...</div>
+                <div><i>22/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/you-dont-know-how-to-keep-your-secrets-1a36"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--y491yH3L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cnysdd8qtft6r5s9ymh.jpeg" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>24/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-diagnostic-http-requests-and-not-only-part-2-239n"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bEpbgxYU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twhztszspmwiefwo9oqo.jpeg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-diagnostic-http-requests-and-not-only-part-2-239n">How diagnostic HTTP requests and not only. Part 2.</a>
-                <div>I will tell you how to intercept and diagnose HTTP requests in this article. I&#39;ll show you how to get...</div>
-                <div><i>17/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-23T01:22:38Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-23T06:28:31Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
