@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-to-create-cron-jobs-in-k8s-405m"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0McM2KI0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6artnd1z8pj4u1clsjx.jpg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-to-create-cron-jobs-in-k8s-405m">How to create cron jobs in K8S.</a>
+                <div>Hi folks. Now, I want to show you how to create your custom cron job service. And run it with...</div>
+                <div><i>29/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/you-are-cleaning-a-cache-wrong-1hjo"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--w0IfKBdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3nz7azlu6bf303ipt3mr.jpg" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>01/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/running-unit-tests-in-docker-3p2i"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s---KCtK2Y6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kle96ga0nq8pobacvga5.png" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/running-unit-tests-in-docker-3p2i">Running Unit Tests in Docker</a>
-                <div>Hello everyone. In this article, I&#39;ll show you how to run unit tests more quickly and conveniently....</div>
-                <div><i>24/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-29T18:25:17Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-30T01:22:41Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
