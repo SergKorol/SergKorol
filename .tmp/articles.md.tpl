@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/the-elegant-way-to-await-multiple-tasks-in-net-11pl"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GnQLaIxU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hftjg36f96qlmsj0jm5z.jpg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/the-elegant-way-to-await-multiple-tasks-in-net-11pl">The elegant way to await multiple tasks in .NET.</a>
+                <div>Hello everyone. In this article, we&#39;ll talk about tasks. I&#39;m sure each of you is using async methods,...</div>
+                <div><i>12/11/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/you-write-unit-tests-wrong-5d9f"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GG0lG3cm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ze1w904jlo4fzso8y0ty.jpg" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>15/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-generate-events-on-your-calendar-application-using-net-maui-3793"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IEKKg3ht--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d6uh8p1jrjae0i9sygg.png" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-generate-events-on-your-calendar-application-using-net-maui-3793">Easy way to generate events on your calendar application using...</a>
-                <div>Hello again. It&#39;s become time to write a new article. At this time, I tell you how to create your own...</div>
-                <div><i>08/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-11-12T12:37:08Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-11-12T18:25:26Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
