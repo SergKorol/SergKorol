@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-publish-your-project-1kp8"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_DldrwX3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b84848p4p0mcw4501449.png" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-publish-your-project-1kp8">Easy way to publish your project.</a>
+                <div>Hi folks. Today, I want to touch on a topic about the cloud alternative. All of us talk about code,...</div>
+                <div><i>19/11/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/the-elegant-way-to-await-multiple-tasks-in-net-11pl"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GnQLaIxU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hftjg36f96qlmsj0jm5z.jpg" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>22/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-dont-know-how-to-keep-your-secrets-1a36"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--y491yH3L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cnysdd8qtft6r5s9ymh.jpeg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-dont-know-how-to-keep-your-secrets-1a36">You don&#39;t know how to keep your secrets.</a>
-                <div>I frequently faced that people keep passwords and tokens in the wrong way. Most people keep it in...</div>
-                <div><i>15/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-11-20T01:32:56Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-11-20T06:29:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
