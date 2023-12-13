@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2023-12-13T12:40:56Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-12-13T18:26:33Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 13/12/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/329.png"/>
 
-Light freezing rain
+Patchy moderate snow
 
 
 <table>
@@ -104,6 +104,6 @@ Light freezing rain
 
 <div align="right">
 
-*Updated at: 2023-12-13T12:40:58Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-12-13T18:26:35Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
