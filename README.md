@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2023-12-15T06:28:23Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-12-15T12:40:27Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -85,7 +85,7 @@ Moderate snow
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -104,6 +104,6 @@ Moderate snow
 
 <div align="right">
 
-*Updated at: 2023-12-15T06:28:26Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-12-15T12:40:29Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
