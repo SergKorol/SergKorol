@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 31/12/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Cloudy
+Partly cloudy
 
 
 <table>
@@ -33,6 +33,6 @@ Cloudy
 
 <div align="right">
 
-*Updated at: 2023-12-31T12:37:07Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-12-31T18:25:34Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
