@@ -22,17 +22,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>-10.7 °C</td><td>-10.8 °C</td><td>-11 °C</td><td>-11.1 °C</td><td>-11.3 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.2 °C</td><td>-10.1 °C</td><td>-8.9 °C</td><td>-7.9 °C</td><td>-7.1 °C</td><td>-6.5 °C</td><td>-6.3 °C</td><td>-6.9 °C</td><td>-8.2 °C</td><td>-8.6 °C</td><td>-8.8 °C</td><td>-8.9 °C</td><td>-9 °C</td><td>-9 °C</td><td>-9.1 °C</td>
+        <td>-10.7 °C</td><td>-10.8 °C</td><td>-11 °C</td><td>-11.1 °C</td><td>-11.3 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.5 °C</td><td>-11.2 °C</td><td>-10.1 °C</td><td>-9.1 °C</td><td>-8 °C</td><td>-7.2 °C</td><td>-6.7 °C</td><td>-6.5 °C</td><td>-7 °C</td><td>-8.3 °C</td><td>-8.6 °C</td><td>-8.9 °C</td><td>-9 °C</td><td>-9.1 °C</td><td>-9.2 °C</td><td>-9.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>4 kph</td><td>5 kph</td><td>4.7 kph</td>
+        <td>11.2 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-01-09T12:42:09Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-01-09T18:23:11Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
