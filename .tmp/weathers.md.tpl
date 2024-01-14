@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 14/01/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/326.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png"/>
 
-Light snow
+Light freezing rain
 
 
 <table>
@@ -33,6 +33,6 @@ Light snow
 
 <div align="right">
 
-*Updated at: 2024-01-14T12:37:21Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-01-14T18:26:19Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
