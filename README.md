@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-02-22T01:20:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-02-22T06:26:38Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 22/02/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-Partly Cloudy 
+Overcast 
 
 
 <table>
@@ -104,6 +104,6 @@ Partly Cloudy
 
 <div align="right">
 
-*Updated at: 2024-02-22T01:20:09Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-02-22T06:26:40Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
