@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 29/03/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
 
-Moderate rain
+Heavy rain
 
 
 <table>
@@ -33,6 +33,6 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2024-03-29T06:26:38Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-03-29T12:38:28Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
