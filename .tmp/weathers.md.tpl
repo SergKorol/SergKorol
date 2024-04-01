@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 01/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Sunny
+Patchy rain nearby
 
 
 <table>
@@ -33,6 +33,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2024-04-01T01:34:12Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-01T06:27:40Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
