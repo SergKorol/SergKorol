@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-04-08T06:28:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-04-08T12:37:29Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 08/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Cloudy 
+Partly Cloudy 
 
 
 <table>
@@ -104,6 +104,6 @@ Cloudy
 
 <div align="right">
 
-*Updated at: 2024-04-08T06:28:04Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-08T12:37:30Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
