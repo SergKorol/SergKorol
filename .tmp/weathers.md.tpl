@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 09/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Overcast 
+Partly Cloudy 
 
 
 <table>
@@ -33,6 +33,6 @@ Overcast
 
 <div align="right">
 
-*Updated at: 2024-04-09T12:37:53Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-09T18:23:15Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
