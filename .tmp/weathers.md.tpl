@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 10/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
 
-Partly Cloudy 
+Cloudy 
 
 
 <table>
@@ -33,6 +33,6 @@ Partly Cloudy
 
 <div align="right">
 
-*Updated at: 2024-04-10T06:28:08Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-10T12:37:50Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
