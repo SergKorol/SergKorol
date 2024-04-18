@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-04-18T01:21:59Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-04-18T06:28:06Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 18/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Overcast 
+Patchy rain nearby
 
 
 <table>
@@ -104,6 +104,6 @@ Overcast
 
 <div align="right">
 
-*Updated at: 2024-04-18T01:22:01Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-18T06:28:08Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
