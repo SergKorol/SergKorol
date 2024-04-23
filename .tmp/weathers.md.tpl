@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 23/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-Patchy rain nearby
+Overcast 
 
 
 <table>
@@ -26,13 +26,13 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9.7 kph</td><td>11.9 kph</td><td>15.1 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>19.8 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>15.1 kph</td><td>15.1 kph</td>
+        <td>6.1 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9.7 kph</td><td>11.9 kph</td><td>15.1 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>19.8 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>15.1 kph</td><td>15.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-04-23T01:29:35Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-23T06:29:43Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
