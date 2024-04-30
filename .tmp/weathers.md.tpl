@@ -1,6 +1,6 @@
 
 
-`Lviv, Ukraine - 29/04/2024`
+`Lviv, Ukraine - 30/04/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -22,17 +22,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.5 °C</td><td>11 °C</td><td>10.6 °C</td><td>10.2 °C</td><td>10.2 °C</td><td>10 °C</td><td>10.4 °C</td><td>12.4 °C</td><td>14.3 °C</td><td>15.8 °C</td><td>17.4 °C</td><td>18.4 °C</td><td>19 °C</td><td>19.5 °C</td><td>19.5 °C</td><td>19.4 °C</td><td>19.3 °C</td><td>18.6 °C</td><td>17.1 °C</td><td>15 °C</td><td>12.8 °C</td><td>12.4 °C</td><td>12.2 °C</td><td>11.8 °C</td>
+        <td>12.2 °C</td><td>11.9 °C</td><td>11.3 °C</td><td>10.7 °C</td><td>10.3 °C</td><td>9.8 °C</td><td>9.8 °C</td><td>11.1 °C</td><td>13 °C</td><td>14.4 °C</td><td>15.7 °C</td><td>16.6 °C</td><td>17.4 °C</td><td>18.1 °C</td><td>18.4 °C</td><td>18.7 °C</td><td>18.6 °C</td><td>17.6 °C</td><td>16.3 °C</td><td>14.9 °C</td><td>14.3 °C</td><td>13.9 °C</td><td>13.5 °C</td><td>12.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.9 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>13 kph</td><td>14.4 kph</td><td>15.5 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>20.5 kph</td><td>24.1 kph</td><td>26.3 kph</td><td>27.7 kph</td><td>27 kph</td><td>25.6 kph</td><td>25.6 kph</td><td>25.2 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>20.5 kph</td><td>16.9 kph</td><td>15.5 kph</td><td>17.6 kph</td><td>19.1 kph</td><td>20.2 kph</td>
+        <td>22 kph</td><td>23.8 kph</td><td>23 kph</td><td>22.3 kph</td><td>22.3 kph</td><td>22.3 kph</td><td>21.2 kph</td><td>22.3 kph</td><td>24.1 kph</td><td>27.4 kph</td><td>29.2 kph</td><td>29.9 kph</td><td>30.6 kph</td><td>30.2 kph</td><td>29.9 kph</td><td>28.8 kph</td><td>27.7 kph</td><td>28.4 kph</td><td>28.8 kph</td><td>27.4 kph</td><td>26.6 kph</td><td>25.9 kph</td><td>25.9 kph</td><td>24.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-04-29T18:27:20Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-04-30T06:29:00Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
