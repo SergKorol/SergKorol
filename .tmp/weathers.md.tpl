@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 15/05/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Partly Cloudy 
+Sunny
 
 
 <table>
@@ -33,6 +33,6 @@ Partly Cloudy
 
 <div align="right">
 
-*Updated at: 2024-05-15T01:34:10Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-05-15T06:29:13Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
