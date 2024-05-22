@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-05-22T01:33:26Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-05-22T06:29:48Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 22/05/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Sunny
+Patchy rain nearby
 
 
 <table>
@@ -104,6 +104,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2024-05-22T01:33:28Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-05-22T06:29:51Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
