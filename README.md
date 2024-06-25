@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-06-25T01:36:52Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-06-25T06:31:37Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -97,13 +97,13 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>2.2 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>4 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>9 kph</td>
+        <td>4.7 kph</td><td>2.2 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>4 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-06-25T01:36:54Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-06-25T06:31:40Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
