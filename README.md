@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-07-08T01:40:27Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-07-08T06:32:40Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 08/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
 
-Moderate rain
+Heavy rain
 
 
 <table>
@@ -104,6 +104,6 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2024-07-08T01:40:28Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-07-08T06:32:42Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
