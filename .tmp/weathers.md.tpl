@@ -2,9 +2,9 @@
 
 `Lviv, Ukraine - 11/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 
 <table>
@@ -33,6 +33,6 @@ Patchy rain nearby
 
 <div align="right">
 
-*Updated at: 2024-07-11T01:39:39Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-07-11T06:31:27Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
