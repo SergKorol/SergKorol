@@ -1,6 +1,6 @@
 
 
-`Lviv, Ukraine - 13/07/2024`
+`Lviv, Ucrania - 13/07/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -33,6 +33,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2024-07-13T06:30:49Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-07-13T12:40:12Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
