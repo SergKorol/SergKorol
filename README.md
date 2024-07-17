@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-07-17T01:40:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-07-17T06:32:19Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -73,9 +73,9 @@
 
 `Lviv, Ukraine - 17/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain nearby
 
 
 <table>
@@ -97,13 +97,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>5.4 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>8.6 kph</td><td>14.4 kph</td><td>11.5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>13.7 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>13 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>19.1 kph</td><td>27.4 kph</td>
+        <td>7.9 kph</td><td>5.4 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>8.6 kph</td><td>14.4 kph</td><td>11.5 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>13.7 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>13 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>7.2 kph</td><td>10.1 kph</td><td>19.1 kph</td><td>27.4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-07-17T01:40:08Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-07-17T06:32:21Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
