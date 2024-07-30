@@ -22,17 +22,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>14.6 °C</td><td>13.9 °C</td><td>13.6 °C</td><td>13.3 °C</td><td>14.8 °C</td><td>16.7 °C</td><td>18.6 °C</td><td>20.3 °C</td><td>21.7 °C</td><td>22.9 °C</td><td>23.8 °C</td><td>24.4 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>23.9 °C</td><td>21.8 °C</td><td>18.4 °C</td><td>17.1 °C</td><td>16.6 °C</td><td>16 °C</td>
+        <td>16.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>14.6 °C</td><td>13.9 °C</td><td>13.3 °C</td><td>13.3 °C</td><td>14.6 °C</td><td>16.6 °C</td><td>18.6 °C</td><td>20.4 °C</td><td>21.8 °C</td><td>22.9 °C</td><td>23.8 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>23.9 °C</td><td>21.9 °C</td><td>18.4 °C</td><td>17.2 °C</td><td>16.7 °C</td><td>16.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.5 kph</td><td>19.1 kph</td><td>22 kph</td><td>23 kph</td><td>22.7 kph</td><td>22 kph</td><td>21.6 kph</td><td>23.8 kph</td><td>25.9 kph</td><td>27 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>24.1 kph</td><td>23.8 kph</td><td>23 kph</td><td>22 kph</td><td>19.4 kph</td><td>14 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td>
+        <td>20.5 kph</td><td>19.1 kph</td><td>22 kph</td><td>23 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>22 kph</td><td>24.1 kph</td><td>25.6 kph</td><td>26.6 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23.4 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>19.1 kph</td><td>14 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-07-30T06:32:10Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-07-30T12:45:08Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
