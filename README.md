@@ -11,6 +11,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k">Stop using Newtonsoft.Json</a>
+                <div>Hello folks. In this article, I would like to illustrate why you no longer need to use the...</div>
+                <div><i>02/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-publish-your-project-1kp8"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb84848p4p0mcw4501449.png" alt="thumbnail"></a>
             </td>
             <td>
@@ -49,21 +59,11 @@
                 <div><i>29/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-are-cleaning-a-cache-wrong-1hjo"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3nz7azlu6bf303ipt3mr.jpg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-are-cleaning-a-cache-wrong-1hjo">You are cleaning a cache wrong.</a>
-                <div>Today, I would like to talk about cache. No about how to create or as important caching. I want to...</div>
-                <div><i>22/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-03T06:33:53Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-03T12:47:33Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -93,17 +93,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.9 °C</td><td>17.6 °C</td><td>17.1 °C</td><td>16.7 °C</td><td>16.1 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>17.5 °C</td><td>21.2 °C</td><td>24.2 °C</td><td>26.8 °C</td><td>28.6 °C</td><td>29.7 °C</td><td>30.6 °C</td><td>31.1 °C</td><td>31.3 °C</td><td>30.9 °C</td><td>30.2 °C</td><td>28.1 °C</td><td>23.9 °C</td><td>21.9 °C</td><td>20.8 °C</td><td>20.3 °C</td><td>19.8 °C</td>
+        <td>17.9 °C</td><td>17.6 °C</td><td>17.1 °C</td><td>16.7 °C</td><td>16.1 °C</td><td>15.7 °C</td><td>15.4 °C</td><td>17.5 °C</td><td>21.2 °C</td><td>24.3 °C</td><td>26.7 °C</td><td>28.5 °C</td><td>29.6 °C</td><td>30.3 °C</td><td>30.9 °C</td><td>31.2 °C</td><td>30.9 °C</td><td>30.2 °C</td><td>28.1 °C</td><td>23.7 °C</td><td>21.7 °C</td><td>20.7 °C</td><td>19.9 °C</td><td>19.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.9 kph</td><td>13.7 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>14 kph</td><td>13.7 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>12.2 kph</td>
+        <td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>13.7 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>14 kph</td><td>13 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-09-03T06:33:55Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-09-03T12:47:35Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
