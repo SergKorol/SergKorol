@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k">The Luhn&#39;s algorithm in practice</a>
+                <div>Hi folks, today, I would like to discuss what you probably know. You all used payment systems or paid...</div>
+                <div><i>09/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>04/11/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-to-create-cron-jobs-in-k8s-405m"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6artnd1z8pj4u1clsjx.jpg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/how-to-create-cron-jobs-in-k8s-405m">How to create cron jobs in K8S.</a>
-                <div>Hi folks. Now, I want to show you how to create your custom cron job service. And run it with...</div>
-                <div><i>29/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-11T12:48:37Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-11T18:32:58Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
