@@ -2,6 +2,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47hvgghblgeug9vwe9ne.jpg" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106">Learning to generate classes.</a>
+                <div>Hi folks, In this article, I want to show how to generate classes. Perhaps you face necessity when...</div>
+                <div><i>18/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a>
             </td>
             <td>
@@ -40,20 +50,10 @@
                 <div><i>12/11/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-write-unit-tests-wrong-5d9f"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fze1w904jlo4fzso8y0ty.jpg" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/you-write-unit-tests-wrong-5d9f">You write Unit Tests wrong.</a>
-                <div>Every one of us writes unit tests. Because it is a de facto standard of development. You tend to use...</div>
-                <div><i>04/11/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-09-18T18:33:35Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-19T01:50:13Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
