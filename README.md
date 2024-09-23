@@ -63,7 +63,7 @@
 
 <div align="right">
 
-*Updated at: 2024-09-23T06:36:17Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-23T12:49:50Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -93,17 +93,17 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.6 °C</td><td>13.2 °C</td><td>12.8 °C</td><td>12.4 °C</td><td>12.2 °C</td><td>11.9 °C</td><td>11.6 °C</td><td>12.3 °C</td><td>15 °C</td><td>17.6 °C</td><td>19.8 °C</td><td>21.7 °C</td><td>23 °C</td><td>23.9 °C</td><td>24.4 °C</td><td>24.5 °C</td><td>24.2 °C</td><td>22.8 °C</td><td>19.5 °C</td><td>17.6 °C</td><td>16.8 °C</td><td>15.9 °C</td><td>15.1 °C</td><td>14.7 °C</td>
+        <td>13.6 °C</td><td>13.2 °C</td><td>12.8 °C</td><td>12.5 °C</td><td>12.2 °C</td><td>11.7 °C</td><td>11.4 °C</td><td>12.1 °C</td><td>14.8 °C</td><td>17.4 °C</td><td>19.8 °C</td><td>21.7 °C</td><td>23 °C</td><td>24 °C</td><td>24.5 °C</td><td>24.5 °C</td><td>24.3 °C</td><td>22.7 °C</td><td>19.4 °C</td><td>17.4 °C</td><td>16.5 °C</td><td>15.7 °C</td><td>15.1 °C</td><td>14.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9 kph</td><td>8.6 kph</td><td>9 kph</td><td>9 kph</td><td>9.4 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td>
+        <td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>9 kph</td><td>9.4 kph</td><td>9 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-09-23T06:36:19Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-09-23T12:49:52Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
