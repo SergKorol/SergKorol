@@ -63,11 +63,11 @@
 
 <div align="right">
 
-*Updated at: 2024-09-24T11:35:33Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-09-24T11:36:20Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
-## Today's Weather Forecast in Lviv
+## Today's Weather Forecast in Kyiv
 
 
 
@@ -104,6 +104,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2024-09-24T11:35:40Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-09-24T11:36:22Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
