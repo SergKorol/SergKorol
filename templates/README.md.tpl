@@ -9,6 +9,6 @@
 
 {{ template "articles.md.tpl" }}
 
-## Today's Weather Forecast in Lviv
+## Today's Weather Forecast in Kyiv
 
 {{ template "weathers.md.tpl" }}
