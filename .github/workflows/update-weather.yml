@@ -19,8 +19,6 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
-      - name: Install dependencies
-        run: dotnet restore
       - name: Remove .tmp folder (if it exists)
         run: |
           if [ -d .tmp ]; then
@@ -33,7 +31,8 @@ jobs:
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
-          cd DevToArticlesList
+          dotnet restore
+          cd DevToArticlesList/DevToArticlesList
           dotnet run --project DevToArticlesList.csproj -- \
             --username=serhii_korol_ab7776c50dba \
             --template-file='templates/articles.md.tpl' \
