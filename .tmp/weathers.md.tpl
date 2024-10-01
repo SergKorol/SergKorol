@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Today's Weather Forecast in Kyiv</h1>
+# Today's Weather Forecast in Kyiv
 
 **Kyiv, Ukraine - 2024-10-01**
 
@@ -37,7 +37,7 @@
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
