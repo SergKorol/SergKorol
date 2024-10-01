@@ -40,8 +40,15 @@ jobs:
             --limit=5
       - name: Collect weathers
         run: |
-          go install github.com/huantt/weather-forecast@latest
-          weather-forecast update-weather --days=3 --city=Kyiv  --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
+          git clone https://github.com/SergKorol/ForecastWeather.git
+          cd ForecastWeather/ForecastWeather
+          dotnet restore
+          dotnet run --project ForecastWeather.csproj -- \
+            --days=3 \
+            --city=Kyiv \
+            --weather-api-key="${{ secrets.WEATHER_API_KEY }}" \
+            --template-file='../../templates/weathers.md.tpl' \
+            --out-file='../../.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
           go install github.com/huantt/merge-templates@v1.0.0
