@@ -51,8 +51,14 @@ jobs:
             --out-file='../../.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
-          go install github.com/huantt/merge-templates@v1.0.0
-          merge-templates README.md 'templates/README.md.tpl' '.tmp/articles.md.tpl' '.tmp/weathers.md.tpl'
+          git clone https://github.com/SergKorol/MergeTemplates.git
+          cd MergeTemplates/MergeTemplates
+          dotnet restore
+          dotnet run --project MergeTemplates.csproj -- \
+            README.md \
+            '../../templates/README.md.tpl' \
+            '.tmp/articles.md.tpl' \
+            '.tmp/weathers.md.tpl'
       - name: Commit
         run: |
           git config user.name github-actions
