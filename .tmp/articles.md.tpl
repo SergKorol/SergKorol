@@ -54,6 +54,6 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01T06:37:21Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-10-01T07:19:54Z - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
