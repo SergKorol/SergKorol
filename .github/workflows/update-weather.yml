@@ -57,8 +57,8 @@ jobs:
           dotnet run --project MergeTemplates.csproj -- \
             README.md \
             '../../templates/README.md.tpl' \
-            '.tmp/articles.md.tpl' \
-            '.tmp/weathers.md.tpl'
+            '../../.tmp/articles.md.tpl' \
+            '../../.tmp/weathers.md.tpl'
       - name: Commit
         run: |
           git config user.name github-actions
