@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-10-01</b>
 
-![Clear](https://cdn.weatherapi.com/weather/64x64/night/113.png)
+![Partly Cloudy](https://cdn.weatherapi.com/weather/64x64/night/116.png)
 
-<b>Clear</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01 16:20:40 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+*Updated at: 2024-10-01 18:35:13 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
 
 </div>
