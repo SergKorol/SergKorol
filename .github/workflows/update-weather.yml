@@ -33,7 +33,6 @@ jobs:
           git clone https://github.com/SergKorol/DevToArticlesList.git
           cd DevToArticlesList/DevToArticlesList
           dotnet restore
-          cd ../
           dotnet run --project DevToArticlesList.csproj -- \
             --username=serhii_korol_ab7776c50dba \
             --template-file='templates/articles.md.tpl' \
