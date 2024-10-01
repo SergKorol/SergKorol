@@ -55,7 +55,7 @@ jobs:
           cd MergeTemplates/MergeTemplates
           dotnet restore
           dotnet run --project MergeTemplates.csproj -- \
-            README.md \
+            ../../README.md \
             '../../templates/README.md.tpl' \
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
