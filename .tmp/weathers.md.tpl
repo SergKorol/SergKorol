@@ -146,6 +146,6 @@
 
 <div align="right">
 
-*Updated at: {{UpdatedDateTime}} - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+*Updated at: 2024-10-01 16:01:08 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
 
 </div>
