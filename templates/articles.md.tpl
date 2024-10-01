@@ -1,8 +1,6 @@
-<div align="center">
-    <table>
+<table>
         {{ArticlesTable}}
-    </table>
-</div>
+</table>
 
 <div align="right">
 
