@@ -5,7 +5,7 @@
 
 ![{{ TodayWeatherCondition }}]({{ TodayWeatherConditionIcon }})
 
-**{{ TodayWeatherCondition }}**
+<b>{{ TodayWeatherCondition }}</b>
 </div>
 
 <table>
