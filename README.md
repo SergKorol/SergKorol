@@ -33,15 +33,15 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01 16:01:04 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+*Updated at: 2024-10-01 16:07:07 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
 
 
 <div align="center">
-# Today's Weather Forecast in Kyiv
+<h3>Today's Weather Forecast in Kyiv</h3>
 
-**Kyiv, Ukraine - 2024-10-01**
+<b>Kyiv, Ukraine - 2024-10-01</b>
 
 ![Sunny](https://cdn.weatherapi.com/weather/64x64/day/113.png)
 
@@ -95,7 +95,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01 16:01:08 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+*Updated at: 2024-10-01 16:07:11 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
 
 </div>
 
