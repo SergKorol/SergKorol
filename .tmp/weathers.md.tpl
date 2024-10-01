@@ -145,5 +145,5 @@
 </table>
 
 <div align="right">
-*Updated at: 2024-10-01T12:39:50Z - by **[SergKorol/ForecastWeather](https://github.com/SergKorol/ForecastWeather)***
+*Updated at: 2024-10-01T12:42:58Z - by [SergKorol/ForecastWeather](https://github.com/SergKorol/ForecastWeather)*
 </div>
