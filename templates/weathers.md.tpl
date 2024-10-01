@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Today's Weather Forecast in {{ City }}</h1>
+# Today's Weather Forecast in {{ City }}
 
 **{{ City }}, {{ Country }} - {{ TodayWeatherDate }}**
 
