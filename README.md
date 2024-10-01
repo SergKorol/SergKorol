@@ -11,6 +11,16 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a>
+            </td>
+            <td>
+                <a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a>
+                <div>Hi folks, You definitely faced the problem of creating a class where you registered a lot of services...</div>
+                <div><i>30/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswxkul2iichy9xb8uxlq.png" alt="thumbnail"></a>
             </td>
             <td>
@@ -49,21 +59,11 @@
                 <div><i>02/09/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-publish-your-project-1kp8"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb84848p4p0mcw4501449.png" alt="thumbnail"></a>
-            </td>
-            <td>
-                <a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-publish-your-project-1kp8">Easy way to publish your project.</a>
-                <div>Hi folks. Today, I want to touch on a topic about the cloud alternative. All of us talk about code,...</div>
-                <div><i>19/11/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-10-01T02:02:10Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-10-01T06:37:21Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -104,6 +104,6 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2024-10-01T02:02:12Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-10-01T06:37:23Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
