@@ -1,17 +1,17 @@
-{{ with $todayWeather := index .Weathers 0 }}
+<div align="center">
+<h1>Today's Weather Forecast in {{ City }}</h1>
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+**{{ City }}, {{ Country }} - {{ TodayWeatherDate }}**
 
-<img src="{{ $todayWeather.Icon}}"/>
+![{{ TodayWeatherCondition }}]({{ TodayWeatherConditionIcon }})
 
-{{ $todayWeather.Condition }}
+**{{ TodayWeatherCondition }}**
+</div>
 
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
+<table>
+    {{ WeathersTable }}
+</table>
 
 <div align="right">
-
-*Updated at: {{formatTime .UpdatedAt}} - by **[SergKorol/ForecastWeather](https://github.com/SergKorol/ForecastWeather)***
-
+*Updated at: {{ UpdatedDateTime }} - by **[SergKorol/ForecastWeather](https://github.com/SergKorol/ForecastWeather)***
 </div>
