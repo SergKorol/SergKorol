@@ -3,7 +3,7 @@
 
 **Kyiv, Ukraine - 2024-10-01**
 
-![Sunny](//cdn.weatherapi.com/weather/64x64/day/113.png)
+![Sunny](https//cdn.weatherapi.com/weather/64x64/day/113.png)
 
 **Sunny**
 </div>
@@ -144,6 +144,3 @@
 
 </table>
 
-<div align="right">
-*Updated at: 2024-10-01T12:46:07Z - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
-</div>
