@@ -8,5 +8,5 @@
 ## My Recent Articles
 
 {{ template "articles.md.tpl" }}
-
+<hr>
 {{ template "weathers.md.tpl" }}
