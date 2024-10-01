@@ -1,7 +1,7 @@
 <div align="center">
-# Today's Weather Forecast in {{ City }}
+<h3>Today's Weather Forecast in {{ City }}</h3>
 
-**{{ City }}, {{ Country }} - {{ TodayWeatherDate }}**
+<b>{{ City }}, {{ Country }} - {{ TodayWeatherDate }}</b>
 
 ![{{ TodayWeatherCondition }}]({{ TodayWeatherConditionIcon }})
 
@@ -14,6 +14,6 @@
 
 <div align="right">
 
-*Updated at: {{ UpdatedDateTime }} - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+*Updated at: {{ WeatherUpdatedDateTime }} - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
 
 </div>
