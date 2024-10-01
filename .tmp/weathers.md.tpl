@@ -37,7 +37,7 @@
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
-<td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
