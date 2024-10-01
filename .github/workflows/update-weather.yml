@@ -35,7 +35,7 @@ jobs:
           dotnet restore
           dotnet run --project DevToArticlesList.csproj -- \
             --username=serhii_korol_ab7776c50dba \
-            --template-file='../templates/articles.md.tpl' \
+            --template-file='../../templates/articles.md.tpl' \
             --out-file='../.tmp/articles.md.tpl' \
             --limit=5
       - name: Collect weathers
