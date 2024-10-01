@@ -1,5 +1,4 @@
-<div align="center">
-    <table>
+<table>
         <tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a></td>
@@ -21,11 +20,10 @@
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k">Stop using Newtonsoft.Json</a></td>
 </tr>
 
-    </table>
-</div>
+</table>
 
 <div align="right">
 
-*Updated at: 2024-10-01 08:35:48 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+*Updated at: 2024-10-01 08:43:09 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
