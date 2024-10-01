@@ -33,11 +33,11 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01 16:07:07 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+*Updated at: 2024-10-01 16:09:50 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
 
-
+<hr>
 <div align="center">
 <h3>Today's Weather Forecast in Kyiv</h3>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-*Updated at: 2024-10-01 16:07:11 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+*Updated at: 2024-10-01 16:09:53 - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
 
 </div>
 
