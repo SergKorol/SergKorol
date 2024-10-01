@@ -1,7 +1,9 @@
-{{ template "article-table" .Articles }}
+<table>
+    {{ArticlesTable}}
+</table>
 
 <div align="right">
 
-*Updated at: {{formatTime .Time}} - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+*Updated at: {{UpdatedDateTime}} - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
