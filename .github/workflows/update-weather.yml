@@ -31,8 +31,8 @@ jobs:
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
-          dotnet restore
           cd DevToArticlesList
+          dotnet restore
           dotnet run --project DevToArticlesList.csproj -- \
             --username=serhii_korol_ab7776c50dba \
             --template-file='templates/articles.md.tpl' \
