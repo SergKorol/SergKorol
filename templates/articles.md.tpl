@@ -2,6 +2,6 @@
 
 <div align="right">
 
-*Updated at: {{formatTime .Time}} - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: {{formatTime .Time}} - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
