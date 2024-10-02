@@ -14,6 +14,6 @@
 
 <div align="right">
 
-*Updated at: {{ WeatherUpdatedDateTime }} - by **[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)***
+<i>Updated at: {{ WeatherUpdatedDateTime }} - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b</i>
 
 </div>
