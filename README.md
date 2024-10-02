@@ -9,23 +9,23 @@
 
 <table>
         <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a><hr><b>2024-09-30 11:12:19</b></td>
 </tr>
 <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswxkul2iichy9xb8uxlq.png" alt="thumbnail"></a></td>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswxkul2iichy9xb8uxlq.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n">Learning to write custom Expressions</a><hr><b>2024-09-25 11:58:27</b></td>
 </tr>
 <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47hvgghblgeug9vwe9ne.jpg" alt="thumbnail"></a></td>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47hvgghblgeug9vwe9ne.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106">Learning to generate classes.</a><hr><b>2024-09-18 12:58:26</b></td>
 </tr>
 <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a></td>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k">The Luhn&#39;s algorithm in practice</a><hr><b>2024-09-11 11:46:39</b></td>
 </tr>
 <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a></td>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k">Stop using Newtonsoft.Json</a><hr><b>2024-09-02 13:04:31</b></td>
 </tr>
 
@@ -33,7 +33,7 @@
 
 <div align="right">
 
-*Updated at: 2024-10-02 12:50:07 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+*Updated at: 2024-10-02 18:35:31 - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <b>Kyiv, Ukraine - 2024-10-02</b>
 
-![Partly Cloudy](https://cdn.weatherapi.com/weather/64x64/day/116.png)
+![Partly Cloudy](https://cdn.weatherapi.com/weather/64x64/night/116.png)
 
 <b>Partly Cloudy</b>
 </div>
@@ -88,19 +88,19 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -114,19 +114,19 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
 <td>Overcast </td>
 <td>Cloudy </td>
+<td>Overcast </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Clear </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
 <td>12.2 °C</td>
@@ -140,19 +140,19 @@
 <td>11.6 °C</td>
 <td>12.8 °C</td>
 <td>14 °C</td>
-<td>15.3 °C</td>
-<td>15.3 °C</td>
-<td>15.1 °C</td>
-<td>15.2 °C</td>
-<td>15.3 °C</td>
+<td>14.9 °C</td>
+<td>15.6 °C</td>
 <td>15.4 °C</td>
 <td>15.1 °C</td>
-<td>15 °C</td>
-<td>15.1 °C</td>
-<td>15.2 °C</td>
-<td>15.5 °C</td>
 <td>14.9 °C</td>
-<td>13.8 °C</td>
+<td>14.9 °C</td>
+<td>14.9 °C</td>
+<td>15.1 °C</td>
+<td>15 °C</td>
+<td>14.7 °C</td>
+<td>14.5 °C</td>
+<td>13.6 °C</td>
+<td>13.1 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>14.4 kph</td>
@@ -166,19 +166,19 @@
 <td>10.8 kph</td>
 <td>9.4 kph</td>
 <td>7.6 kph</td>
+<td>5.8 kph</td>
 <td>5 kph</td>
 <td>4.3 kph</td>
+<td>4.3 kph</td>
 <td>4 kph</td>
-<td>5 kph</td>
-<td>5 kph</td>
-<td>5 kph</td>
-<td>4 kph</td>
-<td>5.4 kph</td>
-<td>4 kph</td>
+<td>3.2 kph</td>
+<td>3.2 kph</td>
+<td>2.5 kph</td>
 <td>3.6 kph</td>
+<td>3.2 kph</td>
+<td>5 kph</td>
 <td>5.4 kph</td>
-<td>5.4 kph</td>
-<td>5.4 kph</td>
+<td>5.8 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-10-02 12:50:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-10-02 18:35:35 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
