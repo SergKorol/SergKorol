@@ -3,7 +3,7 @@
 
 <b>{{ City }}, {{ Country }} - {{ TodayWeatherDate }}</b>
 
-<img src="{{ TodayWeatherConditionIcon }}" alt="{{ TodayWeatherCondition }}"
+<img src="{{ TodayWeatherConditionIcon }}" alt="{{ TodayWeatherCondition }}" />
 
 <b>{{ TodayWeatherCondition }}</b>
 </div>
