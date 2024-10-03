@@ -4,6 +4,6 @@
 
 <div align="right">
 
-*Updated at: {{UpdatedDateTime}} - by **[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)***
+<i>Updated at: {{UpdatedDateTime}} - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
