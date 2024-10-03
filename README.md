@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzvtphagkpavfoyiw5om7.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo">The simple way to analyze your code using SonarQube.</a><hr><p>Hi folks, In this article, I'll show you a simple way to install SonarQube and analyze your code.    ...</p><br><i>Published by: Serhii Korol</i><br><b>10/03/2024 11:08:46</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a><hr><p>Hi folks, You definitely faced the problem of creating a class where you registered a lot of services...</p><br><i>Published by: Serhii Korol</i><br><b>09/30/2024 11:12:19</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k">The Luhn's algorithm in practice</a><hr><p>Hi folks, today, I would like to discuss what you probably know. You all used payment systems or paid...</p><br><i>Published by: Serhii Korol</i><br><b>09/11/2024 11:46:39</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k">Stop using Newtonsoft.Json</a><hr><p>Hello folks. In this article, I would like to illustrate why you no longer need to use the...</p><br><i>Published by: Serhii Korol</i><br><b>09/02/2024 13:04:31</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-10-03 08:09:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-10-03 12:49:58 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-10-03</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Partly Cloudy</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -134,25 +134,25 @@
 <td>11.9 °C</td>
 <td>11.8 °C</td>
 <td>11.9 °C</td>
-<td>12.2 °C</td>
-<td>12.4 °C</td>
-<td>12.9 °C</td>
-<td>14 °C</td>
+<td>12.1 °C</td>
+<td>12.3 °C</td>
+<td>12.8 °C</td>
+<td>14.1 °C</td>
 <td>15.6 °C</td>
-<td>18.1 °C</td>
-<td>20.6 °C</td>
-<td>22.1 °C</td>
+<td>18 °C</td>
+<td>20.4 °C</td>
+<td>21.9 °C</td>
 <td>22.9 °C</td>
 <td>23.1 °C</td>
-<td>22.9 °C</td>
-<td>22.1 °C</td>
-<td>20.9 °C</td>
-<td>20.5 °C</td>
-<td>19.6 °C</td>
+<td>23 °C</td>
+<td>22.3 °C</td>
+<td>20.8 °C</td>
+<td>19.4 °C</td>
+<td>18.9 °C</td>
 <td>18.4 °C</td>
-<td>17.9 °C</td>
 <td>17.7 °C</td>
 <td>17.3 °C</td>
+<td>16.8 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>6.5 kph</td>
@@ -160,25 +160,25 @@
 <td>6.8 kph</td>
 <td>7.9 kph</td>
 <td>9.4 kph</td>
+<td>9 kph</td>
 <td>9.7 kph</td>
-<td>10.1 kph</td>
 <td>10.4 kph</td>
-<td>11.9 kph</td>
-<td>14.8 kph</td>
-<td>18.7 kph</td>
-<td>20.2 kph</td>
-<td>21.2 kph</td>
-<td>22 kph</td>
-<td>20.9 kph</td>
-<td>18.4 kph</td>
-<td>14.8 kph</td>
-<td>11.2 kph</td>
-<td>10.8 kph</td>
 <td>11.5 kph</td>
-<td>11.9 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
-<td>11.9 kph</td>
+<td>14 kph</td>
+<td>17.3 kph</td>
+<td>18.7 kph</td>
+<td>19.8 kph</td>
+<td>20.5 kph</td>
+<td>21.2 kph</td>
+<td>18.4 kph</td>
+<td>15.1 kph</td>
+<td>11.5 kph</td>
+<td>9 kph</td>
+<td>8.3 kph</td>
+<td>8.6 kph</td>
+<td>10.1 kph</td>
+<td>11.2 kph</td>
+<td>11.5 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-10-03 08:09:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-10-03 12:50:01 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 

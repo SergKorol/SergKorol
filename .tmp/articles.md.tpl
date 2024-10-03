@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzvtphagkpavfoyiw5om7.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo">The simple way to analyze your code using SonarQube.</a><hr><p>Hi folks, In this article, I'll show you a simple way to install SonarQube and analyze your code.    ...</p><br><i>Published by: Serhii Korol</i><br><b>10/03/2024 11:08:46</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a><hr><p>Hi folks, You definitely faced the problem of creating a class where you registered a lot of services...</p><br><i>Published by: Serhii Korol</i><br><b>09/30/2024 11:12:19</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femrlyw7km25yog9k8jba.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k">The Luhn's algorithm in practice</a><hr><p>Hi folks, today, I would like to discuss what you probably know. You all used payment systems or paid...</p><br><i>Published by: Serhii Korol</i><br><b>09/11/2024 11:46:39</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ets47naq3d1mk4rxq7u.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/stop-using-newtonsoftjson-1l5k">Stop using Newtonsoft.Json</a><hr><p>Hello folks. In this article, I would like to illustrate why you no longer need to use the...</p><br><i>Published by: Serhii Korol</i><br><b>09/02/2024 13:04:31</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-10-03 08:09:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-10-03 12:49:58 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
