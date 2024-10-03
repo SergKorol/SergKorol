@@ -34,7 +34,7 @@ jobs:
           cd DevToArticlesList/DevToArticlesList
           dotnet restore
           dotnet run --project DevToArticlesList.csproj -- \
-            --username=serhii_korol_ab7776c50dba \
+            --api-key="${{ secrets.DEV_TO_API_KEY }}" \
             --template-file='../../templates/articles.md.tpl' \
             --out-file='../../.tmp/articles.md.tpl' \
             --limit=5
