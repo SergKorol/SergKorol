@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksqbb3eawzs15z59xm5.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid">Understanding multithreading</a><hr><p>Hi folks! In this article, I would like to discuss multithreading, how it can be used in genuine...</p><br><i>Published by: Serhii Korol</i><br><b>10/16/2024 11:06:18</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvl22i710kh87ncty1ajh.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l">Safe cleaning NuGet cache.</a><hr><p>Hi folks! I want to discuss about NuGet packages. If you frequently work with different .NET...</p><br><i>Published by: Serhii Korol</i><br><b>10/04/2024 07:26:49</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswxkul2iichy9xb8uxlq.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n">Learning to write custom Expressions</a><hr><p>Hi folks! In the following article, I want to discuss Expressions. For example, I'll show you how...</p><br><i>Published by: Serhii Korol</i><br><b>09/25/2024 11:58:27</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47hvgghblgeug9vwe9ne.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-generate-classes-1106">Learning to generate classes.</a><hr><p>Hi folks, In this article, I want to show how to generate classes. Perhaps you face necessity when...</p><br><i>Published by: Serhii Korol</i><br><b>09/18/2024 12:58:26</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-10-16 06:35:38 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-10-16 12:50:11 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
