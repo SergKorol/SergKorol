@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd30cvjrlt3c7871mkymi.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o">Easy way to use DynamoDB locally and manage data.</a><hr><p>Hi folks! Today, I want to discuss DynamoDB from Amazon. I'll implement the client and simple CRUD...</p><br><i>Published by: Serhii Korol</i><br><b>10/18/2024 10:14:30</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksqbb3eawzs15z59xm5.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid">Understanding multithreading</a><hr><p>Hi folks! In this article, I would like to discuss multithreading, how it can be used in genuine...</p><br><i>Published by: Serhii Korol</i><br><b>10/16/2024 11:06:18</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a><hr><p>Hi folks, You definitely faced the problem of creating a class where you registered a lot of services...</p><br><i>Published by: Serhii Korol</i><br><b>09/30/2024 11:12:19</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswxkul2iichy9xb8uxlq.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/learning-to-write-custom-expressions-1p2n">Learning to write custom Expressions</a><hr><p>Hi folks! In the following article, I want to discuss Expressions. For example, I'll show you how...</p><br><i>Published by: Serhii Korol</i><br><b>09/25/2024 11:58:27</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-10-18 06:35:42 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-10-18 12:49:42 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
