@@ -69,8 +69,8 @@ jobs:
       - name: Post published articles to LinkedIn.com
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
+          cp .tmp/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
           cd PostDevToLi/PostDevToLi
-          cp ../../.tmp/posted_articles.db posted_articles.db
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
