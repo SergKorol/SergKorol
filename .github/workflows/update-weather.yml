@@ -12,23 +12,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Checkout code
         uses: actions/checkout@v3
         with:
           node-version: '20'
+
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
+
       - name: Remove .tmp folder (if it exists)
         run: |
           if [ -d .tmp ]; then
             rm -rf .tmp
           fi
+
       - name: Prepare
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
           mkdir .tmp
+
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
@@ -39,6 +44,7 @@ jobs:
             --template-file='../../templates/articles.md.tpl' \
             --out-file='../../.tmp/articles.md.tpl' \
             --limit=5
+
       - name: Collect weathers
         run: |
           git clone https://github.com/SergKorol/ForecastWeather.git
@@ -50,6 +56,7 @@ jobs:
             --weather-api-key="${{ secrets.WEATHER_API_KEY }}" \
             --template-file='../../templates/weathers.md.tpl' \
             --out-file='../../.tmp/weathers.md.tpl'
+
       - name: Merge templates
         run: |
           git clone https://github.com/SergKorol/MergeTemplates.git
@@ -60,11 +67,14 @@ jobs:
             '../../templates/README.md.tpl' \
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
-      - name: Install SQLite
-        run: sudo apt-get install sqlite3 libsqlite3-dev
-      - name: Install dotnet-ef tool
-        run: dotnet tool install --global dotnet-ef
-      - name: Post published articles to linkedin
+
+      - name: Download SQLite database (if exists)
+        uses: actions/download-artifact@v3
+        with:
+          name: sqlite-db
+          path: PostDevToLi/PostDevToLi/posted_articles.db
+
+      - name: Post published articles to LinkedIn
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
@@ -74,6 +84,13 @@ jobs:
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
+
+      - name: Upload SQLite database
+        uses: actions/upload-artifact@v3
+        with:
+          name: sqlite-db
+          path: PostDevToLi/PostDevToLi/posted_articles.db
+
       - name: Commit
         run: |
           git config user.name github-actions
