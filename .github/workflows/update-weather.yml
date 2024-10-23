@@ -63,9 +63,9 @@ jobs:
       - name: Post published articles to LI
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
-          cd DevToArticlesList/DevToArticlesList
+          cd PostDevToLi/PostDevToLi
           dotnet restore
-          dotnet run --project DevToArticlesList.csproj -- \
+          dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
