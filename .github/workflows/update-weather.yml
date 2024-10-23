@@ -13,11 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          node-version: '20'
-
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
@@ -28,18 +23,20 @@ jobs:
           if [ -d .tmp ]; then
             rm -rf .tmp
           fi
-
-      - name: Prepare
-        run: |
-          export PATH=$PATH:$(go env GOPATH)/bin
           mkdir .tmp
 
       - name: Download SQLite database (if exists)
         uses: actions/download-artifact@v3
         with:
           name: sqlite-db
-          path: PostDevToLi/PostDevToLi/posted_articles.db
+          path: .tmp/
         continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
+
+      - name: Copy database to PostDevToLi
+        run: |
+          if [ -f .tmp/posted_articles.db ]; then
+            cp .tmp/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
+          fi
 
       - name: Collect articles
         run: |
@@ -75,7 +72,7 @@ jobs:
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
 
-      - name: Post published articles to LinkedIn.com
+      - name: Post published articles to LinkedIn
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
@@ -85,11 +82,15 @@ jobs:
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
 
+      - name: Copy database back to .tmp
+        run: |
+          cp PostDevToLi/PostDevToLi/posted_articles.db .tmp/posted_articles.db
+
       - name: Upload SQLite database
         uses: actions/upload-artifact@v3
         with:
           name: sqlite-db
-          path: PostDevToLi/PostDevToLi/posted_articles.db
+          path: .tmp/posted_articles.db
 
       - name: Commit
         run: |
