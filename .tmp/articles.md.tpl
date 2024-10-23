@@ -1,9 +1,5 @@
 <table>
         <tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5cykmama5ywx9r6pjrpj.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5">Automatically posting articles from dev.to to linkedin.com</a><hr><p>Hi authors, this article is dedicated to expanding the coverage of your articles. Almost every...</p><br><i>Published by: Serhii Korol</i><br><b>10/23/2024 10:54:11</b></td>
-</tr>
-<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd30cvjrlt3c7871mkymi.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o">Easy way to use DynamoDB locally and manage data.</a><hr><p>Hi folks! Today, I want to discuss DynamoDB from Amazon. I'll implement the client and simple CRUD...</p><br><i>Published by: Serhii Korol</i><br><b>10/18/2024 10:14:30</b></td>
 </tr>
@@ -19,11 +15,15 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzvtphagkpavfoyiw5om7.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo">The simple way to analyze your code using SonarQube.</a><hr><p>Hi folks, In this article, I'll show you a simple way to install SonarQube and analyze your code.    ...</p><br><i>Published by: Serhii Korol</i><br><b>10/03/2024 11:08:46</b></td>
 </tr>
+<tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdds5zyos8vd5mp0a97y9.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/an-alternative-approach-to-register-services-9ak">An alternative approach to register services.</a><hr><p>Hi folks, You definitely faced the problem of creating a class where you registered a lot of services...</p><br><i>Published by: Serhii Korol</i><br><b>09/30/2024 11:12:19</b></td>
+</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-10-23 21:24:16 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-10-23 21:43:52 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
