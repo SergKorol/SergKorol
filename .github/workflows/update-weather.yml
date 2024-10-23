@@ -75,7 +75,7 @@ jobs:
           path: PostDevToLi/PostDevToLi/posted_articles.db
         continue-on-error: true
 
-      - name: Post published articles to LinkedIn
+      - name: Post published articles to LinkedIn.com
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
