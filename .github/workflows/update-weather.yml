@@ -73,6 +73,7 @@ jobs:
         with:
           name: sqlite-db
           path: PostDevToLi/PostDevToLi/posted_articles.db
+        continue-on-error: true
 
       - name: Post published articles to LinkedIn
         run: |
