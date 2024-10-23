@@ -69,14 +69,16 @@ jobs:
       - name: Post published articles to LinkedIn.com
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
-          ls
+          if [ -f templates/posted_articles.db ]; then
+            cp templates/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
+          fi
           cd PostDevToLi/PostDevToLi
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
-          cp posted_articles.db ../../.tmp/posted_articles.db
+          cp posted_articles.db ../../templates/posted_articles.db
 
       - name: Upload SQLite database
         uses: actions/upload-artifact@v3
