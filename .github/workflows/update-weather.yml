@@ -34,6 +34,13 @@ jobs:
           export PATH=$PATH:$(go env GOPATH)/bin
           mkdir .tmp
 
+      - name: Download SQLite database (if exists)
+        uses: actions/download-artifact@v3
+        with:
+          name: sqlite-db
+          path: PostDevToLi/PostDevToLi/posted_articles.db
+        continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
+
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
@@ -68,14 +75,7 @@ jobs:
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
 
-      - name: Download SQLite database (if exists)
-        uses: actions/download-artifact@v3
-        with:
-          name: sqlite-db
-          path: PostDevToLi/PostDevToLi/posted_articles.db
-        continue-on-error: true
-
-      - name: Post published articles to LinkedIn.com
+      - name: Post published articles to LinkedIn
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
