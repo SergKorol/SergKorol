@@ -60,7 +60,7 @@ jobs:
             '../../templates/README.md.tpl' \
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
-      - name: Post published articles to LinkedIn
+      - name: Post published articles to linkedin.com
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
