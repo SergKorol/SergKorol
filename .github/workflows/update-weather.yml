@@ -60,6 +60,8 @@ jobs:
             '../../templates/README.md.tpl' \
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
+      - name: Install SQLite
+        run: sudo apt-get install sqlite3 libsqlite3-dev
       - name: Install dotnet-ef tool
         run: dotnet tool install --global dotnet-ef
       - name: Post published articles to linkedin
