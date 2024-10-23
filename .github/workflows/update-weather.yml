@@ -60,6 +60,15 @@ jobs:
             '../../templates/README.md.tpl' \
             '../../.tmp/articles.md.tpl' \
             '../../.tmp/weathers.md.tpl'
+      - name: Post published articles to LI
+        run: |
+          git clone https://github.com/SergKorol/PostDevToLi.git
+          cd DevToArticlesList/DevToArticlesList
+          dotnet restore
+          dotnet run --project DevToArticlesList.csproj -- \
+          --api-key="${{ secrets.DEV_TO_API_KEY }}" \
+          --access-token="${{ secrets.ACCESS_TOKEN }}" \
+          --ago=72
       - name: Commit
         run: |
           git config user.name github-actions
