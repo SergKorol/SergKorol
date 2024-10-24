@@ -30,7 +30,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: sqlite-db
-          path: ./data/
+          path: ./PostDevToLi/PostDevToLi
         continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
 
 
@@ -82,7 +82,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: sqlite-db
-          path: ./data/posted_articles.db
+          path: ./PostDevToLi/PostDevToLi/posted_articles.db
 
       - name: Commit
         run: |
