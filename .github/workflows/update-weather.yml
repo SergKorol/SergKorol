@@ -88,7 +88,6 @@ jobs:
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
-          cp posted_articles.db ../../data/posted_articles.db
 
       - name: Upload SQLite database
         uses: actions/upload-artifact@v3
