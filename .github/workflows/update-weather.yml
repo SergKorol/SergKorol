@@ -25,6 +25,13 @@ jobs:
           fi
           mkdir .tmp
 
+      - name: Remove data folder (if it exists)
+        run: |
+          if [ -d data ]; then
+            rm -rf data
+          fi
+          mkdir data
+
       - name: Download SQLite database (if exists)
         uses: actions/download-artifact@v3
         with:
