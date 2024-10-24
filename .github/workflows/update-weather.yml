@@ -79,6 +79,7 @@ jobs:
           --ago=72
       - name: Copy DB to the correct folder
         run: |
+          mkdir -p ./data
           cp PostDevToLi/PostDevToLi/posted_articles.db ./data/posted_articles.db
           
       - name: Upload SQLite database
