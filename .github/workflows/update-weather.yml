@@ -78,7 +78,6 @@ jobs:
               exit 1
               fi
           fi
-          ls -R
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
