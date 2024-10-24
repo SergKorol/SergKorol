@@ -26,15 +26,15 @@ jobs:
           mkdir .tmp
 
 
-      - name: Set up DB path environment variable
-        run: echo "DB_PATH=$GITHUB_WORKSPACE/posted_articles.db" >> $GITHUB_ENV
-      
+      - name: Ensure data folder exists
+        run: mkdir -p ./data
+
       - name: Download SQLite database (if exists)
         uses: actions/download-artifact@v4
         with:
           name: sqlite-db
           path: ./data/
-        continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
+        continue-on-error: true
 
 
       - name: Collect articles
@@ -83,7 +83,6 @@ jobs:
           ls -R
       - name: Copy DB to the correct folder
         run: |
-          mkdir -p ./data
           cp PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db ./data/posted_articles.db
           
       - name: Upload SQLite database
