@@ -26,6 +26,9 @@ jobs:
           mkdir .tmp
 
 
+      - name: Set up DB path environment variable
+        run: echo "DB_PATH=$GITHUB_WORKSPACE/posted_articles.db" >> $GITHUB_ENV
+      
       - name: Download SQLite database (if exists)
         uses: actions/download-artifact@v4
         with:
