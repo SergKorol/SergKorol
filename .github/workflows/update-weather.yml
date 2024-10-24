@@ -38,9 +38,6 @@ jobs:
             cp data/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
           fi
 
-      - name: Display downloaded file
-        run: ls data/
-
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
