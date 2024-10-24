@@ -75,6 +75,7 @@ jobs:
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
+          dotnet rebuild
           ls -R
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
