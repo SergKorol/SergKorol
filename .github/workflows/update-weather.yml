@@ -74,7 +74,14 @@ jobs:
       - name: Post published articles to LinkedIn
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
-          cp ../../data/posted_articles_new.db ./PostDevToLi/PostDevToLi
+          if [ -f ./data/posted_articles_new.db ]; then
+            cp ./data/posted_articles_new.db ./PostDevToLi/PostDevToLi
+            if [ $? -ne 0 ]; then
+              echo "Error: Failed to copy the database."
+              exit 1
+            fi
+          fi
+          
           cd PostDevToLi/PostDevToLi
           ls -R
           dotnet restore
