@@ -30,7 +30,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: sqlite-db
-          path: ./PostDevToLi/PostDevToLi
+          path: ./data/
         continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
 
 
@@ -77,12 +77,15 @@ jobs:
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
-
+      - name: Copy DB to the correct folder
+        run: |
+          cp PostDevToLi/PostDevToLi/posted_articles.db ./data/posted_articles.db
+          
       - name: Upload SQLite database
         uses: actions/upload-artifact@v4
         with:
           name: sqlite-db
-          path: ./PostDevToLi/PostDevToLi/posted_articles.db
+          path: ./data/posted_articles.db
 
       - name: Commit
         run: |
