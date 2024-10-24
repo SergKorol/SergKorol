@@ -75,12 +75,12 @@ jobs:
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
+          ls -R
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
           --ago=72
-          ls -R
       - name: Copy DB to the correct folder
         run: |
           cp PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db ./data/posted_articles.db
