@@ -74,10 +74,12 @@ jobs:
       - name: Post published articles to LinkedIn
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
-          rm -rf PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db
-          cp ./data/posted_articles.db PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db
+          
           cd PostDevToLi/PostDevToLi
           dotnet restore
+          dotnet build
+          rm -rf bin/Debug/net8.0/posted_articles.db
+          cp ./data/posted_articles.db bin/Debug/net8.0/posted_articles.db
           dotnet run --project PostDevToLi.csproj -- \
           --api-key="${{ secrets.DEV_TO_API_KEY }}" \
           --access-token="${{ secrets.ACCESS_TOKEN }}" \
