@@ -84,7 +84,7 @@ jobs:
       - name: Copy DB to the correct folder
         run: |
           mkdir -p ./data
-          cp PostDevToLi/PostDevToLi/posted_articles.db ./data/posted_articles.db
+          cp PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db ./data/posted_articles.db
           
       - name: Upload SQLite database
         uses: actions/upload-artifact@v4
