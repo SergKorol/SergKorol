@@ -71,7 +71,7 @@ jobs:
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
           dotnet build
-          cp ./data/posted_articles.db ./bin/Debug/net8.0/
+          cp ../../data/posted_articles.db ./bin/Debug/net8.0/
           ls -R
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
