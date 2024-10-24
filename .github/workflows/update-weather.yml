@@ -69,9 +69,6 @@ jobs:
       - name: Post published articles to LinkedIn.com
         run: |
           git clone https://github.com/SergKorol/PostDevToLi.git
-          if [ -f templates/posted_articles.db ]; then
-            cp templates/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
-          fi
           cd PostDevToLi/PostDevToLi
           dotnet restore
           dotnet run --project PostDevToLi.csproj -- \
