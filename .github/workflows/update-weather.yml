@@ -25,12 +25,6 @@ jobs:
           fi
           mkdir .tmp
 
-      - name: Remove data folder (if it exists)
-        run: |
-          if [ -d data ]; then
-            rm -rf data
-          fi
-          mkdir data
 
       - name: Download SQLite database (if exists)
         uses: actions/download-artifact@v3
@@ -39,11 +33,6 @@ jobs:
           path: data/
         continue-on-error: true  # Continue if artifact doesn't exist (for the first run)
 
-      - name: Copy database to PostDevToLi
-        run: |
-          if [ -f data/posted_articles.db ]; then
-            cp data/posted_articles.db PostDevToLi/PostDevToLi/posted_articles.db
-          fi
 
       - name: Collect articles
         run: |
