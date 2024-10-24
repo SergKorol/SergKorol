@@ -71,7 +71,7 @@ jobs:
           git clone https://github.com/SergKorol/PostDevToLi.git
           cd PostDevToLi/PostDevToLi
           dotnet build
-          if [ -f ../../data/posted_articles_new.db ]; then
+          if [ -f ../../data/posted_articles.db ]; then
               cp ../../data/posted_articles.db ./bin/Debug/net8.0/
               if [ $? -ne 0 ]; then
               echo "Error: Failed to copy the database."
