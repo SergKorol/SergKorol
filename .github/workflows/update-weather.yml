@@ -27,14 +27,6 @@ jobs:
       - name: Ensure data folder exists
         run: mkdir -p ./data
 
-      - name: Download SQLite database (if exists)
-        uses: actions/download-artifact@v4
-        with:
-          name: sqlite-db
-          path: ./data/
-        continue-on-error: true
-
-
       - name: Collect articles
         run: |
           git clone https://github.com/SergKorol/DevToArticlesList.git
@@ -72,7 +64,7 @@ jobs:
           cd PostDevToLi/PostDevToLi
           dotnet build
           if [ -f ../../data/posted_articles.db ]; then
-              cp ../../data/posted_articles.db ./bin/Debug/net8.0/
+              cp ../../data/posted_articles.db ./
               if [ $? -ne 0 ]; then
               echo "Error: Failed to copy the database."
               exit 1
@@ -85,13 +77,7 @@ jobs:
           --ago=72
       - name: Copy DB to the correct folder
         run: |
-          cp PostDevToLi/PostDevToLi/bin/Debug/net8.0/posted_articles.db ./data/posted_articles.db
-          
-      - name: Upload SQLite database
-        uses: actions/upload-artifact@v4
-        with:
-          name: sqlite-db
-          path: ./data/posted_articles.db
+          cp PostDevToLi/PostDevToLi/posted_articles.db ./data/posted_articles.db
 
       - name: Commit
         run: |
