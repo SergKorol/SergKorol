@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-02</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
 
-<b>Partly Cloudy</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -49,16 +49,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
@@ -75,70 +75,70 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
-<td>Sunny</td>
-<td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Cloudy </td>
+<td>Cloudy </td>
 <td>Overcast </td>
 </tr>
 <tr><th>Temperature</th>
-<td>13.3 °C</td>
 <td>13.2 °C</td>
 <td>13.1 °C</td>
-<td>12.9 °C</td>
+<td>13 °C</td>
 <td>12.8 °C</td>
 <td>12.7 °C</td>
-<td>12.5 °C</td>
-<td>11.4 °C</td>
+<td>12.7 °C</td>
+<td>12.6 °C</td>
+<td>11.8 °C</td>
+<td>11.1 °C</td>
 <td>10.6 °C</td>
-<td>10.1 °C</td>
-<td>9.7 °C</td>
+<td>10.5 °C</td>
+<td>9.6 °C</td>
 <td>9.1 °C</td>
 <td>8.9 °C</td>
-<td>8.8 °C</td>
-<td>8.3 °C</td>
-<td>7.6 °C</td>
-<td>6.7 °C</td>
-<td>6 °C</td>
-<td>5.6 °C</td>
+<td>8.4 °C</td>
+<td>7.7 °C</td>
+<td>6.8 °C</td>
+<td>6.2 °C</td>
+<td>5.7 °C</td>
+<td>5.4 °C</td>
 <td>5.2 °C</td>
-<td>4.9 °C</td>
-<td>4.7 °C</td>
+<td>5 °C</td>
+<td>4.8 °C</td>
 <td>4.5 °C</td>
-<td>4.4 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>28.8 kph</td>
-<td>29.2 kph</td>
-<td>30.2 kph</td>
-<td>29.9 kph</td>
-<td>30.6 kph</td>
-<td>31.7 kph</td>
-<td>31.3 kph</td>
-<td>28.1 kph</td>
-<td>28.1 kph</td>
-<td>28.1 kph</td>
-<td>29.2 kph</td>
-<td>30.6 kph</td>
-<td>29.9 kph</td>
-<td>31.7 kph</td>
-<td>30.2 kph</td>
-<td>28.4 kph</td>
 <td>27.7 kph</td>
+<td>28.4 kph</td>
+<td>29.2 kph</td>
+<td>29.5 kph</td>
+<td>30.2 kph</td>
+<td>31 kph</td>
+<td>31 kph</td>
+<td>26.6 kph</td>
+<td>25.9 kph</td>
+<td>28.1 kph</td>
+<td>29.5 kph</td>
+<td>31.3 kph</td>
+<td>29.9 kph</td>
+<td>32.4 kph</td>
+<td>30.6 kph</td>
+<td>29.9 kph</td>
+<td>28.1 kph</td>
+<td>27.4 kph</td>
+<td>26.3 kph</td>
+<td>25.6 kph</td>
+<td>25.6 kph</td>
+<td>25.6 kph</td>
 <td>25.9 kph</td>
 <td>25.6 kph</td>
-<td>24.8 kph</td>
-<td>24.5 kph</td>
-<td>24.1 kph</td>
-<td>24.5 kph</td>
-<td>24.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-02 01:51:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-02 06:34:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
