@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-03 12:46:12 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-11-03 18:33:14 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <b>Kyiv, Ukraine - 2024-11-03</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
 <b>Partly Cloudy</b>
 </div>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-03 12:46:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-03 18:33:18 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
