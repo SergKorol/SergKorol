@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn94bx4cdy6ce5nrmsvuh.jpg" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a">Understanding source generators</a><hr><p>In this article, I want to discuss source generators. The source generator can automate some work...</p><br><i>Published by: Serhii Korol</i><br><b>11/05/2024 13:35:43</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5cykmama5ywx9r6pjrpj.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/automatically-posting-articles-from-devto-to-linkedincom-17p5">Automatically posting articles from dev.to to linkedin.com</a><hr><p>Hi authors, this article is dedicated to expanding the coverage of your articles. Almost every...</p><br><i>Published by: Serhii Korol</i><br><b>10/23/2024 10:54:11</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvl22i710kh87ncty1ajh.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l">Safe cleaning NuGet cache.</a><hr><p>Hi folks! I want to discuss about NuGet packages. If you frequently work with different .NET...</p><br><i>Published by: Serhii Korol</i><br><b>10/04/2024 07:26:49</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzvtphagkpavfoyiw5om7.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-simple-way-to-analyze-your-code-using-sonarqube-43mo">The simple way to analyze your code using SonarQube.</a><hr><p>Hi folks, In this article, I'll show you a simple way to install SonarQube and analyze your code.    ...</p><br><i>Published by: Serhii Korol</i><br><b>10/03/2024 11:08:46</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-11-05 12:47:41 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-11-05 18:33:56 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
