@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-10</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Partly Cloudy</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -49,7 +49,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -75,7 +75,7 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
@@ -100,17 +100,17 @@
 <td>2.6 °C</td>
 <td>3.8 °C</td>
 <td>5.1 °C</td>
-<td>6.2 °C</td>
-<td>7.2 °C</td>
-<td>7.7 °C</td>
-<td>8 °C</td>
+<td>6.1 °C</td>
+<td>7 °C</td>
+<td>7.6 °C</td>
 <td>7.8 °C</td>
-<td>6.9 °C</td>
-<td>6.3 °C</td>
+<td>7.7 °C</td>
+<td>6.8 °C</td>
+<td>6.2 °C</td>
 <td>5.9 °C</td>
 <td>5.5 °C</td>
 <td>5.1 °C</td>
-<td>4.6 °C</td>
+<td>4.7 °C</td>
 <td>4.2 °C</td>
 <td>3.8 °C</td>
 </tr>
@@ -126,19 +126,19 @@
 <td>6.8 kph</td>
 <td>6.8 kph</td>
 <td>7.2 kph</td>
+<td>6.8 kph</td>
+<td>7.6 kph</td>
+<td>8.3 kph</td>
+<td>8.3 kph</td>
 <td>7.2 kph</td>
-<td>7.9 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>7.9 kph</td>
-<td>6.5 kph</td>
-<td>6.1 kph</td>
 <td>6.1 kph</td>
 <td>6.1 kph</td>
 <td>6.5 kph</td>
-<td>6.1 kph</td>
 <td>6.5 kph</td>
-<td>7.2 kph</td>
+<td>6.1 kph</td>
+<td>5.8 kph</td>
+<td>5.8 kph</td>
+<td>6.5 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-10 12:45:04 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-10 18:31:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
