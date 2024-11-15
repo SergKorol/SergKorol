@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsnn35fkzt12b4g5jx6f.jpg" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9">The easy way to create API Gateway</a><hr><p>Hi! Nowadays, Microservices are widely used in software development. When you need to use several...</p><br><i>Published by: Serhii Korol</i><br><b>11/15/2024 13:34:44</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn94bx4cdy6ce5nrmsvuh.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a">Understanding source generators</a><hr><p>In this article, I want to discuss source generators. The source generator can automate some work...</p><br><i>Published by: Serhii Korol</i><br><b>11/05/2024 13:35:43</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksqbb3eawzs15z59xm5.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid">Understanding multithreading</a><hr><p>Hi folks! In this article, I would like to discuss multithreading, how it can be used in genuine...</p><br><i>Published by: Serhii Korol</i><br><b>10/16/2024 11:06:18</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvl22i710kh87ncty1ajh.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l">Safe cleaning NuGet cache.</a><hr><p>Hi folks! I want to discuss about NuGet packages. If you frequently work with different .NET...</p><br><i>Published by: Serhii Korol</i><br><b>10/04/2024 07:26:49</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-11-15 12:51:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-11-15 18:35:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>

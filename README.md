@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsnn35fkzt12b4g5jx6f.jpg" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9">The easy way to create API Gateway</a><hr><p>Hi! Nowadays, Microservices are widely used in software development. When you need to use several...</p><br><i>Published by: Serhii Korol</i><br><b>11/15/2024 13:34:44</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn94bx4cdy6ce5nrmsvuh.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a">Understanding source generators</a><hr><p>In this article, I want to discuss source generators. The source generator can automate some work...</p><br><i>Published by: Serhii Korol</i><br><b>11/05/2024 13:35:43</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksqbb3eawzs15z59xm5.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid">Understanding multithreading</a><hr><p>Hi folks! In this article, I would like to discuss multithreading, how it can be used in genuine...</p><br><i>Published by: Serhii Korol</i><br><b>10/16/2024 11:06:18</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvl22i710kh87ncty1ajh.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/safe-cleaning-nuget-cache-588l">Safe cleaning NuGet cache.</a><hr><p>Hi folks! I want to discuss about NuGet packages. If you frequently work with different .NET...</p><br><i>Published by: Serhii Korol</i><br><b>10/04/2024 07:26:49</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-11-15 12:51:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-11-15 18:35:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-15</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Light snow</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -88,19 +88,19 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -114,19 +114,19 @@
 <td>Moderate snow</td>
 <td>Moderate snow</td>
 <td>Moderate snow</td>
+<td>Light snow</td>
 <td>Moderate snow</td>
-<td>Moderate snow</td>
+<td>Light snow</td>
 <td>Moderate snow</td>
 <td>Light snow</td>
 <td>Light snow</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
 <td>Overcast </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Overcast </td>
+<td>Partly Cloudy </td>
+<td>Clear </td>
+<td>Partly Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
 <td>-1.1 °C</td>
@@ -140,19 +140,19 @@
 <td>0.6 °C</td>
 <td>1.1 °C</td>
 <td>1.2 °C</td>
-<td>1.3 °C</td>
-<td>1.5 °C</td>
 <td>1.6 °C</td>
+<td>1.6 °C</td>
+<td>1.7 °C</td>
 <td>1.9 °C</td>
-<td>2.1 °C</td>
-<td>2.1 °C</td>
-<td>2.2 °C</td>
-<td>2.2 °C</td>
-<td>2.1 °C</td>
+<td>1.9 °C</td>
 <td>2 °C</td>
-<td>1.9 °C</td>
-<td>1.6 °C</td>
-<td>1.6 °C</td>
+<td>2.2 °C</td>
+<td>2.3 °C</td>
+<td>2.4 °C</td>
+<td>2.4 °C</td>
+<td>2 °C</td>
+<td>0.7 °C</td>
+<td>0.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>11.5 kph</td>
@@ -166,15 +166,15 @@
 <td>12.6 kph</td>
 <td>12.6 kph</td>
 <td>13.3 kph</td>
-<td>13.7 kph</td>
-<td>13.7 kph</td>
+<td>11.9 kph</td>
+<td>11.9 kph</td>
+<td>14 kph</td>
 <td>15.8 kph</td>
+<td>16.2 kph</td>
 <td>16.6 kph</td>
-<td>17.6 kph</td>
-<td>17.6 kph</td>
-<td>16.2 kph</td>
-<td>16.2 kph</td>
-<td>14.4 kph</td>
+<td>15.5 kph</td>
+<td>14.8 kph</td>
+<td>14.8 kph</td>
 <td>13 kph</td>
 <td>10.8 kph</td>
 <td>10.4 kph</td>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-15 12:51:12 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-15 18:35:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
