@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-16</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-16 01:56:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-16 06:34:43 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
