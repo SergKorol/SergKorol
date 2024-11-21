@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-21</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/320.png" alt="Moderate or heavy sleet" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/338.png" alt="Heavy snow" />
 
-<b>Moderate or heavy sleet</b>
+<b>Heavy snow</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-21 01:57:44 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-21 06:37:12 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
