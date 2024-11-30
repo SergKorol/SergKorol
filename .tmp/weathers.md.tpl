@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2024-11-30</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
 <b>Mist</b>
 </div>
@@ -50,16 +50,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -76,16 +76,16 @@
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
-<td>Mist</td>
-<td>Mist</td>
-<td>Fog</td>
-<td>Fog</td>
+<td>Overcast </td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
+<td>Mist</td>
+<td>Mist</td>
+<td>Overcast </td>
 <td>Mist</td>
 </tr>
 <tr><th>Temperature</th>
@@ -102,8 +102,8 @@
 <td>1 °C</td>
 <td>1.2 °C</td>
 <td>1.5 °C</td>
-<td>1.5 °C</td>
-<td>1.5 °C</td>
+<td>1.6 °C</td>
+<td>1.6 °C</td>
 <td>1.4 °C</td>
 <td>1.4 °C</td>
 <td>1.5 °C</td>
@@ -127,18 +127,18 @@
 <td>2.5 kph</td>
 <td>2.5 kph</td>
 <td>1.8 kph</td>
-<td>1.8 kph</td>
 <td>1.4 kph</td>
-<td>3.6 kph</td>
+<td>0.7 kph</td>
+<td>1.4 kph</td>
 <td>1.8 kph</td>
 <td>2.5 kph</td>
-<td>2.9 kph</td>
-<td>2.2 kph</td>
-<td>2.9 kph</td>
-<td>2.9 kph</td>
 <td>2.5 kph</td>
-<td>1.1 kph</td>
-<td>1.1 kph</td>
+<td>2.2 kph</td>
+<td>3.2 kph</td>
+<td>3.6 kph</td>
+<td>1.4 kph</td>
+<td>0.4 kph</td>
+<td>2.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-30 12:49:04 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-30 18:34:03 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
