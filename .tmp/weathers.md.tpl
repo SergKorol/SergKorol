@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-11-30</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
-<b>Fog</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -42,14 +42,14 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
@@ -68,6 +68,7 @@
 <td>Fog</td>
 <td>Fog</td>
 <td>Fog</td>
+<td>Fog</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
@@ -75,7 +76,6 @@
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
-<td>Overcast </td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
@@ -89,22 +89,21 @@
 <td>Mist</td>
 </tr>
 <tr><th>Temperature</th>
+<td>0.7 °C</td>
 <td>0.8 °C</td>
 <td>0.9 °C</td>
 <td>0.9 °C</td>
 <td>0.9 °C</td>
-<td>1 °C</td>
-<td>1 °C</td>
-<td>1 °C</td>
-<td>1 °C</td>
-<td>1 °C</td>
+<td>0.9 °C</td>
+<td>0.9 °C</td>
+<td>0.9 °C</td>
+<td>0.9 °C</td>
 <td>0.8 °C</td>
 <td>1 °C</td>
 <td>1.1 °C</td>
 <td>1.3 °C</td>
-<td>1.4 °C</td>
-<td>1.4 °C</td>
-<td>1.3 °C</td>
+<td>1.5 °C</td>
+<td>1.5 °C</td>
 <td>1.4 °C</td>
 <td>1.5 °C</td>
 <td>1.5 °C</td>
@@ -113,32 +112,33 @@
 <td>1.7 °C</td>
 <td>1.7 °C</td>
 <td>1.7 °C</td>
+<td>1.8 °C</td>
 </tr>
 <tr><th>Wind</th>
+<td>5.4 kph</td>
 <td>5 kph</td>
-<td>5.8 kph</td>
-<td>4.7 kph</td>
 <td>4.3 kph</td>
+<td>3.2 kph</td>
+<td>2.9 kph</td>
 <td>3.6 kph</td>
-<td>4.3 kph</td>
 <td>2.5 kph</td>
-<td>3.2 kph</td>
-<td>1.8 kph</td>
-<td>1.8 kph</td>
-<td>1.8 kph</td>
-<td>3.2 kph</td>
-<td>0.7 kph</td>
+<td>3.6 kph</td>
+<td>3.6 kph</td>
+<td>1.4 kph</td>
+<td>2.2 kph</td>
+<td>2.5 kph</td>
 <td>1.1 kph</td>
-<td>1.8 kph</td>
-<td>2.2 kph</td>
-<td>1.8 kph</td>
 <td>1.4 kph</td>
-<td>1.4 kph</td>
-<td>1.8 kph</td>
 <td>2.2 kph</td>
-<td>2.5 kph</td>
+<td>2.2 kph</td>
+<td>2.9 kph</td>
 <td>2.9 kph</td>
 <td>2.5 kph</td>
+<td>1.4 kph</td>
+<td>2.2 kph</td>
+<td>2.9 kph</td>
+<td>2.5 kph</td>
+<td>1.1 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-11-30 01:57:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-11-30 06:35:25 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
