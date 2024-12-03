@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-03 02:03:18 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-12-03 06:39:33 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-03</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -129,54 +129,54 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>-0.3 °C</td>
 <td>-0.4 °C</td>
+<td>-0.5 °C</td>
 <td>-0.5 °C</td>
 <td>-0.6 °C</td>
 <td>-0.7 °C</td>
-<td>-0.7 °C</td>
-<td>-0.8 °C</td>
 <td>-0.8 °C</td>
 <td>-0.9 °C</td>
-<td>-0.6 °C</td>
-<td>0.2 °C</td>
-<td>1 °C</td>
-<td>1.7 °C</td>
-<td>2.1 °C</td>
-<td>2 °C</td>
-<td>1.4 °C</td>
-<td>0.6 °C</td>
-<td>0.3 °C</td>
+<td>-0.9 °C</td>
+<td>-1 °C</td>
+<td>-0.7 °C</td>
 <td>0.1 °C</td>
-<td>-0.1 °C</td>
+<td>0.9 °C</td>
+<td>1.5 °C</td>
+<td>1.9 °C</td>
+<td>1.9 °C</td>
+<td>1.3 °C</td>
+<td>0.5 °C</td>
+<td>0.2 °C</td>
+<td>-0 °C</td>
 <td>-0.2 °C</td>
 <td>-0.3 °C</td>
 <td>-0.4 °C</td>
-<td>-0.4 °C</td>
+<td>-0.5 °C</td>
+<td>-0.5 °C</td>
 </tr>
 <tr><th>Wind</th>
+<td>9.7 kph</td>
+<td>9 kph</td>
+<td>8.6 kph</td>
+<td>8.3 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
+<td>9 kph</td>
 <td>9.4 kph</td>
-<td>9 kph</td>
+<td>10.1 kph</td>
+<td>11.9 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
+<td>11.5 kph</td>
+<td>10.1 kph</td>
 <td>8.6 kph</td>
 <td>8.3 kph</td>
-<td>8.3 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
-<td>9 kph</td>
-<td>9.7 kph</td>
-<td>11.2 kph</td>
-<td>11.5 kph</td>
-<td>11.5 kph</td>
-<td>11.2 kph</td>
-<td>9.7 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>9 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>8.3 kph</td>
 </tr>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-03 02:03:22 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-03 06:39:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
