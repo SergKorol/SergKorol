@@ -5,7 +5,7 @@
 - Email: [korols83@mail.com](mailto:korols83@mail.com)
 - Software Engineer | .NET lover | Experimenter | Author 🇺🇦
 
-<h2>My Recent Articles</h2>
+<h2>My Recent Articles:</h2>
 
 {{ template "articles.md.tpl" }}
 <hr>
