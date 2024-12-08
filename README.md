@@ -5,10 +5,14 @@
 - Email: [korols83@mail.com](mailto:korols83@mail.com)
 - Software Engineer | .NET lover | Experimenter | Author 🇺🇦
 
-<h2>My Recent Articles</h2>
+<h2>My Recent Articles:</h2>
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/did-you-know-that-you-can-test-the-nuget-packages-5d4p"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32kicmbnhv9q7hk6b4av.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/did-you-know-that-you-can-test-the-nuget-packages-5d4p">Did you know that you can test the NuGet packages?</a><hr><p>Anyone who is a Software Engineer familiar with .NET uses NuGet packages. The bigger the solution,...</p><br><i>Published by: Serhii Korol</i><br><b>12/08/2024 14:34:55</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsnn35fkzt12b4g5jx6f.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9">The easy way to create API Gateway</a><hr><p>Hi! Nowadays, Microservices are widely used in software development. When you need to use several...</p><br><i>Published by: Serhii Korol</i><br><b>11/15/2024 13:34:44</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd30cvjrlt3c7871mkymi.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/easy-way-to-use-dynamodb-locally-and-manage-data-481o">Easy way to use DynamoDB locally and manage data.</a><hr><p>Hi folks! Today, I want to discuss DynamoDB from Amazon. I'll implement the client and simple CRUD...</p><br><i>Published by: Serhii Korol</i><br><b>10/18/2024 10:14:30</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksqbb3eawzs15z59xm5.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-multithreading-1bid">Understanding multithreading</a><hr><p>Hi folks! In this article, I would like to discuss multithreading, how it can be used in genuine...</p><br><i>Published by: Serhii Korol</i><br><b>10/16/2024 11:06:18</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2024-12-08 12:50:30 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-12-08 14:43:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-08</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
-<b>Overcast</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-08 12:50:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-08 14:43:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
