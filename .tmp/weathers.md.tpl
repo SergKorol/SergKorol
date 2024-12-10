@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-10</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/296.png" alt="Light rain" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
 
-<b>Light rain</b>
+<b>Light drizzle</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-10 02:05:03 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-10 06:39:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
