@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Light rain" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
 
-<b>Light rain</b>
+<b>Light snow</b>
 </div>
 
 <table>
@@ -50,14 +50,14 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/317.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/317.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/317.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
@@ -76,14 +76,14 @@
 <td>Light drizzle</td>
 <td>Light drizzle</td>
 <td>Light drizzle</td>
-<td>Light drizzle</td>
 <td>Light rain</td>
 <td>Light rain</td>
+<td>Light rain</td>
 <td>Light drizzle</td>
 <td>Light sleet</td>
 <td>Light sleet</td>
 <td>Light sleet</td>
-<td>Moderate snow</td>
+<td>Light snow</td>
 <td>Patchy rain nearby</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -101,18 +101,18 @@
 <td>2 °C</td>
 <td>2.1 °C</td>
 <td>2.1 °C</td>
-<td>2.2 °C</td>
-<td>2.2 °C</td>
-<td>2 °C</td>
-<td>1.9 °C</td>
+<td>2.1 °C</td>
 <td>1.9 °C</td>
 <td>1.7 °C</td>
+<td>1.7 °C</td>
+<td>1.7 °C</td>
+<td>1.6 °C</td>
+<td>1.5 °C</td>
 <td>1.4 °C</td>
-<td>1.3 °C</td>
-<td>1.3 °C</td>
-<td>1.1 °C</td>
-<td>0.8 °C</td>
-<td>0.1 °C</td>
+<td>1.2 °C</td>
+<td>1 °C</td>
+<td>0.6 °C</td>
+<td>0.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>13 kph</td>
@@ -126,19 +126,19 @@
 <td>16.2 kph</td>
 <td>15.5 kph</td>
 <td>16.9 kph</td>
-<td>17.6 kph</td>
-<td>18 kph</td>
-<td>18.4 kph</td>
-<td>19.1 kph</td>
-<td>19.1 kph</td>
-<td>19.4 kph</td>
-<td>18.7 kph</td>
-<td>18.4 kph</td>
-<td>18 kph</td>
-<td>17.6 kph</td>
-<td>17.6 kph</td>
 <td>17.3 kph</td>
-<td>16.6 kph</td>
+<td>16.9 kph</td>
+<td>18 kph</td>
+<td>18.4 kph</td>
+<td>18.7 kph</td>
+<td>18 kph</td>
+<td>17.6 kph</td>
+<td>17.6 kph</td>
+<td>17.6 kph</td>
+<td>18 kph</td>
+<td>17.3 kph</td>
+<td>16.2 kph</td>
+<td>15.1 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-11 12:54:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-11 18:38:19 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
