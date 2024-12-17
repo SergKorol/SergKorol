@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-17 12:54:35 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-12-17 18:37:38 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Light drizzle</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -90,9 +90,9 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
@@ -116,9 +116,9 @@
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Light drizzle</td>
-<td>Patchy rain nearby</td>
 <td>Light drizzle</td>
-<td>Light rain</td>
+<td>Light drizzle</td>
+<td>Light drizzle</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
@@ -140,19 +140,19 @@
 <td>1.8 °C</td>
 <td>4.3 °C</td>
 <td>6.4 °C</td>
-<td>6.5 °C</td>
-<td>6.3 °C</td>
 <td>6.4 °C</td>
-<td>6.6 °C</td>
-<td>6.3 °C</td>
+<td>5.9 °C</td>
 <td>5.3 °C</td>
-<td>5.8 °C</td>
-<td>5.7 °C</td>
-<td>5.2 °C</td>
-<td>4.6 °C</td>
-<td>4.4 °C</td>
+<td>6.1 °C</td>
+<td>5.3 °C</td>
+<td>5.3 °C</td>
+<td>5.9 °C</td>
+<td>5.1 °C</td>
+<td>5 °C</td>
+<td>4.5 °C</td>
 <td>4.1 °C</td>
-<td>3.7 °C</td>
+<td>3.8 °C</td>
+<td>3.4 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>27 kph</td>
@@ -167,18 +167,18 @@
 <td>21.2 kph</td>
 <td>34.9 kph</td>
 <td>36 kph</td>
-<td>35.3 kph</td>
-<td>36.4 kph</td>
-<td>38.9 kph</td>
-<td>31.3 kph</td>
-<td>22.3 kph</td>
+<td>31 kph</td>
 <td>27 kph</td>
+<td>32 kph</td>
+<td>27.7 kph</td>
+<td>23.8 kph</td>
+<td>26.3 kph</td>
 <td>27.4 kph</td>
+<td>29.5 kph</td>
+<td>28.1 kph</td>
+<td>27 kph</td>
 <td>28.4 kph</td>
-<td>26.6 kph</td>
-<td>26.6 kph</td>
-<td>27.7 kph</td>
-<td>27.7 kph</td>
+<td>28.1 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-17 12:54:39 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-17 18:37:42 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
