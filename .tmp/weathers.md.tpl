@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Cloudy</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -100,19 +100,19 @@
 <td>1.6 °C</td>
 <td>1.7 °C</td>
 <td>2.1 °C</td>
-<td>2.4 °C</td>
-<td>3 °C</td>
+<td>2.5 °C</td>
+<td>3.1 °C</td>
 <td>3.5 °C</td>
-<td>3.3 °C</td>
-<td>2.7 °C</td>
-<td>2.1 °C</td>
-<td>2.1 °C</td>
+<td>3.4 °C</td>
+<td>2.8 °C</td>
+<td>2.2 °C</td>
 <td>2 °C</td>
-<td>1.8 °C</td>
+<td>1.9 °C</td>
 <td>1.7 °C</td>
-<td>1.8 °C</td>
-<td>1.8 °C</td>
-<td>1.8 °C</td>
+<td>1.7 °C</td>
+<td>2 °C</td>
+<td>2 °C</td>
+<td>1.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>7.6 kph</td>
@@ -127,18 +127,18 @@
 <td>8.3 kph</td>
 <td>7.6 kph</td>
 <td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>6.8 kph</td>
-<td>6.8 kph</td>
-<td>5.8 kph</td>
-<td>6.1 kph</td>
 <td>7.9 kph</td>
-<td>8.3 kph</td>
 <td>7.6 kph</td>
 <td>6.5 kph</td>
 <td>6.5 kph</td>
-<td>6.5 kph</td>
+<td>6.1 kph</td>
+<td>6.1 kph</td>
+<td>7.6 kph</td>
+<td>7.6 kph</td>
+<td>6.8 kph</td>
+<td>6.1 kph</td>
+<td>6.1 kph</td>
+<td>5.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-24 12:48:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-24 18:33:44 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
