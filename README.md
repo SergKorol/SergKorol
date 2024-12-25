@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1>About me:</h1>
 
 - Name: Serhii
 - My blog: [dev.to/serhii_korol](https://dev.to/serhii_korol_ab7776c50dba)
