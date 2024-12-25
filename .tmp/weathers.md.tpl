@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2024-12-25</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
 <b>Mist</b>
 </div>
@@ -45,14 +45,14 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
@@ -71,14 +71,14 @@
 <td>Mist</td>
 <td>Fog</td>
 <td>Fog</td>
-<td>Fog</td>
-<td>Fog</td>
 <td>Mist</td>
 <td>Overcast </td>
+<td>Light snow</td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Clear </td>
 <td>Clear </td>
@@ -89,56 +89,56 @@
 <td>Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
-<td>1.7 °C</td>
-<td>1.7 °C</td>
-<td>1.7 °C</td>
-<td>1.8 °C</td>
-<td>1.7 °C</td>
-<td>1.7 °C</td>
 <td>1.6 °C</td>
-<td>1.6 °C</td>
+<td>1.5 °C</td>
+<td>1.5 °C</td>
 <td>1.5 °C</td>
 <td>1.5 °C</td>
 <td>1.5 °C</td>
 <td>1.4 °C</td>
+<td>1.4 °C</td>
 <td>1.3 °C</td>
-<td>1.5 °C</td>
-<td>1.7 °C</td>
+<td>1.4 °C</td>
+<td>1.4 °C</td>
+<td>1.3 °C</td>
 <td>1.6 °C</td>
-<td>0.9 °C</td>
-<td>0.4 °C</td>
+<td>1.8 °C</td>
+<td>1.9 °C</td>
+<td>1.6 °C</td>
+<td>0.7 °C</td>
+<td>0.3 °C</td>
 <td>-0.1 °C</td>
 <td>-0.4 °C</td>
 <td>-0.6 °C</td>
-<td>-0.8 °C</td>
-<td>-1 °C</td>
+<td>-0.9 °C</td>
+<td>-1.2 °C</td>
 <td>-1.3 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>7.2 kph</td>
+<td>7.6 kph</td>
 <td>7.6 kph</td>
 <td>8.3 kph</td>
-<td>8.3 kph</td>
 <td>7.9 kph</td>
-<td>8.6 kph</td>
+<td>7.2 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
 <td>9.4 kph</td>
-<td>9.7 kph</td>
-<td>11.5 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
-<td>13.7 kph</td>
+<td>10.1 kph</td>
+<td>11.2 kph</td>
 <td>13 kph</td>
+<td>11.2 kph</td>
 <td>12.2 kph</td>
+<td>14 kph</td>
+<td>13 kph</td>
+<td>12.6 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
+<td>11.2 kph</td>
 <td>11.5 kph</td>
-<td>10.8 kph</td>
-<td>10.4 kph</td>
+<td>11.9 kph</td>
+<td>11.9 kph</td>
 <td>11.5 kph</td>
-<td>10.8 kph</td>
-<td>11.2 kph</td>
-<td>11.2 kph</td>
-<td>11.2 kph</td>
+<td>12.6 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-25 01:51:45 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-25 06:35:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
