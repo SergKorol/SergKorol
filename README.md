@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-27 12:48:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2024-12-27 18:33:23 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2024-12-27</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog" />
 
-<b>Mist</b>
+<b>Fog</b>
 </div>
 
 <table>
@@ -140,19 +140,19 @@
 <td>0.9 °C</td>
 <td>0.9 °C</td>
 <td>0.9 °C</td>
-<td>1.1 °C</td>
-<td>1.2 °C</td>
 <td>1.2 °C</td>
 <td>1.3 °C</td>
 <td>1.3 °C</td>
 <td>1.4 °C</td>
 <td>1.4 °C</td>
-<td>1.5 °C</td>
-<td>1.5 °C</td>
 <td>1.4 °C</td>
+<td>1.4 °C</td>
+<td>1.4 °C</td>
+<td>1.3 °C</td>
+<td>1.3 °C</td>
+<td>1.3 °C</td>
+<td>1.3 °C</td>
 <td>1.5 °C</td>
-<td>1.5 °C</td>
-<td>1.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>9.4 kph</td>
@@ -166,19 +166,19 @@
 <td>4.7 kph</td>
 <td>4 kph</td>
 <td>2.9 kph</td>
-<td>2.9 kph</td>
-<td>2.9 kph</td>
-<td>2.5 kph</td>
+<td>4 kph</td>
 <td>3.6 kph</td>
 <td>3.6 kph</td>
 <td>4.3 kph</td>
+<td>5 kph</td>
+<td>5 kph</td>
+<td>5 kph</td>
+<td>5 kph</td>
 <td>4.7 kph</td>
 <td>4.3 kph</td>
 <td>4.7 kph</td>
-<td>4.3 kph</td>
-<td>4.3 kph</td>
-<td>4.7 kph</td>
-<td>4.7 kph</td>
+<td>5 kph</td>
+<td>5 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2024-12-27 12:48:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2024-12-27 18:33:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
