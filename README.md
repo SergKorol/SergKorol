@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-06 06:36:27 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-01-06 12:50:48 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Light freezing rain" />
 
-<b>Overcast</b>
+<b>Light freezing rain</b>
 </div>
 
 <table>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-06 06:36:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-06 12:50:51 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
