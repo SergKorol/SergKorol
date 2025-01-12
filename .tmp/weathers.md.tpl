@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-12</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Cloudy</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -48,19 +48,19 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Partly Cloudy </td>
@@ -74,19 +74,19 @@
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Partly Cloudy </td>
-<td>Overcast </td>
+<td>Cloudy </td>
 <td>Light freezing rain</td>
 <td>Cloudy </td>
 <td>Cloudy </td>
-<td>Overcast </td>
+<td>Cloudy </td>
 <td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Cloudy </td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Cloudy </td>
-<td>Cloudy </td>
-<td>Overcast </td>
-<td>Light freezing rain</td>
+<td>Partly Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
 <td>-0.4 °C</td>
@@ -100,19 +100,19 @@
 <td>-1.6 °C</td>
 <td>-1.3 °C</td>
 <td>-0.6 °C</td>
-<td>0.1 °C</td>
-<td>0.5 °C</td>
-<td>0.8 °C</td>
-<td>0.8 °C</td>
+<td>0.2 °C</td>
 <td>0.6 °C</td>
-<td>0.1 °C</td>
+<td>0.7 °C</td>
+<td>0.7 °C</td>
+<td>0.5 °C</td>
+<td>0 °C</td>
 <td>-0.5 °C</td>
-<td>-1 °C</td>
-<td>-1.1 °C</td>
-<td>-1 °C</td>
-<td>-0.9 °C</td>
-<td>-1.1 °C</td>
 <td>-1.2 °C</td>
+<td>-1.4 °C</td>
+<td>-1.5 °C</td>
+<td>-1.3 °C</td>
+<td>-1.4 °C</td>
+<td>-1.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>9.7 kph</td>
@@ -126,19 +126,19 @@
 <td>10.1 kph</td>
 <td>9.7 kph</td>
 <td>10.8 kph</td>
-<td>10.8 kph</td>
 <td>10.1 kph</td>
+<td>9.7 kph</td>
 <td>10.1 kph</td>
-<td>9.4 kph</td>
-<td>9.4 kph</td>
 <td>9 kph</td>
-<td>8.3 kph</td>
+<td>7.6 kph</td>
 <td>7.9 kph</td>
-<td>7.9 kph</td>
+<td>7.2 kph</td>
+<td>6.5 kph</td>
+<td>7.2 kph</td>
 <td>6.8 kph</td>
-<td>6.1 kph</td>
 <td>5 kph</td>
-<td>4 kph</td>
+<td>4.3 kph</td>
+<td>3.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-12 12:46:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-12 18:32:17 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
