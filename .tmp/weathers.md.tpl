@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Patchy rain nearby</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -57,7 +57,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
@@ -83,7 +83,7 @@
 <td>Patchy rain nearby</td>
 <td>Overcast </td>
 <td>Overcast </td>
-<td>Overcast </td>
+<td>Patchy rain nearby</td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
@@ -104,13 +104,13 @@
 <td>1.6 °C</td>
 <td>1.6 °C</td>
 <td>1.7 °C</td>
-<td>1.8 °C</td>
-<td>1.9 °C</td>
-<td>1.9 °C</td>
-<td>1.8 °C</td>
 <td>1.7 °C</td>
 <td>1.7 °C</td>
 <td>1.7 °C</td>
+<td>1.7 °C</td>
+<td>1.7 °C</td>
+<td>1.6 °C</td>
+<td>1.6 °C</td>
 <td>1.7 °C</td>
 <td>1.7 °C</td>
 </tr>
@@ -126,18 +126,18 @@
 <td>20.5 kph</td>
 <td>20.5 kph</td>
 <td>20.2 kph</td>
-<td>20.5 kph</td>
-<td>20.2 kph</td>
-<td>20.2 kph</td>
-<td>20.2 kph</td>
+<td>19.4 kph</td>
+<td>19.4 kph</td>
+<td>19.4 kph</td>
 <td>19.8 kph</td>
+<td>19.4 kph</td>
 <td>18.7 kph</td>
-<td>18 kph</td>
+<td>18.4 kph</td>
 <td>17.3 kph</td>
 <td>17.3 kph</td>
+<td>15.8 kph</td>
 <td>15.8 kph</td>
 <td>15.5 kph</td>
-<td>15.8 kph</td>
 <td>15.5 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-17 12:47:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-17 18:32:51 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
