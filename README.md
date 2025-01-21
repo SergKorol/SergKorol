@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkigu1ffarq7vcvj7iypk.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98">Design Patterns #1: Strategy – A Different Perspective.</a><hr><p>Design patterns have been extensively covered in countless articles, but I want to explore this topic...</p><br><i>Published by: Serhii Korol</i><br><b>01/21/2025 12:55:19</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07nc6zckl2u8en9a5iux.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0">Web application translation in two ways.</a><hr><p>In this article, I'll show you how to translate a web application built using ASP.NET and discuss two...</p><br><i>Published by: Serhii Korol</i><br><b>12/25/2024 19:27:30</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsnn35fkzt12b4g5jx6f.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9">The easy way to create API Gateway</a><hr><p>Hi! Nowadays, Microservices are widely used in software development. When you need to use several...</p><br><i>Published by: Serhii Korol</i><br><b>11/15/2024 13:34:44</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn94bx4cdy6ce5nrmsvuh.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/understanding-source-generators-60a">Understanding source generators</a><hr><p>In this article, I want to discuss source generators. The source generator can automate some work...</p><br><i>Published by: Serhii Korol</i><br><b>11/05/2024 13:35:43</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-01-21 06:34:46 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-01-21 13:25:36 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-21</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Mist</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -91,13 +91,13 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
@@ -117,13 +117,13 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Overcast </td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
 <td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Overcast </td>
+<td>Clear </td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
@@ -140,17 +140,17 @@
 <td>-0.1 °C</td>
 <td>0.1 °C</td>
 <td>0.9 °C</td>
-<td>1.7 °C</td>
+<td>1.6 °C</td>
 <td>2.2 °C</td>
-<td>2.8 °C</td>
-<td>3 °C</td>
+<td>2.7 °C</td>
+<td>2.9 °C</td>
 <td>2.7 °C</td>
 <td>2 °C</td>
 <td>1.5 °C</td>
 <td>1.3 °C</td>
 <td>1 °C</td>
-<td>0.9 °C</td>
-<td>0.7 °C</td>
+<td>0.8 °C</td>
+<td>0.8 °C</td>
 <td>0.7 °C</td>
 <td>0.7 °C</td>
 </tr>
@@ -160,25 +160,25 @@
 <td>6.5 kph</td>
 <td>6.5 kph</td>
 <td>6.1 kph</td>
-<td>6.8 kph</td>
+<td>7.2 kph</td>
 <td>7.2 kph</td>
 <td>7.9 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
-<td>10.1 kph</td>
+<td>10.4 kph</td>
 <td>10.8 kph</td>
+<td>11.2 kph</td>
+<td>11.9 kph</td>
+<td>11.5 kph</td>
+<td>10.4 kph</td>
+<td>11.5 kph</td>
+<td>13 kph</td>
+<td>13 kph</td>
+<td>10.8 kph</td>
+<td>11.2 kph</td>
 <td>11.5 kph</td>
 <td>11.9 kph</td>
-<td>11.9 kph</td>
-<td>11.2 kph</td>
-<td>11.2 kph</td>
-<td>13.3 kph</td>
 <td>12.2 kph</td>
-<td>11.5 kph</td>
-<td>10.8 kph</td>
-<td>10.8 kph</td>
-<td>11.5 kph</td>
-<td>11.9 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-21 06:34:49 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-21 13:25:39 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
