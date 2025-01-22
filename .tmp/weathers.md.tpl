@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-22</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle" />
 
-<b>Patchy rain nearby</b>
+<b>Light drizzle</b>
 </div>
 
 <table>
@@ -49,7 +49,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
@@ -58,9 +58,9 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/317.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -75,7 +75,7 @@
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
-<td>Patchy rain nearby</td>
+<td>Overcast </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
@@ -84,9 +84,9 @@
 <td>Light drizzle</td>
 <td>Light drizzle</td>
 <td>Light drizzle</td>
-<td>Light drizzle</td>
-<td>Patchy rain nearby</td>
 <td>Light sleet</td>
+<td>Patchy rain nearby</td>
+<td>Light freezing rain</td>
 </tr>
 <tr><th>Temperature</th>
 <td>0.6 °C</td>
@@ -100,19 +100,19 @@
 <td>0.5 °C</td>
 <td>0.8 °C</td>
 <td>1.2 °C</td>
-<td>1.6 °C</td>
+<td>1.5 °C</td>
+<td>1.7 °C</td>
 <td>1.8 °C</td>
-<td>1.9 °C</td>
-<td>1.9 °C</td>
-<td>1.9 °C</td>
-<td>1.9 °C</td>
-<td>1.9 °C</td>
+<td>1.8 °C</td>
+<td>1.8 °C</td>
+<td>1.8 °C</td>
 <td>1.8 °C</td>
 <td>1.7 °C</td>
-<td>1.7 °C</td>
 <td>1.6 °C</td>
-<td>1.4 °C</td>
+<td>1.5 °C</td>
+<td>1.3 °C</td>
 <td>1.1 °C</td>
+<td>0.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>12.2 kph</td>
@@ -126,19 +126,19 @@
 <td>14 kph</td>
 <td>14.4 kph</td>
 <td>14.4 kph</td>
-<td>14.8 kph</td>
-<td>14 kph</td>
-<td>13.3 kph</td>
 <td>14.4 kph</td>
-<td>14.4 kph</td>
-<td>14.4 kph</td>
-<td>14.8 kph</td>
-<td>14.8 kph</td>
 <td>13.7 kph</td>
 <td>13.3 kph</td>
-<td>13.7 kph</td>
 <td>14 kph</td>
-<td>13.7 kph</td>
+<td>14 kph</td>
+<td>14.4 kph</td>
+<td>14.8 kph</td>
+<td>14.4 kph</td>
+<td>14 kph</td>
+<td>14 kph</td>
+<td>14.4 kph</td>
+<td>14 kph</td>
+<td>13.3 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-22 12:49:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-22 18:35:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
