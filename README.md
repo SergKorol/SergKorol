@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnafjoblsv9s2ildwmmub.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73">The Fastest Way to Generate a Table from a Collection.</a><hr><p>Developers frequently encounter the task of displaying data in a table. Typically, this is handled on...</p><br><i>Published by: Serhii Korol</i><br><b>01/28/2025 14:16:09</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkigu1ffarq7vcvj7iypk.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98">Design Patterns #1: Strategy – A Different Perspective.</a><hr><p>Design patterns have been extensively covered in countless articles, but I want to explore this topic...</p><br><i>Published by: Serhii Korol</i><br><b>01/21/2025 12:55:19</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/did-you-know-that-you-can-test-the-nuget-packages-5d4p"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32kicmbnhv9q7hk6b4av.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/did-you-know-that-you-can-test-the-nuget-packages-5d4p">Did you know that you can test the NuGet packages?</a><hr><p>Anyone who is a Software Engineer familiar with .NET uses NuGet packages. The bigger the solution,...</p><br><i>Published by: Serhii Korol</i><br><b>12/08/2024 14:34:55</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzsnn35fkzt12b4g5jx6f.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-easy-way-to-create-api-gateway-36h9">The easy way to create API Gateway</a><hr><p>Hi! Nowadays, Microservices are widely used in software development. When you need to use several...</p><br><i>Published by: Serhii Korol</i><br><b>11/15/2024 13:34:44</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-01-28 12:48:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-01-28 18:33:27 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-01-28</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
-<b>Sunny</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -96,9 +96,9 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
@@ -122,9 +122,9 @@
 <td>Sunny</td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 </tr>
@@ -142,15 +142,15 @@
 <td>5.4 °C</td>
 <td>6.5 °C</td>
 <td>7.7 °C</td>
-<td>8.8 °C</td>
-<td>9.3 °C</td>
-<td>9 °C</td>
-<td>8.2 °C</td>
-<td>7.4 °C</td>
-<td>7 °C</td>
-<td>6.7 °C</td>
-<td>6.7 °C</td>
-<td>6.7 °C</td>
+<td>8.7 °C</td>
+<td>9.2 °C</td>
+<td>8.9 °C</td>
+<td>8.1 °C</td>
+<td>7.2 °C</td>
+<td>6.8 °C</td>
+<td>6.5 °C</td>
+<td>6.5 °C</td>
+<td>6.6 °C</td>
 <td>6.5 °C</td>
 <td>6.2 °C</td>
 </tr>
@@ -166,19 +166,19 @@
 <td>12.6 kph</td>
 <td>13.3 kph</td>
 <td>14.8 kph</td>
+<td>15.8 kph</td>
+<td>16.9 kph</td>
+<td>16.9 kph</td>
 <td>16.2 kph</td>
-<td>16.9 kph</td>
-<td>16.9 kph</td>
-<td>16.6 kph</td>
-<td>16.6 kph</td>
-<td>16.6 kph</td>
-<td>14.4 kph</td>
-<td>13 kph</td>
-<td>14 kph</td>
-<td>14.4 kph</td>
-<td>15.1 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
+<td>13.3 kph</td>
+<td>12.6 kph</td>
+<td>13.7 kph</td>
 <td>14.8 kph</td>
-<td>14.4 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-01-28 12:48:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-01-28 18:33:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
