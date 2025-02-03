@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya99m5ecjg47pgoku05c.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o">Design Patterns #3: Power of Command.</a><hr><p>Today, we’ll dive into another behavioral design pattern: the Command Pattern. I’ll explain what it...</p><br><i>Published by: Serhii Korol</i><br><b>02/03/2025 13:13:34</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifion3invfk0fwa8g2gy.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p">Design Patterns #2: You don't know Singleton.</a><hr><p>Every software developer encounters this pattern regularly, often working with it on a daily basis....</p><br><i>Published by: Serhii Korol</i><br><b>01/30/2025 15:16:26</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07nc6zckl2u8en9a5iux.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0">Web application translation in two ways.</a><hr><p>In this article, I'll show you how to translate a web application built using ASP.NET and discuss two...</p><br><i>Published by: Serhii Korol</i><br><b>12/25/2024 19:27:30</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/how-fast-to-install-linux-on-any-pc-17nf"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mkuac1vc2uja0980k6.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/how-fast-to-install-linux-on-any-pc-17nf">How fast to install Linux on any PC?</a><hr><p>I'll show you how fast it is to install Debian Linux distributive on your PC without using a virtual...</p><br><i>Published by: Serhii Korol</i><br><b>12/18/2024 11:50:23</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-03 12:48:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-03 18:33:38 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-03</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
 
-<b>Patchy rain nearby</b>
+<b>Light snow</b>
 </div>
 
 <table>
@@ -91,16 +91,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Partly Cloudy </td>
@@ -117,16 +117,16 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Light snow</td>
-<td>Patchy rain nearby</td>
 <td>Light snow</td>
-<td>Patchy rain nearby</td>
+<td>Light snow</td>
+<td>Light snow</td>
+<td>Cloudy </td>
 <td>Overcast </td>
+<td>Light freezing rain</td>
 <td>Light snow</td>
-<td>Light snow showers</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Moderate snow</td>
-<td>Moderate snow</td>
+<td>Light snow</td>
 </tr>
 <tr><th>Temperature</th>
 <td>0 °C</td>
@@ -140,18 +140,18 @@
 <td>-0.8 °C</td>
 <td>-0.5 °C</td>
 <td>0.2 °C</td>
-<td>0.9 °C</td>
+<td>0.8 °C</td>
 <td>1.3 °C</td>
 <td>1.7 °C</td>
 <td>1.8 °C</td>
 <td>1.8 °C</td>
-<td>1.5 °C</td>
-<td>0.7 °C</td>
-<td>-0.3 °C</td>
-<td>-0.5 °C</td>
+<td>1.6 °C</td>
+<td>0.9 °C</td>
+<td>0.1 °C</td>
+<td>-0 °C</td>
+<td>-0.4 °C</td>
 <td>-0.6 °C</td>
 <td>-0.6 °C</td>
-<td>-0.7 °C</td>
 <td>-0.6 °C</td>
 </tr>
 <tr><th>Wind</th>
@@ -167,18 +167,18 @@
 <td>9.4 kph</td>
 <td>10.8 kph</td>
 <td>12.2 kph</td>
-<td>13.3 kph</td>
-<td>15.5 kph</td>
-<td>15.1 kph</td>
-<td>15.5 kph</td>
-<td>15.5 kph</td>
-<td>16.2 kph</td>
+<td>13 kph</td>
 <td>14.8 kph</td>
 <td>14.8 kph</td>
-<td>15.1 kph</td>
+<td>15.5 kph</td>
+<td>14.8 kph</td>
+<td>16.6 kph</td>
 <td>14.8 kph</td>
 <td>14.4 kph</td>
+<td>15.1 kph</td>
 <td>14.8 kph</td>
+<td>14 kph</td>
+<td>14.4 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-03 12:48:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-03 18:33:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
