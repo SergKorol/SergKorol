@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjxsv823ox21j6xho3eq.jpg" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb">Design Patterns #4: Unlocking Flexibility with the Bridge Pattern.</a><hr><p>Today, I want to discuss another structural design pattern: the Bridge Pattern. We'll implement this...</p><br><i>Published by: Serhii Korol</i><br><b>02/05/2025 11:07:35</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya99m5ecjg47pgoku05c.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o">Design Patterns #3: Power of Command.</a><hr><p>Today, we’ll dive into another behavioral design pattern: the Command Pattern. I’ll explain what it...</p><br><i>Published by: Serhii Korol</i><br><b>02/03/2025 13:13:34</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkigu1ffarq7vcvj7iypk.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98">Design Patterns #1: Strategy – A Different Perspective.</a><hr><p>Design patterns have been extensively covered in countless articles, but I want to explore this topic...</p><br><i>Published by: Serhii Korol</i><br><b>01/21/2025 12:55:19</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07nc6zckl2u8en9a5iux.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0">Web application translation in two ways.</a><hr><p>In this article, I'll show you how to translate a web application built using ASP.NET and discuss two...</p><br><i>Published by: Serhii Korol</i><br><b>12/25/2024 19:27:30</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-05 06:34:12 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-05 12:49:39 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -83,23 +83,23 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -109,23 +109,23 @@
 <td>Light snow showers</td>
 <td>Light snow showers</td>
 <td>Light freezing rain</td>
-<td>Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Sunny</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Overcast </td>
 <td>Cloudy </td>
-<td>Light freezing rain</td>
-<td>Light freezing rain</td>
-<td>Light snow</td>
-<td>Light freezing rain</td>
 <td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Light freezing rain</td>
 <td>Light freezing rain</td>
 </tr>
 <tr><th>Temperature</th>
@@ -137,22 +137,22 @@
 <td>-1.7 °C</td>
 <td>-1.9 °C</td>
 <td>-2.1 °C</td>
-<td>-2.1 °C</td>
-<td>-1.7 °C</td>
+<td>-2 °C</td>
+<td>-1.6 °C</td>
 <td>-1.2 °C</td>
-<td>-0.7 °C</td>
-<td>-0.3 °C</td>
-<td>0 °C</td>
-<td>0.3 °C</td>
-<td>0.3 °C</td>
-<td>-0.1 °C</td>
-<td>-0.4 °C</td>
 <td>-0.6 °C</td>
-<td>-0.8 °C</td>
-<td>-1 °C</td>
-<td>-1 °C</td>
-<td>-1 °C</td>
+<td>-0.2 °C</td>
+<td>0.2 °C</td>
+<td>0.5 °C</td>
+<td>0.5 °C</td>
+<td>0.1 °C</td>
+<td>-0.3 °C</td>
+<td>-0.4 °C</td>
+<td>-0.5 °C</td>
+<td>-0.7 °C</td>
+<td>-0.9 °C</td>
 <td>-1.2 °C</td>
+<td>-1.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.4 kph</td>
@@ -160,25 +160,25 @@
 <td>11.9 kph</td>
 <td>12.6 kph</td>
 <td>13 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
-<td>13 kph</td>
 <td>13.3 kph</td>
-<td>15.1 kph</td>
+<td>13 kph</td>
+<td>13 kph</td>
+<td>13.7 kph</td>
+<td>15.5 kph</td>
 <td>16.6 kph</td>
-<td>16.6 kph</td>
-<td>17.3 kph</td>
-<td>18.7 kph</td>
-<td>19.4 kph</td>
-<td>18.7 kph</td>
-<td>19.1 kph</td>
-<td>19.1 kph</td>
-<td>19.4 kph</td>
-<td>19.1 kph</td>
-<td>18.7 kph</td>
+<td>16.9 kph</td>
 <td>17.6 kph</td>
-<td>16.6 kph</td>
-<td>16.6 kph</td>
+<td>19.1 kph</td>
+<td>19.4 kph</td>
+<td>19.4 kph</td>
+<td>19.4 kph</td>
+<td>19.4 kph</td>
+<td>20.2 kph</td>
+<td>19.4 kph</td>
+<td>18.4 kph</td>
+<td>17.3 kph</td>
+<td>15.8 kph</td>
+<td>15.5 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-05 06:34:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-05 12:49:42 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 

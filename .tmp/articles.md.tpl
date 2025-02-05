@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjxsv823ox21j6xho3eq.jpg" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb">Design Patterns #4: Unlocking Flexibility with the Bridge Pattern.</a><hr><p>Today, I want to discuss another structural design pattern: the Bridge Pattern. We'll implement this...</p><br><i>Published by: Serhii Korol</i><br><b>02/05/2025 11:07:35</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya99m5ecjg47pgoku05c.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o">Design Patterns #3: Power of Command.</a><hr><p>Today, we’ll dive into another behavioral design pattern: the Command Pattern. I’ll explain what it...</p><br><i>Published by: Serhii Korol</i><br><b>02/03/2025 13:13:34</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkigu1ffarq7vcvj7iypk.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98">Design Patterns #1: Strategy – A Different Perspective.</a><hr><p>Design patterns have been extensively covered in countless articles, but I want to explore this topic...</p><br><i>Published by: Serhii Korol</i><br><b>01/21/2025 12:55:19</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07nc6zckl2u8en9a5iux.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/web-application-translation-in-two-ways-3np0">Web application translation in two ways.</a><hr><p>In this article, I'll show you how to translate a web application built using ASP.NET and discuss two...</p><br><i>Published by: Serhii Korol</i><br><b>12/25/2024 19:27:30</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-05 06:34:12 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-05 12:49:39 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
