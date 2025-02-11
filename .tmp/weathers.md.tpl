@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -89,7 +89,7 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>-4.7 °C</td>
+<td>-4.8 °C</td>
 <td>-4.9 °C</td>
 <td>-5.1 °C</td>
 <td>-5.2 °C</td>
@@ -97,47 +97,47 @@
 <td>-5.4 °C</td>
 <td>-5.6 °C</td>
 <td>-5.7 °C</td>
-<td>-5.5 °C</td>
-<td>-4.7 °C</td>
-<td>-3.7 °C</td>
-<td>-2.8 °C</td>
+<td>-5.6 °C</td>
+<td>-4.8 °C</td>
+<td>-3.8 °C</td>
+<td>-2.9 °C</td>
+<td>-2.2 °C</td>
+<td>-1.6 °C</td>
+<td>-1.1 °C</td>
+<td>-0.9 °C</td>
+<td>-1.1 °C</td>
 <td>-2 °C</td>
-<td>-1.4 °C</td>
-<td>-1 °C</td>
-<td>-0.8 °C</td>
-<td>-1 °C</td>
-<td>-1.9 °C</td>
-<td>-2.3 °C</td>
-<td>-2.5 °C</td>
-<td>-2.8 °C</td>
-<td>-3 °C</td>
-<td>-3.2 °C</td>
-<td>-3.5 °C</td>
+<td>-2.4 °C</td>
+<td>-2.6 °C</td>
+<td>-2.9 °C</td>
+<td>-3.1 °C</td>
+<td>-3.3 °C</td>
+<td>-3.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>4.7 kph</td>
-<td>4.3 kph</td>
-<td>3.6 kph</td>
-<td>3.6 kph</td>
+<td>5 kph</td>
 <td>4 kph</td>
-<td>5.8 kph</td>
-<td>5.8 kph</td>
+<td>4 kph</td>
+<td>4.7 kph</td>
+<td>6.5 kph</td>
 <td>6.1 kph</td>
-<td>7.2 kph</td>
+<td>6.5 kph</td>
+<td>7.9 kph</td>
 <td>9.4 kph</td>
 <td>10.1 kph</td>
 <td>9.7 kph</td>
-<td>9 kph</td>
-<td>8.6 kph</td>
+<td>9.4 kph</td>
 <td>8.3 kph</td>
+<td>7.9 kph</td>
+<td>9.4 kph</td>
 <td>9 kph</td>
-<td>8.6 kph</td>
 <td>7.6 kph</td>
 <td>7.9 kph</td>
 <td>7.6 kph</td>
-<td>6.8 kph</td>
 <td>7.2 kph</td>
 <td>7.2 kph</td>
+<td>7.9 kph</td>
 <td>7.2 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-11 01:51:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-11 06:34:40 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
