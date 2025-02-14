@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu4dfstuc55hedinnbn3.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 1</a><hr><p>Every developer, including Automation QA engineers, is familiar with Selenium WebDriver, the go-to...</p><br><i>Published by: Serhii Korol</i><br><b>02/14/2025 15:26:00</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjxsv823ox21j6xho3eq.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb">Design Patterns #4: Unlocking Flexibility with the Bridge Pattern.</a><hr><p>Today, I want to discuss another structural design pattern: the Bridge Pattern. We'll implement this...</p><br><i>Published by: Serhii Korol</i><br><b>02/05/2025 11:07:35</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnafjoblsv9s2ildwmmub.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73">The Fastest Way to Generate a Table from a Collection.</a><hr><p>Developers frequently encounter the task of displaying data in a table. Typically, this is handled on...</p><br><i>Published by: Serhii Korol</i><br><b>01/28/2025 14:16:09</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkigu1ffarq7vcvj7iypk.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98">Design Patterns #1: Strategy – A Different Perspective.</a><hr><p>Design patterns have been extensively covered in countless articles, but I want to explore this topic...</p><br><i>Published by: Serhii Korol</i><br><b>01/21/2025 12:55:19</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-14 12:49:02 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-14 18:34:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
