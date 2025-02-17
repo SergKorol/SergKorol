@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/abstract-vs-interface-deep-dive-2fb6"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5mn649nd4xocvieadqe.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/abstract-vs-interface-deep-dive-2fb6">Abstract vs Interface: Deep dive.</a><hr><p>Most developers are familiar with the differences between abstract classes and interfaces—at least, I...</p><br><i>Published by: Serhii Korol</i><br><b>02/17/2025 15:03:26</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu4dfstuc55hedinnbn3.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 1</a><hr><p>Every developer, including Automation QA engineers, is familiar with Selenium WebDriver, the go-to...</p><br><i>Published by: Serhii Korol</i><br><b>02/14/2025 15:26:00</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifion3invfk0fwa8g2gy.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p">Design Patterns #2: You don't know Singleton.</a><hr><p>Every software developer encounters this pattern regularly, often working with it on a daily basis....</p><br><i>Published by: Serhii Korol</i><br><b>01/30/2025 15:16:26</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnafjoblsv9s2ildwmmub.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/the-fastest-way-to-generate-a-table-from-a-collection-2c73">The Fastest Way to Generate a Table from a Collection.</a><hr><p>Developers frequently encounter the task of displaying data in a table. Typically, this is handled on...</p><br><i>Published by: Serhii Korol</i><br><b>01/28/2025 14:16:09</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-17 12:51:16 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-17 18:33:40 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Partly Cloudy</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -89,7 +89,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -115,7 +115,7 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
+<td>Sunny</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
@@ -140,17 +140,17 @@
 <td>-9.1 °C</td>
 <td>-7.7 °C</td>
 <td>-6.6 °C</td>
-<td>-5.7 °C</td>
-<td>-5.1 °C</td>
-<td>-4.7 °C</td>
+<td>-5.6 °C</td>
+<td>-5 °C</td>
+<td>-4.6 °C</td>
 <td>-4.4 °C</td>
-<td>-4.3 °C</td>
+<td>-4.4 °C</td>
 <td>-4.7 °C</td>
-<td>-6.1 °C</td>
-<td>-7 °C</td>
-<td>-7.2 °C</td>
+<td>-6.2 °C</td>
+<td>-7.1 °C</td>
+<td>-7.3 °C</td>
 <td>-7.5 °C</td>
-<td>-7.6 °C</td>
+<td>-7.7 °C</td>
 <td>-7.8 °C</td>
 <td>-7.9 °C</td>
 </tr>
@@ -166,19 +166,19 @@
 <td>7.9 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
-<td>9 kph</td>
-<td>9.7 kph</td>
+<td>8.6 kph</td>
+<td>9.4 kph</td>
+<td>10.4 kph</td>
 <td>11.2 kph</td>
-<td>11.9 kph</td>
-<td>11.5 kph</td>
-<td>9.7 kph</td>
+<td>10.8 kph</td>
+<td>9.4 kph</td>
+<td>6.8 kph</td>
 <td>7.2 kph</td>
-<td>7.6 kph</td>
+<td>7.9 kph</td>
 <td>8.3 kph</td>
 <td>8.6 kph</td>
 <td>9.4 kph</td>
 <td>9.7 kph</td>
-<td>10.1 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-17 12:51:19 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-17 18:33:44 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
