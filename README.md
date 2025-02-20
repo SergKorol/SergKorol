@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8edkzgtx0xro0rrgqknf.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 2</a><hr><p>Introduction   Good day! In my previous article , I covered how to launch the Chrome...</p><br><i>Published by: Serhii Korol</i><br><b>02/20/2025 12:49:02</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/abstract-vs-interface-deep-dive-2fb6"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5mn649nd4xocvieadqe.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/abstract-vs-interface-deep-dive-2fb6">Abstract vs Interface: Deep dive.</a><hr><p>Most developers are familiar with the differences between abstract classes and interfaces—at least, I...</p><br><i>Published by: Serhii Korol</i><br><b>02/17/2025 15:03:26</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya99m5ecjg47pgoku05c.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o">Design Patterns #3: Power of Command.</a><hr><p>Today, we’ll dive into another behavioral design pattern: the Command Pattern. I’ll explain what it...</p><br><i>Published by: Serhii Korol</i><br><b>02/03/2025 13:13:34</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifion3invfk0fwa8g2gy.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-2-you-dont-know-singleton-k4p">Design Patterns #2: You don't know Singleton.</a><hr><p>Every software developer encounters this pattern regularly, often working with it on a daily basis....</p><br><i>Published by: Serhii Korol</i><br><b>01/30/2025 15:16:26</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-20 06:35:00 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-20 12:50:37 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-20</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Light freezing rain" />
 
-<b>Sunny</b>
+<b>Light freezing rain</b>
 </div>
 
 <table>
@@ -88,15 +88,15 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
@@ -114,15 +114,15 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
 <td>Partly Cloudy </td>
+<td>Cloudy </td>
 <td>Overcast </td>
 <td>Light freezing rain</td>
 <td>Light freezing rain</td>
 <td>Light freezing rain</td>
-<td>Light freezing rain</td>
 <td>Cloudy </td>
 <td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -134,25 +134,25 @@
 <td>-6 °C</td>
 <td>-6.5 °C</td>
 <td>-7.2 °C</td>
-<td>-7.7 °C</td>
-<td>-7.9 °C</td>
-<td>-8.1 °C</td>
-<td>-8 °C</td>
-<td>-6.9 °C</td>
-<td>-5.9 °C</td>
-<td>-5.1 °C</td>
-<td>-4.5 °C</td>
-<td>-4.1 °C</td>
-<td>-3.8 °C</td>
-<td>-3.8 °C</td>
-<td>-4.1 °C</td>
-<td>-5.2 °C</td>
-<td>-6.3 °C</td>
-<td>-6.8 °C</td>
-<td>-7.1 °C</td>
-<td>-7.5 °C</td>
-<td>-8 °C</td>
+<td>-8.2 °C</td>
+<td>-8.4 °C</td>
+<td>-8.6 °C</td>
 <td>-8.3 °C</td>
+<td>-7.1 °C</td>
+<td>-6 °C</td>
+<td>-5.2 °C</td>
+<td>-4.6 °C</td>
+<td>-4.1 °C</td>
+<td>-3.8 °C</td>
+<td>-3.8 °C</td>
+<td>-4.1 °C</td>
+<td>-5.4 °C</td>
+<td>-6.6 °C</td>
+<td>-7.1 °C</td>
+<td>-7.4 °C</td>
+<td>-7.7 °C</td>
+<td>-8.1 °C</td>
+<td>-8.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.8 kph</td>
@@ -160,25 +160,25 @@
 <td>9 kph</td>
 <td>9.4 kph</td>
 <td>9 kph</td>
+<td>8.3 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
-<td>9.4 kph</td>
 <td>11.5 kph</td>
+<td>12.6 kph</td>
 <td>13 kph</td>
-<td>13.7 kph</td>
-<td>13.7 kph</td>
 <td>13.3 kph</td>
 <td>13.3 kph</td>
+<td>13.3 kph</td>
 <td>13 kph</td>
-<td>11.2 kph</td>
-<td>8.3 kph</td>
-<td>6.1 kph</td>
-<td>6.1 kph</td>
+<td>10.8 kph</td>
+<td>7.6 kph</td>
+<td>5.4 kph</td>
+<td>5.4 kph</td>
+<td>6.5 kph</td>
 <td>6.8 kph</td>
-<td>7.2 kph</td>
-<td>6.8 kph</td>
-<td>6.8 kph</td>
+<td>6.5 kph</td>
+<td>6.5 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-20 06:35:04 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-20 12:50:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 

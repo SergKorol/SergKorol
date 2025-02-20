@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-20</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Light freezing rain" />
 
-<b>Sunny</b>
+<b>Light freezing rain</b>
 </div>
 
 <table>
@@ -48,15 +48,15 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
@@ -74,15 +74,15 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
 <td>Partly Cloudy </td>
+<td>Cloudy </td>
 <td>Overcast </td>
 <td>Light freezing rain</td>
 <td>Light freezing rain</td>
 <td>Light freezing rain</td>
-<td>Light freezing rain</td>
 <td>Cloudy </td>
 <td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -94,25 +94,25 @@
 <td>-6 °C</td>
 <td>-6.5 °C</td>
 <td>-7.2 °C</td>
-<td>-7.7 °C</td>
-<td>-7.9 °C</td>
-<td>-8.1 °C</td>
-<td>-8 °C</td>
-<td>-6.9 °C</td>
-<td>-5.9 °C</td>
-<td>-5.1 °C</td>
-<td>-4.5 °C</td>
-<td>-4.1 °C</td>
-<td>-3.8 °C</td>
-<td>-3.8 °C</td>
-<td>-4.1 °C</td>
-<td>-5.2 °C</td>
-<td>-6.3 °C</td>
-<td>-6.8 °C</td>
-<td>-7.1 °C</td>
-<td>-7.5 °C</td>
-<td>-8 °C</td>
+<td>-8.2 °C</td>
+<td>-8.4 °C</td>
+<td>-8.6 °C</td>
 <td>-8.3 °C</td>
+<td>-7.1 °C</td>
+<td>-6 °C</td>
+<td>-5.2 °C</td>
+<td>-4.6 °C</td>
+<td>-4.1 °C</td>
+<td>-3.8 °C</td>
+<td>-3.8 °C</td>
+<td>-4.1 °C</td>
+<td>-5.4 °C</td>
+<td>-6.6 °C</td>
+<td>-7.1 °C</td>
+<td>-7.4 °C</td>
+<td>-7.7 °C</td>
+<td>-8.1 °C</td>
+<td>-8.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.8 kph</td>
@@ -120,25 +120,25 @@
 <td>9 kph</td>
 <td>9.4 kph</td>
 <td>9 kph</td>
+<td>8.3 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
-<td>9.4 kph</td>
 <td>11.5 kph</td>
+<td>12.6 kph</td>
 <td>13 kph</td>
-<td>13.7 kph</td>
-<td>13.7 kph</td>
 <td>13.3 kph</td>
 <td>13.3 kph</td>
+<td>13.3 kph</td>
 <td>13 kph</td>
-<td>11.2 kph</td>
-<td>8.3 kph</td>
-<td>6.1 kph</td>
-<td>6.1 kph</td>
+<td>10.8 kph</td>
+<td>7.6 kph</td>
+<td>5.4 kph</td>
+<td>5.4 kph</td>
+<td>6.5 kph</td>
 <td>6.8 kph</td>
-<td>7.2 kph</td>
-<td>6.8 kph</td>
-<td>6.8 kph</td>
+<td>6.5 kph</td>
+<td>6.5 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-20 06:35:04 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-20 12:50:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
