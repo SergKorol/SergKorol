@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/how-software-engineering-skills-can-improve-your-everyday-life-1nef"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lm1qszx82aiyjjen6xc.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/how-software-engineering-skills-can-improve-your-everyday-life-1nef">How Software Engineering Skills Can Improve Your Everyday Life.</a><hr><p>A few days ago, I discovered a music collection in my archive that already had a playlist. However,...</p><br><i>Published by: Serhii Korol</i><br><b>02/21/2025 14:02:36</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8edkzgtx0xro0rrgqknf.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 2</a><hr><p>Introduction   Good day! In my previous article , I covered how to launch the Chrome...</p><br><i>Published by: Serhii Korol</i><br><b>02/20/2025 12:49:02</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjxsv823ox21j6xho3eq.jpg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb">Design Patterns #4: Unlocking Flexibility with the Bridge Pattern.</a><hr><p>Today, I want to discuss another structural design pattern: the Bridge Pattern. We'll implement this...</p><br><i>Published by: Serhii Korol</i><br><b>02/05/2025 11:07:35</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya99m5ecjg47pgoku05c.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-3-power-of-command-3h8o">Design Patterns #3: Power of Command.</a><hr><p>Today, we’ll dive into another behavioral design pattern: the Command Pattern. I’ll explain what it...</p><br><i>Published by: Serhii Korol</i><br><b>02/03/2025 13:13:34</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-21 12:49:45 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-21 14:05:04 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-21 12:49:48 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-21 14:05:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
