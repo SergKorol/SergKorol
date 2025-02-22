@@ -94,23 +94,23 @@
 <td>-9.9 °C</td>
 <td>-10 °C</td>
 <td>-10.1 °C</td>
-<td>-10.3 °C</td>
+<td>-10.4 °C</td>
 <td>-10.6 °C</td>
-<td>-10.7 °C</td>
+<td>-10.8 °C</td>
 <td>-9.8 °C</td>
-<td>-8.3 °C</td>
+<td>-8.4 °C</td>
 <td>-7.2 °C</td>
 <td>-6.2 °C</td>
-<td>-5.4 °C</td>
+<td>-5.5 °C</td>
 <td>-4.8 °C</td>
-<td>-4.4 °C</td>
+<td>-4.5 °C</td>
 <td>-4.3 °C</td>
 <td>-4.5 °C</td>
-<td>-5.7 °C</td>
-<td>-6.9 °C</td>
-<td>-7.4 °C</td>
+<td>-5.8 °C</td>
+<td>-7 °C</td>
+<td>-7.5 °C</td>
 <td>-7.8 °C</td>
-<td>-8 °C</td>
+<td>-8.1 °C</td>
 <td>-8.3 °C</td>
 <td>-8.5 °C</td>
 </tr>
@@ -120,25 +120,25 @@
 <td>3.6 kph</td>
 <td>1.8 kph</td>
 <td>2.5 kph</td>
+<td>5 kph</td>
 <td>4.7 kph</td>
 <td>4 kph</td>
-<td>4 kph</td>
-<td>5.4 kph</td>
-<td>7.2 kph</td>
-<td>7.2 kph</td>
+<td>5.8 kph</td>
+<td>6.5 kph</td>
 <td>6.8 kph</td>
+<td>6.5 kph</td>
 <td>6.1 kph</td>
-<td>6.1 kph</td>
-<td>6.1 kph</td>
+<td>5.8 kph</td>
+<td>6.5 kph</td>
 <td>6.8 kph</td>
-<td>7.2 kph</td>
-<td>5.4 kph</td>
-<td>5 kph</td>
-<td>5 kph</td>
-<td>5.4 kph</td>
+<td>6.8 kph</td>
+<td>5.8 kph</td>
+<td>5.8 kph</td>
+<td>5.8 kph</td>
+<td>5.8 kph</td>
 <td>5.8 kph</td>
 <td>5.4 kph</td>
-<td>4.3 kph</td>
+<td>4.7 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-22 08:29:24 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-22 12:45:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
