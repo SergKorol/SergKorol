@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-22 01:50:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-22 04:31:47 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-22</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Clear</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -81,8 +81,8 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -107,8 +107,8 @@
 <td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Mist</td>
-<td>Mist</td>
+<td>Clear </td>
+<td>Clear </td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Sunny</td>
@@ -129,56 +129,56 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>-9.4 °C</td>
+<td>-9.5 °C</td>
 <td>-9.7 °C</td>
-<td>-9.8 °C</td>
+<td>-9.9 °C</td>
 <td>-10 °C</td>
 <td>-10.1 °C</td>
-<td>-10.2 °C</td>
-<td>-10.5 °C</td>
+<td>-10.3 °C</td>
 <td>-10.6 °C</td>
-<td>-9.7 °C</td>
-<td>-8.2 °C</td>
-<td>-7 °C</td>
-<td>-6.1 °C</td>
-<td>-5.3 °C</td>
-<td>-4.7 °C</td>
-<td>-4.3 °C</td>
-<td>-4.2 °C</td>
+<td>-10.7 °C</td>
+<td>-9.8 °C</td>
+<td>-8.3 °C</td>
+<td>-7.2 °C</td>
+<td>-6.2 °C</td>
+<td>-5.4 °C</td>
+<td>-4.8 °C</td>
 <td>-4.4 °C</td>
-<td>-5.6 °C</td>
-<td>-6.8 °C</td>
+<td>-4.3 °C</td>
+<td>-4.5 °C</td>
+<td>-5.7 °C</td>
+<td>-6.9 °C</td>
 <td>-7.4 °C</td>
-<td>-7.7 °C</td>
+<td>-7.8 °C</td>
 <td>-8 °C</td>
 <td>-8.3 °C</td>
 <td>-8.5 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>4.3 kph</td>
+<td>4.7 kph</td>
 <td>4.3 kph</td>
 <td>3.6 kph</td>
-<td>3.6 kph</td>
+<td>1.8 kph</td>
 <td>2.5 kph</td>
-<td>4.3 kph</td>
-<td>3.6 kph</td>
-<td>3.6 kph</td>
-<td>5.8 kph</td>
+<td>4.7 kph</td>
+<td>4 kph</td>
+<td>4 kph</td>
+<td>5.4 kph</td>
+<td>7.2 kph</td>
+<td>7.2 kph</td>
 <td>6.8 kph</td>
-<td>6.5 kph</td>
-<td>6.5 kph</td>
-<td>6.5 kph</td>
-<td>6.5 kph</td>
+<td>6.1 kph</td>
+<td>6.1 kph</td>
 <td>6.1 kph</td>
 <td>6.8 kph</td>
 <td>7.2 kph</td>
 <td>5.4 kph</td>
+<td>5 kph</td>
+<td>5 kph</td>
 <td>5.4 kph</td>
 <td>5.8 kph</td>
 <td>5.4 kph</td>
-<td>5 kph</td>
-<td>5 kph</td>
-<td>4.7 kph</td>
+<td>4.3 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-22 01:50:28 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-22 04:31:51 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
