@@ -9,6 +9,10 @@
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-3-39p9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6za0l4abu4p8o08zwlxc.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-3-39p9">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 3</a><hr><p>Good day! In my previous articles, I explained how to scrape data and interact with the DOM and...</p><br><i>Published by: Serhii Korol</i><br><b>02/25/2025 14:22:28</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/how-software-engineering-skills-can-improve-your-everyday-life-1nef"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lm1qszx82aiyjjen6xc.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/how-software-engineering-skills-can-improve-your-everyday-life-1nef">How Software Engineering Skills Can Improve Your Everyday Life.</a><hr><p>A few days ago, I discovered a music collection in my archive that already had a playlist. However,...</p><br><i>Published by: Serhii Korol</i><br><b>02/21/2025 14:02:36</b></td>
 </tr>
@@ -24,16 +28,12 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxu4dfstuc55hedinnbn3.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-1-4nna">Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 1</a><hr><p>Every developer, including Automation QA engineers, is familiar with Selenium WebDriver, the go-to...</p><br><i>Published by: Serhii Korol</i><br><b>02/14/2025 15:26:00</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjxsv823ox21j6xho3eq.jpg" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-4-unlocking-flexibility-with-the-bridge-pattern-5gbb">Design Patterns #4: Unlocking Flexibility with the Bridge Pattern.</a><hr><p>Today, I want to discuss another structural design pattern: the Bridge Pattern. We'll implement this...</p><br><i>Published by: Serhii Korol</i><br><b>02/05/2025 11:07:35</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-02-25 12:51:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-02-25 16:35:05 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-25</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -99,7 +99,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -125,7 +125,7 @@
 <td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Partly Cloudy </td>
+<td>Clear </td>
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
@@ -140,17 +140,17 @@
 <td>-8 °C</td>
 <td>-6.3 °C</td>
 <td>-5 °C</td>
-<td>-3.8 °C</td>
-<td>-2.9 °C</td>
-<td>-2.3 °C</td>
+<td>-3.9 °C</td>
+<td>-3 °C</td>
+<td>-2.5 °C</td>
+<td>-2 °C</td>
 <td>-1.8 °C</td>
-<td>-1.7 °C</td>
-<td>-1.8 °C</td>
-<td>-3.1 °C</td>
+<td>-2 °C</td>
+<td>-3.2 °C</td>
 <td>-4.1 °C</td>
-<td>-4.6 °C</td>
+<td>-4.7 °C</td>
 <td>-5.1 °C</td>
-<td>-5.4 °C</td>
+<td>-5.5 °C</td>
 <td>-5.7 °C</td>
 <td>-5.9 °C</td>
 </tr>
@@ -166,19 +166,19 @@
 <td>4.3 kph</td>
 <td>4.7 kph</td>
 <td>5.4 kph</td>
-<td>2.9 kph</td>
-<td>3.6 kph</td>
+<td>3.2 kph</td>
 <td>4.3 kph</td>
-<td>3.6 kph</td>
+<td>5 kph</td>
+<td>2.9 kph</td>
 <td>1.8 kph</td>
 <td>1.4 kph</td>
 <td>4.3 kph</td>
 <td>5 kph</td>
 <td>4.7 kph</td>
-<td>4.3 kph</td>
-<td>4 kph</td>
 <td>4.7 kph</td>
 <td>4 kph</td>
+<td>4.7 kph</td>
+<td>4.3 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-25 12:51:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-25 16:35:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 

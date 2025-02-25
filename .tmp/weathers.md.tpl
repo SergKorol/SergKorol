@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-02-25</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -59,7 +59,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -85,7 +85,7 @@
 <td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Partly Cloudy </td>
+<td>Clear </td>
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
@@ -100,17 +100,17 @@
 <td>-8 °C</td>
 <td>-6.3 °C</td>
 <td>-5 °C</td>
-<td>-3.8 °C</td>
-<td>-2.9 °C</td>
-<td>-2.3 °C</td>
+<td>-3.9 °C</td>
+<td>-3 °C</td>
+<td>-2.5 °C</td>
+<td>-2 °C</td>
 <td>-1.8 °C</td>
-<td>-1.7 °C</td>
-<td>-1.8 °C</td>
-<td>-3.1 °C</td>
+<td>-2 °C</td>
+<td>-3.2 °C</td>
 <td>-4.1 °C</td>
-<td>-4.6 °C</td>
+<td>-4.7 °C</td>
 <td>-5.1 °C</td>
-<td>-5.4 °C</td>
+<td>-5.5 °C</td>
 <td>-5.7 °C</td>
 <td>-5.9 °C</td>
 </tr>
@@ -126,19 +126,19 @@
 <td>4.3 kph</td>
 <td>4.7 kph</td>
 <td>5.4 kph</td>
-<td>2.9 kph</td>
-<td>3.6 kph</td>
+<td>3.2 kph</td>
 <td>4.3 kph</td>
-<td>3.6 kph</td>
+<td>5 kph</td>
+<td>2.9 kph</td>
 <td>1.8 kph</td>
 <td>1.4 kph</td>
 <td>4.3 kph</td>
 <td>5 kph</td>
 <td>4.7 kph</td>
-<td>4.3 kph</td>
-<td>4 kph</td>
 <td>4.7 kph</td>
 <td>4 kph</td>
+<td>4.7 kph</td>
+<td>4.3 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-02-25 12:51:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-02-25 16:35:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
