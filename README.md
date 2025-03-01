@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-01 12:46:59 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-01 16:31:11 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <b>Kyiv, Ukraine - 2025-03-01</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
 
 <b>Light snow</b>
 </div>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-01 12:47:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-01 16:31:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
