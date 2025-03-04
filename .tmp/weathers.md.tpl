@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-03-04</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
-<b>Clear</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -48,16 +48,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
@@ -74,16 +74,16 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Partly Cloudy </td>
-<td>Overcast </td>
 <td>Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
+<td>Sunny</td>
 <td>Overcast </td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Clear </td>
 <td>Partly Cloudy </td>
-<td>Clear </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -100,19 +100,19 @@
 <td>2.6 °C</td>
 <td>3.4 °C</td>
 <td>4.5 °C</td>
-<td>5.7 °C</td>
-<td>6.1 °C</td>
-<td>6.6 °C</td>
-<td>7.9 °C</td>
-<td>8.2 °C</td>
-<td>8.1 °C</td>
-<td>7.5 °C</td>
-<td>7.2 °C</td>
-<td>7 °C</td>
-<td>6.8 °C</td>
-<td>6.7 °C</td>
-<td>6.6 °C</td>
 <td>6.3 °C</td>
+<td>6.8 °C</td>
+<td>7.2 °C</td>
+<td>8.2 °C</td>
+<td>8.5 °C</td>
+<td>8.3 °C</td>
+<td>7.9 °C</td>
+<td>7.5 °C</td>
+<td>7.3 °C</td>
+<td>7.2 °C</td>
+<td>6.9 °C</td>
+<td>6.7 °C</td>
+<td>6.4 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>18.4 kph</td>
@@ -127,18 +127,18 @@
 <td>19.8 kph</td>
 <td>22.3 kph</td>
 <td>24.1 kph</td>
-<td>25.9 kph</td>
-<td>24.5 kph</td>
-<td>24.8 kph</td>
 <td>25.6 kph</td>
-<td>26.6 kph</td>
 <td>25.9 kph</td>
-<td>25.2 kph</td>
-<td>26.3 kph</td>
+<td>25.6 kph</td>
+<td>24.5 kph</td>
+<td>25.6 kph</td>
+<td>25.6 kph</td>
+<td>24.8 kph</td>
+<td>27 kph</td>
 <td>28.4 kph</td>
 <td>29.2 kph</td>
-<td>29.9 kph</td>
-<td>30.2 kph</td>
+<td>29.5 kph</td>
+<td>29.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-04 16:35:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-04 20:28:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
