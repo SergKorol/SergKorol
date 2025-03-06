@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-06 16:34:49 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-06 20:29:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -140,17 +140,17 @@
 <td>7.8 °C</td>
 <td>8.8 °C</td>
 <td>10.4 °C</td>
-<td>12.1 °C</td>
+<td>12.2 °C</td>
 <td>13.6 °C</td>
-<td>14.8 °C</td>
+<td>14.7 °C</td>
 <td>15.4 °C</td>
-<td>15.6 °C</td>
+<td>15.7 °C</td>
 <td>15.1 °C</td>
-<td>14.4 °C</td>
+<td>14.3 °C</td>
 <td>12.7 °C</td>
 <td>11.7 °C</td>
 <td>10.9 °C</td>
-<td>10.1 °C</td>
+<td>10.2 °C</td>
 <td>9.4 °C</td>
 <td>8.9 °C</td>
 </tr>
@@ -166,19 +166,19 @@
 <td>25.9 kph</td>
 <td>25.9 kph</td>
 <td>26.3 kph</td>
+<td>27.4 kph</td>
 <td>27 kph</td>
+<td>27.4 kph</td>
 <td>26.6 kph</td>
-<td>26.3 kph</td>
-<td>25.9 kph</td>
-<td>25.2 kph</td>
-<td>23.8 kph</td>
-<td>21.6 kph</td>
+<td>25.6 kph</td>
+<td>24.5 kph</td>
+<td>22 kph</td>
+<td>19.4 kph</td>
 <td>18.7 kph</td>
-<td>18.4 kph</td>
-<td>18.4 kph</td>
-<td>16.9 kph</td>
+<td>19.1 kph</td>
+<td>17.6 kph</td>
+<td>16.6 kph</td>
 <td>15.8 kph</td>
-<td>15.1 kph</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-06 16:34:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-06 20:29:12 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
