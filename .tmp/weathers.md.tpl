@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-03-07</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Clear</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -107,7 +107,7 @@
 <td>15.7 °C</td>
 <td>15.2 °C</td>
 <td>13.9 °C</td>
-<td>12.2 °C</td>
+<td>12.3 °C</td>
 <td>11.4 °C</td>
 <td>10.7 °C</td>
 <td>10.1 °C</td>
@@ -133,7 +133,7 @@
 <td>13.7 kph</td>
 <td>11.5 kph</td>
 <td>8.3 kph</td>
-<td>7.6 kph</td>
+<td>7.9 kph</td>
 <td>7.2 kph</td>
 <td>6.8 kph</td>
 <td>5.8 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-07 16:34:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-07 20:29:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
