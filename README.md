@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-08 01:34:27 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-08 04:25:51 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -158,10 +158,10 @@
 <td>4.3 kph</td>
 <td>3.6 kph</td>
 <td>2.5 kph</td>
+<td>1.8 kph</td>
+<td>1.1 kph</td>
+<td>1.1 kph</td>
 <td>3.6 kph</td>
-<td>1.1 kph</td>
-<td>1.1 kph</td>
-<td>2.2 kph</td>
 <td>1.8 kph</td>
 <td>2.5 kph</td>
 <td>3.2 kph</td>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-08 01:34:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-08 04:25:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
