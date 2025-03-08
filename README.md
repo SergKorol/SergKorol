@@ -33,7 +33,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-08 12:39:30 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-08 16:26:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -43,9 +43,9 @@
 
 <b>Kyiv, Ukraine - 2025-03-08</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Partly Cloudy</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -169,7 +169,7 @@
 <td>4.7 kph</td>
 <td>4.7 kph</td>
 <td>3.6 kph</td>
-<td>3.6 kph</td>
+<td>2.9 kph</td>
 <td>3.6 kph</td>
 <td>4.3 kph</td>
 <td>5.8 kph</td>
@@ -186,7 +186,7 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-08 12:39:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-08 16:26:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
