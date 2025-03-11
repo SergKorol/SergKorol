@@ -43,7 +43,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -58,9 +58,9 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -69,7 +69,7 @@
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
-<td>Partly Cloudy </td>
+<td>Clear </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -84,9 +84,9 @@
 <td>Clear </td>
 <td>Clear </td>
 <td>Clear </td>
-<td>Partly Cloudy </td>
 <td>Clear </td>
 <td>Partly Cloudy </td>
+<td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
 <td>9.1 °C</td>
@@ -94,25 +94,25 @@
 <td>8.6 °C</td>
 <td>8.6 °C</td>
 <td>8.7 °C</td>
-<td>8.8 °C</td>
-<td>8.7 °C</td>
-<td>8.3 °C</td>
 <td>8.9 °C</td>
-<td>10.7 °C</td>
-<td>12.8 °C</td>
-<td>14.9 °C</td>
+<td>8.7 °C</td>
+<td>8.2 °C</td>
+<td>8.9 °C</td>
+<td>10.6 °C</td>
+<td>12.7 °C</td>
+<td>14.8 °C</td>
 <td>16.6 °C</td>
-<td>17.7 °C</td>
-<td>18.7 °C</td>
-<td>18.7 °C</td>
-<td>18 °C</td>
-<td>16.5 °C</td>
-<td>14.5 °C</td>
-<td>13.5 °C</td>
-<td>12.9 °C</td>
-<td>12.4 °C</td>
+<td>17.8 °C</td>
+<td>18.3 °C</td>
+<td>18.5 °C</td>
+<td>17.6 °C</td>
+<td>16.2 °C</td>
+<td>14.3 °C</td>
+<td>13.3 °C</td>
+<td>12.6 °C</td>
 <td>12 °C</td>
-<td>11.7 °C</td>
+<td>11.9 °C</td>
+<td>11.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>13.7 kph</td>
@@ -121,24 +121,24 @@
 <td>14.8 kph</td>
 <td>14.8 kph</td>
 <td>15.8 kph</td>
-<td>13.3 kph</td>
+<td>13 kph</td>
 <td>12.6 kph</td>
-<td>12.6 kph</td>
+<td>13 kph</td>
 <td>14 kph</td>
 <td>15.8 kph</td>
-<td>16.9 kph</td>
-<td>18.7 kph</td>
-<td>19.8 kph</td>
-<td>22.7 kph</td>
+<td>17.3 kph</td>
+<td>17.6 kph</td>
 <td>20.2 kph</td>
-<td>22.3 kph</td>
-<td>16.9 kph</td>
-<td>10.8 kph</td>
+<td>23.8 kph</td>
+<td>23.4 kph</td>
+<td>22 kph</td>
+<td>18.4 kph</td>
+<td>11.5 kph</td>
 <td>9.7 kph</td>
-<td>7.9 kph</td>
-<td>6.1 kph</td>
-<td>4.7 kph</td>
+<td>8.3 kph</td>
+<td>5.8 kph</td>
 <td>4 kph</td>
+<td>4.7 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-11 08:34:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-11 12:53:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
