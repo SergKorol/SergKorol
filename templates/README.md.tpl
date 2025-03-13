@@ -22,7 +22,8 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 - 😄 Pronouns: he/his/him 
 - ⚡ Fun fact: I'm crazy 🤪  
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="background:white; padding:5px; border-radius:5px;">](https://github.com/SergKorol)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" height="40">](https://github.com/SergKorol)
+
 
 
 
