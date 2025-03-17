@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-03-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -37,13 +37,13 @@
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -51,24 +51,24 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/362.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/227.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/323.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
-<td>Overcast </td>
-<td>Overcast </td>
+<td>Partly Cloudy </td>
 <td>Cloudy </td>
 <td>Overcast </td>
 <td>Overcast </td>
-<td>Partly Cloudy </td>
+<td>Overcast </td>
+<td>Cloudy </td>
 <td>Clear </td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -77,68 +77,68 @@
 <td>Partly Cloudy </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
+<td>Light sleet showers</td>
+<td>Moderate or heavy snow showers</td>
 <td>Light snow showers</td>
-<td>Overcast </td>
-<td>Patchy rain nearby</td>
 <td>Light snow showers</td>
-<td>Blowing snow</td>
 <td>Light snow showers</td>
-<td>Patchy light snow</td>
+<td>Light snow showers</td>
+<td>Light snow showers</td>
+<td>Light snow showers</td>
+<td>Light snow showers</td>
 <td>Light freezing rain</td>
-<td>Partly Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
 <td>1.3 °C</td>
 <td>1.1 °C</td>
-<td>0.8 °C</td>
-<td>0.5 °C</td>
-<td>0.1 °C</td>
-<td>-0.2 °C</td>
-<td>-0.5 °C</td>
-<td>-0.2 °C</td>
 <td>0.9 °C</td>
-<td>2.5 °C</td>
-<td>4 °C</td>
-<td>5.2 °C</td>
-<td>5.9 °C</td>
-<td>5.2 °C</td>
-<td>4.2 °C</td>
+<td>0.5 °C</td>
+<td>0.2 °C</td>
+<td>-0 °C</td>
+<td>-0.4 °C</td>
+<td>-0.2 °C</td>
+<td>1.2 °C</td>
 <td>2.7 °C</td>
-<td>2.1 °C</td>
-<td>1.3 °C</td>
-<td>0.4 °C</td>
-<td>-0.5 °C</td>
+<td>4.2 °C</td>
+<td>5.3 °C</td>
+<td>5.9 °C</td>
+<td>5.7 °C</td>
+<td>4.6 °C</td>
+<td>2.5 °C</td>
+<td>1.6 °C</td>
+<td>0.7 °C</td>
+<td>0.2 °C</td>
+<td>-0.4 °C</td>
+<td>-0.9 °C</td>
 <td>-1.2 °C</td>
-<td>-1.5 °C</td>
-<td>-1.5 °C</td>
-<td>-1.5 °C</td>
+<td>-1.4 °C</td>
+<td>-1.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>6.8 kph</td>
 <td>6.1 kph</td>
 <td>6.8 kph</td>
-<td>8.3 kph</td>
-<td>8.3 kph</td>
+<td>7.9 kph</td>
+<td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
-<td>10.4 kph</td>
-<td>11.2 kph</td>
-<td>13.7 kph</td>
-<td>15.1 kph</td>
-<td>16.9 kph</td>
-<td>20.5 kph</td>
-<td>22.7 kph</td>
+<td>10.1 kph</td>
+<td>11.5 kph</td>
+<td>13.3 kph</td>
+<td>14.8 kph</td>
+<td>16.2 kph</td>
+<td>18.7 kph</td>
+<td>21.2 kph</td>
+<td>24.8 kph</td>
+<td>25.6 kph</td>
+<td>24.5 kph</td>
 <td>25.2 kph</td>
-<td>25.9 kph</td>
+<td>25.6 kph</td>
+<td>26.3 kph</td>
 <td>24.8 kph</td>
-<td>25.9 kph</td>
-<td>27.4 kph</td>
-<td>27 kph</td>
-<td>24.8 kph</td>
+<td>24.1 kph</td>
 <td>23 kph</td>
-<td>22 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-17 04:32:29 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-17 08:34:51 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
