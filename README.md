@@ -15,7 +15,7 @@ thousand subscribers.
 
 Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
-- 🔭 I’m currently working on new articles 
+- 🔭 I’m currently open to work 
 - 🌱 I’m currently learning .NET MAUI 
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-03-19 08:36:04 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-19 09:59:18 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-03-19 08:36:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-19 09:59:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
