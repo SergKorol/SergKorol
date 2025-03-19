@@ -15,7 +15,7 @@ thousand subscribers.
 
 Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
-- 🔭 I’m currently working on new articles 
+- 🔭 I’m currently open to work 
 - 🌱 I’m currently learning .NET MAUI 
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
