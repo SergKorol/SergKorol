@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-03-20</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -55,7 +55,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
@@ -105,14 +105,14 @@
 <td>9.2 °C</td>
 <td>9.8 °C</td>
 <td>10.1 °C</td>
-<td>10.1 °C</td>
-<td>9.8 °C</td>
-<td>8.5 °C</td>
-<td>7.7 °C</td>
+<td>10.2 °C</td>
+<td>9.9 °C</td>
+<td>8.7 °C</td>
+<td>7.8 °C</td>
 <td>7.2 °C</td>
 <td>6.8 °C</td>
 <td>6.4 °C</td>
-<td>5.9 °C</td>
+<td>6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>12.6 kph</td>
@@ -126,17 +126,17 @@
 <td>10.4 kph</td>
 <td>10.4 kph</td>
 <td>10.4 kph</td>
+<td>10.1 kph</td>
 <td>9.7 kph</td>
-<td>9.7 kph</td>
-<td>9.7 kph</td>
-<td>8.6 kph</td>
+<td>9.4 kph</td>
 <td>8.3 kph</td>
-<td>7.2 kph</td>
+<td>7.6 kph</td>
 <td>6.5 kph</td>
-<td>4.7 kph</td>
+<td>5.8 kph</td>
 <td>4 kph</td>
-<td>3.6 kph</td>
 <td>4.3 kph</td>
+<td>4.7 kph</td>
+<td>4.7 kph</td>
 <td>5.8 kph</td>
 <td>6.8 kph</td>
 </tr>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-03-20 16:35:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-20 20:29:28 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
