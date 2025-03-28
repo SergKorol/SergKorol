@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-03-28 08:34:15 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-03-28 12:52:29 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -104,14 +104,14 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -130,14 +130,14 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Cloudy </td>
-<td>Cloudy </td>
-<td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -156,24 +156,24 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>7.2 °C</td>
 <td>6.6 °C</td>
 <td>6.4 °C</td>
-<td>6.2 °C</td>
-<td>5.9 °C</td>
+<td>6 °C</td>
+<td>5.8 °C</td>
 <td>6.5 °C</td>
 <td>7.7 °C</td>
 <td>8.9 °C</td>
 <td>10.1 °C</td>
-<td>11.3 °C</td>
-<td>12 °C</td>
-<td>12.7 °C</td>
-<td>13 °C</td>
-<td>13 °C</td>
-<td>12.9 °C</td>
+<td>11.1 °C</td>
+<td>11.9 °C</td>
 <td>12.6 °C</td>
+<td>12.9 °C</td>
+<td>12.9 °C</td>
+<td>12.8 °C</td>
+<td>12.5 °C</td>
 <td>11.5 °C</td>
-<td>10.1 °C</td>
-<td>9.4 °C</td>
-<td>8.9 °C</td>
-<td>8.4 °C</td>
+<td>10.2 °C</td>
+<td>9.5 °C</td>
+<td>9 °C</td>
+<td>8.5 °C</td>
 <td>7.9 °C</td>
 </tr>
 <tr><th>Wind</th>
@@ -182,25 +182,25 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>9.4 kph</td>
 <td>9 kph</td>
 <td>8.6 kph</td>
-<td>8.3 kph</td>
+<td>7.2 kph</td>
+<td>6.8 kph</td>
+<td>6.5 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
 <td>7.9 kph</td>
+<td>7.2 kph</td>
 <td>7.9 kph</td>
-<td>10.4 kph</td>
+<td>8.6 kph</td>
+<td>9.4 kph</td>
 <td>9.7 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>9.7 kph</td>
-<td>10.4 kph</td>
-<td>10.1 kph</td>
-<td>10.4 kph</td>
-<td>10.8 kph</td>
-<td>13.3 kph</td>
-<td>15.1 kph</td>
-<td>13.3 kph</td>
-<td>11.9 kph</td>
-<td>11.5 kph</td>
+<td>9.4 kph</td>
+<td>9.4 kph</td>
 <td>11.2 kph</td>
+<td>14.8 kph</td>
+<td>13.7 kph</td>
+<td>12.6 kph</td>
+<td>11.2 kph</td>
+<td>10.4 kph</td>
 </tr>
 </table>
 
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-03-28 08:34:19 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-03-28 12:52:32 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
