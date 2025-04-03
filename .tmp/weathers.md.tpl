@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-04-03</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -48,6 +48,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -56,7 +57,6 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
@@ -74,7 +74,7 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
-<td>Sunny</td>
+<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -100,19 +100,19 @@
 <td>8.1 °C</td>
 <td>9.7 °C</td>
 <td>11 °C</td>
-<td>12 °C</td>
-<td>12.9 °C</td>
-<td>13.5 °C</td>
-<td>14 °C</td>
+<td>12.3 °C</td>
+<td>13.1 °C</td>
+<td>13.8 °C</td>
 <td>14.2 °C</td>
-<td>14.1 °C</td>
+<td>14.3 °C</td>
+<td>14.2 °C</td>
 <td>13.7 °C</td>
-<td>12.6 °C</td>
-<td>11.3 °C</td>
+<td>12.5 °C</td>
+<td>11.2 °C</td>
 <td>10.6 °C</td>
-<td>10.2 °C</td>
-<td>9.7 °C</td>
-<td>9.3 °C</td>
+<td>10.1 °C</td>
+<td>9.6 °C</td>
+<td>9.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>18.4 kph</td>
@@ -126,17 +126,17 @@
 <td>16.6 kph</td>
 <td>18 kph</td>
 <td>19.8 kph</td>
-<td>20.2 kph</td>
 <td>19.8 kph</td>
-<td>19.1 kph</td>
+<td>19.4 kph</td>
 <td>18.4 kph</td>
-<td>18 kph</td>
-<td>16.9 kph</td>
-<td>15.1 kph</td>
+<td>17.6 kph</td>
+<td>17.6 kph</td>
+<td>16.6 kph</td>
+<td>14.8 kph</td>
 <td>10.8 kph</td>
-<td>9 kph</td>
+<td>8.6 kph</td>
 <td>8.3 kph</td>
-<td>7.9 kph</td>
+<td>7.6 kph</td>
 <td>7.2 kph</td>
 <td>6.5 kph</td>
 </tr>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-04-03 16:35:38 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-04-03 20:30:13 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
