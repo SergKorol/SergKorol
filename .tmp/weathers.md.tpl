@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-04-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Moderate or heavy snow showers" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Light snow showers" />
 
-<b>Moderate or heavy snow showers</b>
+<b>Light snow showers</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-04-06 16:32:39 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-04-06 20:28:35 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
