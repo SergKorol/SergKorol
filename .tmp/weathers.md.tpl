@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2025-04-10</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/338.png" alt="Heavy snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/338.png" alt="Heavy snow" />
 
 <b>Heavy snow</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-04-10 02:02:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-04-10 04:33:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
