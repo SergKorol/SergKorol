@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-04-21</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -100,15 +100,15 @@
 <td>16.7 °C</td>
 <td>18.5 °C</td>
 <td>20.1 °C</td>
-<td>21.4 °C</td>
-<td>22.3 °C</td>
-<td>22.9 °C</td>
-<td>23.4 °C</td>
-<td>23.5 °C</td>
-<td>23.2 °C</td>
-<td>22.7 °C</td>
-<td>21.5 °C</td>
-<td>19.8 °C</td>
+<td>21.6 °C</td>
+<td>22.6 °C</td>
+<td>23.3 °C</td>
+<td>23.6 °C</td>
+<td>23.8 °C</td>
+<td>23.7 °C</td>
+<td>23 °C</td>
+<td>21.6 °C</td>
+<td>19.9 °C</td>
 <td>18.8 °C</td>
 <td>17.8 °C</td>
 <td>16.9 °C</td>
@@ -127,18 +127,18 @@
 <td>10.4 kph</td>
 <td>11.5 kph</td>
 <td>13.7 kph</td>
+<td>15.5 kph</td>
 <td>14.8 kph</td>
-<td>13.3 kph</td>
-<td>11.9 kph</td>
-<td>11.9 kph</td>
+<td>13 kph</td>
 <td>11.9 kph</td>
 <td>11.5 kph</td>
-<td>8.3 kph</td>
-<td>6.5 kph</td>
-<td>7.2 kph</td>
-<td>8.3 kph</td>
+<td>12.6 kph</td>
+<td>11.5 kph</td>
 <td>9.4 kph</td>
-<td>7.9 kph</td>
+<td>9.4 kph</td>
+<td>10.4 kph</td>
+<td>10.1 kph</td>
+<td>9 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-04-21 16:36:51 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-04-21 20:30:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
