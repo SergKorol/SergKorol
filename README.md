@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-04-24 02:05:44 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-04-24 04:33:53 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -65,7 +65,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <b>Kyiv, Ukraine - 2025-04-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
 <b>Partly Cloudy</b>
 </div>
@@ -184,7 +184,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>4 kph</td>
 <td>3.6 kph</td>
 <td>2.2 kph</td>
-<td>2.5 kph</td>
+<td>3.6 kph</td>
 <td>5 kph</td>
 <td>5.8 kph</td>
 <td>6.1 kph</td>
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-04-24 02:05:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-04-24 04:33:57 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
