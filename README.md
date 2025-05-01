@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-05-01 16:36:04 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-05-01 20:29:49 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -65,9 +65,9 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <b>Kyiv, Ukraine - 2025-05-01</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -162,19 +162,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>14.8 °C</td>
 <td>15.2 °C</td>
 <td>13.1 °C</td>
+<td>15.9 °C</td>
+<td>17.4 °C</td>
+<td>17.3 °C</td>
+<td>17 °C</td>
+<td>16.2 °C</td>
 <td>15.2 °C</td>
-<td>16.9 °C</td>
-<td>16.9 °C</td>
-<td>16.6 °C</td>
-<td>15.8 °C</td>
-<td>15.1 °C</td>
-<td>14.2 °C</td>
-<td>12.7 °C</td>
-<td>11.1 °C</td>
-<td>9.8 °C</td>
-<td>8.6 °C</td>
-<td>7.9 °C</td>
-<td>7.3 °C</td>
+<td>14.1 °C</td>
+<td>12.6 °C</td>
+<td>10.7 °C</td>
+<td>9.2 °C</td>
+<td>8.1 °C</td>
+<td>7.5 °C</td>
+<td>6.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>5.4 kph</td>
@@ -188,19 +188,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>20.2 kph</td>
 <td>22.3 kph</td>
 <td>19.4 kph</td>
-<td>21.2 kph</td>
-<td>26.6 kph</td>
+<td>20.9 kph</td>
+<td>26.3 kph</td>
+<td>28.1 kph</td>
+<td>29.2 kph</td>
+<td>29.5 kph</td>
 <td>27.7 kph</td>
-<td>28.8 kph</td>
-<td>28.8 kph</td>
-<td>27.7 kph</td>
-<td>24.8 kph</td>
-<td>22.7 kph</td>
-<td>18 kph</td>
+<td>25.2 kph</td>
+<td>24.1 kph</td>
+<td>21.6 kph</td>
+<td>18.7 kph</td>
 <td>15.5 kph</td>
-<td>12.2 kph</td>
-<td>7.6 kph</td>
-<td>4 kph</td>
+<td>10.8 kph</td>
+<td>8.3 kph</td>
 </tr>
 </table>
 
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-05-01 16:36:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-05-01 20:29:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
