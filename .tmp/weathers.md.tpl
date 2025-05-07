@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2025-05-07</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
 
 <b>Light drizzle</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-05-07 02:13:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-05-07 04:34:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
