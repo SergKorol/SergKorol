@@ -23,6 +23,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 - ⚡ Fun fact: I'm crazy 🤪
 
 ![Visitor Count](https://profile-counter.glitch.me/SergKorol/count.svg)
+[![Hits](https://hits.sh/github.com/SergKorol/hits.svg)](https://hits.sh/github.com/SergKorol/hits/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SergKorol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/serhii_korol_ab7776c50dba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/serhii-k-b04303132//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://dev.to/t/dotnet)  
 
