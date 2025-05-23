@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-05-23</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/386.png" alt="Patchy light rain in area with thunder" />
 
-<b>Thundery outbreaks in nearby</b>
+<b>Patchy light rain in area with thunder</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-05-23 16:36:17 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-05-23 20:31:18 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
