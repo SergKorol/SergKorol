@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-05-27</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby" />
 
-<b>Partly Cloudy</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -52,15 +52,15 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Overcast </td>
@@ -78,15 +78,15 @@
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Overcast </td>
 <td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Partly Cloudy </td>
+<td>Patchy rain nearby</td>
 </tr>
 <tr><th>Temperature</th>
 <td>15.5 °C</td>
@@ -100,19 +100,19 @@
 <td>16 °C</td>
 <td>17 °C</td>
 <td>17 °C</td>
-<td>17.6 °C</td>
-<td>18.9 °C</td>
+<td>16.8 °C</td>
+<td>19.4 °C</td>
+<td>20.8 °C</td>
+<td>20.9 °C</td>
+<td>20.8 °C</td>
 <td>20.2 °C</td>
-<td>20.6 °C</td>
-<td>20.5 °C</td>
-<td>20.1 °C</td>
-<td>19.1 °C</td>
-<td>18.5 °C</td>
-<td>17.6 °C</td>
-<td>16.9 °C</td>
-<td>16.5 °C</td>
-<td>16.1 °C</td>
+<td>20 °C</td>
+<td>18.3 °C</td>
+<td>17.4 °C</td>
+<td>16.6 °C</td>
 <td>16.4 °C</td>
+<td>16.2 °C</td>
+<td>15.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>18 kph</td>
@@ -126,19 +126,19 @@
 <td>13.7 kph</td>
 <td>15.5 kph</td>
 <td>11.9 kph</td>
-<td>12.6 kph</td>
-<td>11.5 kph</td>
-<td>11.2 kph</td>
+<td>13 kph</td>
 <td>13.7 kph</td>
-<td>18 kph</td>
 <td>14.8 kph</td>
+<td>16.9 kph</td>
+<td>17.6 kph</td>
+<td>15.5 kph</td>
+<td>16.2 kph</td>
+<td>12.6 kph</td>
+<td>13 kph</td>
+<td>11.9 kph</td>
+<td>10.1 kph</td>
 <td>9 kph</td>
 <td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>9.7 kph</td>
-<td>9.4 kph</td>
-<td>10.1 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-05-27 16:38:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-05-27 20:31:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
