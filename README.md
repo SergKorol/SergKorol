@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-06-16 13:00:26 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-06-16 16:39:13 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -165,16 +165,16 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>23.3 °C</td>
 <td>24.3 °C</td>
 <td>25 °C</td>
-<td>25.4 °C</td>
+<td>25.3 °C</td>
 <td>25.5 °C</td>
 <td>25.4 °C</td>
-<td>24.5 °C</td>
+<td>24.6 °C</td>
 <td>23.2 °C</td>
 <td>22.1 °C</td>
-<td>21 °C</td>
-<td>20.3 °C</td>
+<td>20.8 °C</td>
+<td>20.2 °C</td>
 <td>19.5 °C</td>
-<td>18.8 °C</td>
+<td>18.7 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>9.7 kph</td>
@@ -190,16 +190,16 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>18.7 kph</td>
 <td>19.4 kph</td>
 <td>19.4 kph</td>
-<td>18 kph</td>
-<td>17.3 kph</td>
+<td>18.4 kph</td>
+<td>17.6 kph</td>
 <td>15.8 kph</td>
 <td>15.8 kph</td>
-<td>15.1 kph</td>
-<td>12.6 kph</td>
-<td>10.4 kph</td>
-<td>7.9 kph</td>
+<td>14.8 kph</td>
+<td>11.9 kph</td>
+<td>9.4 kph</td>
 <td>7.2 kph</td>
-<td>7.2 kph</td>
+<td>6.5 kph</td>
+<td>6.8 kph</td>
 <td>7.6 kph</td>
 </tr>
 </table>
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-06-16 13:00:29 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-06-16 16:39:17 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
