@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-06-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
 
-<b>Partly Cloudy</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -48,17 +48,17 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
@@ -74,17 +74,17 @@
 <td>Cloudy </td>
 <td>Light rain</td>
 <td>Light rain shower</td>
+<td>Moderate rain</td>
 <td>Light rain shower</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
 <td>Sunny</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Sunny</td>
 <td>Partly Cloudy </td>
+<td>Sunny</td>
 <td>Clear </td>
 <td>Clear </td>
 </tr>
@@ -100,18 +100,18 @@
 <td>21.3 °C</td>
 <td>22.4 °C</td>
 <td>21.1 °C</td>
-<td>18.9 °C</td>
-<td>18.6 °C</td>
+<td>19.4 °C</td>
+<td>17.5 °C</td>
+<td>17.4 °C</td>
 <td>18.1 °C</td>
-<td>18.8 °C</td>
-<td>22.3 °C</td>
-<td>22.9 °C</td>
-<td>22.5 °C</td>
+<td>22.1 °C</td>
+<td>22.8 °C</td>
+<td>22.4 °C</td>
 <td>21.2 °C</td>
-<td>19.7 °C</td>
+<td>19.6 °C</td>
 <td>18.2 °C</td>
-<td>17 °C</td>
-<td>16 °C</td>
+<td>17.2 °C</td>
+<td>16.3 °C</td>
 <td>15.5 °C</td>
 </tr>
 <tr><th>Wind</th>
@@ -126,19 +126,19 @@
 <td>12.6 kph</td>
 <td>15.5 kph</td>
 <td>26.3 kph</td>
-<td>19.1 kph</td>
-<td>18.4 kph</td>
-<td>23.8 kph</td>
-<td>19.1 kph</td>
-<td>22.7 kph</td>
-<td>24.1 kph</td>
 <td>20.9 kph</td>
-<td>22.7 kph</td>
+<td>16.6 kph</td>
+<td>22.3 kph</td>
+<td>18.4 kph</td>
 <td>21.2 kph</td>
-<td>18 kph</td>
-<td>14.8 kph</td>
-<td>14.8 kph</td>
+<td>22.7 kph</td>
+<td>20.2 kph</td>
+<td>22 kph</td>
+<td>19.8 kph</td>
+<td>18.4 kph</td>
+<td>15.8 kph</td>
 <td>15.5 kph</td>
+<td>15.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-06-17 12:59:55 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-06-17 16:39:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
