@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Serhii
 #### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️
-<a href="https://www.buymeacoffee.com/b9z99kntvtQ" target="_blank"><img src="http://dartfordwaffler.co.uk/wp-content/uploads/2021/03/buy-me-a-beer.jpg" alt="Buy Me A Beer" style="height: 60px !important;width: 317px !important;" ></a>
+![Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️](http://dartfordwaffler.co.uk/wp-content/uploads/2021/03/buy-me-a-beer.jpg)
 
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-06-17 08:39:55 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-06-17 09:31:04 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-06-17 08:39:58 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-06-17 09:31:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
