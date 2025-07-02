@@ -55,7 +55,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-07-02 08:40:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-07-02 12:59:52 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -106,13 +106,13 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
@@ -132,13 +132,13 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
+<td>Sunny</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -156,25 +156,25 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>13.6 °C</td>
 <td>14.1 °C</td>
 <td>14.6 °C</td>
-<td>14.3 °C</td>
+<td>14.4 °C</td>
 <td>14.8 °C</td>
 <td>16.5 °C</td>
-<td>18.4 °C</td>
-<td>19.9 °C</td>
-<td>21.3 °C</td>
-<td>22.4 °C</td>
-<td>23.2 °C</td>
-<td>23.8 °C</td>
-<td>23.1 °C</td>
-<td>23.5 °C</td>
-<td>23.1 °C</td>
-<td>23 °C</td>
-<td>22.9 °C</td>
-<td>21.6 °C</td>
-<td>19.9 °C</td>
-<td>18.9 °C</td>
 <td>18.1 °C</td>
-<td>17.6 °C</td>
+<td>20.2 °C</td>
+<td>21.6 °C</td>
+<td>22.8 °C</td>
+<td>23.6 °C</td>
+<td>24.2 °C</td>
+<td>24.2 °C</td>
+<td>23.7 °C</td>
+<td>24 °C</td>
+<td>24.2 °C</td>
+<td>23.3 °C</td>
+<td>22 °C</td>
+<td>20.2 °C</td>
+<td>19.1 °C</td>
+<td>18.4 °C</td>
+<td>17.8 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>14.4 kph</td>
@@ -182,25 +182,25 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>14.8 kph</td>
 <td>15.1 kph</td>
 <td>16.2 kph</td>
-<td>16.2 kph</td>
-<td>17.3 kph</td>
+<td>15.5 kph</td>
+<td>16.6 kph</td>
+<td>18.4 kph</td>
 <td>19.1 kph</td>
-<td>20.2 kph</td>
-<td>21.2 kph</td>
+<td>20.5 kph</td>
 <td>20.9 kph</td>
-<td>22.3 kph</td>
-<td>23 kph</td>
-<td>23.4 kph</td>
 <td>21.6 kph</td>
-<td>22.3 kph</td>
-<td>19.8 kph</td>
-<td>19.8 kph</td>
-<td>19.8 kph</td>
-<td>16.2 kph</td>
-<td>12.2 kph</td>
+<td>22.7 kph</td>
+<td>23 kph</td>
+<td>22.7 kph</td>
+<td>20.2 kph</td>
+<td>20.5 kph</td>
+<td>22.7 kph</td>
+<td>21.2 kph</td>
+<td>17.6 kph</td>
+<td>13.3 kph</td>
 <td>10.1 kph</td>
-<td>9.4 kph</td>
 <td>8.6 kph</td>
+<td>8.3 kph</td>
 </tr>
 </table>
 
@@ -208,7 +208,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-07-02 08:40:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-07-02 12:59:56 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
