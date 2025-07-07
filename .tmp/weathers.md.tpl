@@ -59,8 +59,8 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -85,8 +85,8 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
+<td>Clear </td>
+<td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
 <td>20.8 °C</td>
@@ -100,19 +100,19 @@
 <td>24.4 °C</td>
 <td>26.5 °C</td>
 <td>28.5 °C</td>
-<td>30.1 °C</td>
-<td>31.3 °C</td>
-<td>32.4 °C</td>
-<td>33.2 °C</td>
-<td>33.7 °C</td>
-<td>33.9 °C</td>
-<td>33.7 °C</td>
-<td>32.9 °C</td>
-<td>30.4 °C</td>
-<td>28.3 °C</td>
-<td>26.9 °C</td>
+<td>29.7 °C</td>
+<td>30.9 °C</td>
+<td>31.9 °C</td>
+<td>32.8 °C</td>
+<td>33.3 °C</td>
+<td>33.6 °C</td>
+<td>33.5 °C</td>
+<td>32.7 °C</td>
+<td>30.2 °C</td>
+<td>28 °C</td>
 <td>26.7 °C</td>
-<td>28.1 °C</td>
+<td>26 °C</td>
+<td>27.4 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>8.6 kph</td>
@@ -126,19 +126,19 @@
 <td>7.2 kph</td>
 <td>7.6 kph</td>
 <td>7.6 kph</td>
-<td>9.4 kph</td>
+<td>9 kph</td>
 <td>10.1 kph</td>
-<td>10.8 kph</td>
-<td>10.4 kph</td>
+<td>10.1 kph</td>
 <td>9.7 kph</td>
-<td>8.3 kph</td>
+<td>9 kph</td>
 <td>7.2 kph</td>
-<td>6.5 kph</td>
-<td>4.3 kph</td>
-<td>5.8 kph</td>
-<td>8.3 kph</td>
-<td>14.8 kph</td>
-<td>23 kph</td>
+<td>6.1 kph</td>
+<td>5 kph</td>
+<td>4 kph</td>
+<td>9.7 kph</td>
+<td>11.5 kph</td>
+<td>14.4 kph</td>
+<td>22.3 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-07-07 13:00:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-07-07 16:39:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
