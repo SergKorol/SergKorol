@@ -28,6 +28,10 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffltuzejvpl7g0ucaf81u.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3">Design Pattern #9: A Hands-On Comparison of Mediator Pattern Approaches</a><hr><p>Today, let’s explore the Mediator design pattern—an approach that promotes loose coupling between...</p><br><i>Published by: Serhii Korol</i><br><b>07/08/2025 14:41:48</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-8-if-repository-is-not-enough-exploring-real-world-data-patterns-lh9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yhzjtv3ynd7bm0i17pf.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-8-if-repository-is-not-enough-exploring-real-world-data-patterns-lh9">Design Patterns #8: If Repository Is Not Enough – Exploring Real-World Data Patterns</a><hr><p>Today, I’d like to talk about a design pattern that many developers use by default in almost every...</p><br><i>Published by: Serhii Korol</i><br><b>05/22/2025 13:25:53</b></td>
 </tr>
@@ -43,16 +47,12 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp56pacg0y87te02vnxm.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl">Design Patterns #5: Null Object Pattern – Writing Safer, Cleaner Code.</a><hr><p>Hey everyone, I’m back! Today, let’s talk about a common headache in programming: dealing with null...</p><br><i>Published by: Serhii Korol</i><br><b>04/21/2025 14:41:08</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/customizing-the-tab-bar-in-net-maui-a-step-by-step-guide-to-painting-and-styling-4g7c"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4o9yt0lex24uaw0sddqz.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/customizing-the-tab-bar-in-net-maui-a-step-by-step-guide-to-painting-and-styling-4g7c">Customizing the Tab Bar in .NET MAUI: A Step-by-Step Guide to Painting and Styling</a><hr><p>Hi there! Today, I’d like to dive into the Tab Bar in .NET MAUI. The tab bar is a key navigation...</p><br><i>Published by: Serhii Korol</i><br><b>03/13/2025 12:00:40</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-07-08 13:00:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-07-08 16:40:02 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -114,12 +114,12 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -140,12 +140,12 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
+<td>Thundery outbreaks in nearby</td>
 <td>Sunny</td>
 <td>Patchy rain nearby</td>
+<td>Patchy light drizzle</td>
 <td>Patchy rain nearby</td>
-<td>Patchy light rain</td>
-<td>Clear </td>
+<td>Patchy rain nearby</td>
 </tr>
 <tr><th>Temperature</th>
 <td>27.6 °C</td>
@@ -159,19 +159,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>24.7 °C</td>
 <td>26.9 °C</td>
 <td>28.7 °C</td>
-<td>30.3 °C</td>
-<td>31.2 °C</td>
-<td>32.1 °C</td>
-<td>32.6 °C</td>
+<td>29.8 °C</td>
+<td>31 °C</td>
+<td>31.9 °C</td>
+<td>32.5 °C</td>
+<td>32.9 °C</td>
 <td>32.8 °C</td>
-<td>32.7 °C</td>
-<td>32 °C</td>
-<td>30.6 °C</td>
-<td>28.8 °C</td>
-<td>27.1 °C</td>
+<td>31.9 °C</td>
+<td>30.7 °C</td>
+<td>29 °C</td>
+<td>27 °C</td>
 <td>25.6 °C</td>
-<td>23.7 °C</td>
-<td>22.6 °C</td>
+<td>24 °C</td>
+<td>24 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>23 kph</td>
@@ -185,19 +185,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>20.9 kph</td>
 <td>20.2 kph</td>
 <td>19.1 kph</td>
-<td>18 kph</td>
-<td>17.6 kph</td>
-<td>17.6 kph</td>
-<td>16.9 kph</td>
+<td>17.3 kph</td>
+<td>16.6 kph</td>
 <td>16.2 kph</td>
 <td>15.8 kph</td>
-<td>14.4 kph</td>
-<td>13 kph</td>
-<td>11.9 kph</td>
-<td>7.6 kph</td>
-<td>13 kph</td>
-<td>8.3 kph</td>
-<td>12.6 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>12.2 kph</td>
+<td>10.8 kph</td>
+<td>9.7 kph</td>
+<td>11.2 kph</td>
+<td>13.7 kph</td>
+<td>9.4 kph</td>
+<td>4.7 kph</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-07-08 13:00:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-07-08 16:40:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
