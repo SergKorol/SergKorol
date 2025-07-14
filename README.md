@@ -13,7 +13,7 @@ mentoring fellow developers and sharing my knowledge through a
 technical blog that has attracted a thriving community of several
 thousand subscribers.
 
-Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
+Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure, Angular
 
 - 🔭 I’m currently open to work 
 - 🌱 I’m currently learning .NET MAUI 
