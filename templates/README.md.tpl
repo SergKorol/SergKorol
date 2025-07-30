@@ -20,7 +20,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
-- ⚡ Fun fact: I'm crazy 🤪
+- ⚡ Fun fact: I'm cheerful and resourceful 😁
 
 [![Hits](https://hits.sh/github.com/SergKorol/hits.svg)](https://hits.sh/github.com/SergKorol/hits/) 
 
