@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-08-16</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -122,7 +122,7 @@
 <td>2.9 kph</td>
 <td>3.6 kph</td>
 <td>2.9 kph</td>
-<td>3.2 kph</td>
+<td>3.6 kph</td>
 <td>4.3 kph</td>
 <td>5.8 kph</td>
 <td>5.8 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-08-16 02:16:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-08-16 04:37:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
