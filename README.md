@@ -52,7 +52,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-08-16 16:34:57 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-08-16 20:30:28 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -62,9 +62,9 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <b>Kyiv, Ukraine - 2025-08-16</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -159,19 +159,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>20.4 °C</td>
 <td>22.2 °C</td>
 <td>23.7 °C</td>
-<td>24.9 °C</td>
-<td>26 °C</td>
-<td>26.8 °C</td>
-<td>27.4 °C</td>
-<td>27.6 °C</td>
-<td>27.4 °C</td>
-<td>26.8 °C</td>
-<td>25.4 °C</td>
-<td>23.7 °C</td>
-<td>22.2 °C</td>
-<td>21.4 °C</td>
-<td>20.7 °C</td>
-<td>20.2 °C</td>
+<td>25 °C</td>
+<td>26.1 °C</td>
+<td>26.9 °C</td>
+<td>27.5 °C</td>
+<td>27.7 °C</td>
+<td>27.5 °C</td>
+<td>27 °C</td>
+<td>25.7 °C</td>
+<td>23.9 °C</td>
+<td>22.4 °C</td>
+<td>21.5 °C</td>
+<td>20.9 °C</td>
+<td>20.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>2.5 kph</td>
@@ -188,16 +188,16 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>8.3 kph</td>
 <td>9.7 kph</td>
 <td>11.2 kph</td>
-<td>11.9 kph</td>
-<td>12.6 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
 <td>12.6 kph</td>
 <td>13 kph</td>
-<td>11.2 kph</td>
-<td>9 kph</td>
+<td>10.8 kph</td>
 <td>7.9 kph</td>
 <td>7.9 kph</td>
 <td>7.6 kph</td>
-<td>9 kph</td>
+<td>8.6 kph</td>
+<td>9.4 kph</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-08-16 16:35:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-08-16 20:30:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
