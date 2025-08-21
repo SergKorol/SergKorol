@@ -52,7 +52,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-08-20 20:31:50 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-08-21 02:05:49 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
