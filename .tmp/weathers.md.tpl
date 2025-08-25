@@ -47,20 +47,20 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Cloudy </td>
@@ -73,20 +73,20 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
+<td>Sunny</td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
+<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Sunny</td>
-<td>Sunny</td>
-<td>Sunny</td>
+<td>Partly Cloudy </td>
 <td>Sunny</td>
 <td>Clear </td>
 <td>Partly Cloudy </td>
+<td>Clear </td>
 <td>Partly Cloudy </td>
-<td>Patchy rain nearby</td>
 </tr>
 <tr><th>Temperature</th>
 <td>10.8 °C</td>
@@ -94,25 +94,25 @@
 <td>11.8 °C</td>
 <td>11.4 °C</td>
 <td>11.2 °C</td>
-<td>11.2 °C</td>
-<td>10.8 °C</td>
-<td>12.1 °C</td>
+<td>11.1 °C</td>
+<td>10.7 °C</td>
+<td>12 °C</td>
 <td>14 °C</td>
-<td>16.3 °C</td>
+<td>16.2 °C</td>
 <td>18 °C</td>
-<td>19.3 °C</td>
-<td>18.9 °C</td>
-<td>19.2 °C</td>
-<td>18.6 °C</td>
+<td>19.4 °C</td>
+<td>19.4 °C</td>
 <td>19.1 °C</td>
+<td>19.2 °C</td>
+<td>20.1 °C</td>
 <td>18.8 °C</td>
-<td>18.9 °C</td>
-<td>17.7 °C</td>
-<td>16.1 °C</td>
-<td>15.7 °C</td>
-<td>15.2 °C</td>
-<td>14.6 °C</td>
-<td>14 °C</td>
+<td>19.1 °C</td>
+<td>17.9 °C</td>
+<td>16.9 °C</td>
+<td>15.3 °C</td>
+<td>14.7 °C</td>
+<td>14.1 °C</td>
+<td>14.1 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>15.8 kph</td>
@@ -120,25 +120,25 @@
 <td>16.9 kph</td>
 <td>18.7 kph</td>
 <td>19.1 kph</td>
-<td>19.4 kph</td>
+<td>18.7 kph</td>
 <td>19.1 kph</td>
 <td>19.1 kph</td>
 <td>20.2 kph</td>
-<td>19.8 kph</td>
+<td>20.2 kph</td>
 <td>20.9 kph</td>
 <td>22.3 kph</td>
-<td>23 kph</td>
 <td>23.8 kph</td>
-<td>21.2 kph</td>
+<td>23.4 kph</td>
 <td>22.3 kph</td>
+<td>23.8 kph</td>
+<td>23 kph</td>
 <td>22 kph</td>
-<td>20.2 kph</td>
-<td>15.8 kph</td>
-<td>13.3 kph</td>
+<td>18.7 kph</td>
+<td>15.1 kph</td>
 <td>12.6 kph</td>
-<td>14.4 kph</td>
-<td>14.8 kph</td>
-<td>15.8 kph</td>
+<td>13.3 kph</td>
+<td>13.7 kph</td>
+<td>15.5 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-08-25 08:40:48 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-08-25 12:59:32 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
