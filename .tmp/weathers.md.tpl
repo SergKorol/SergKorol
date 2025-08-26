@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-08-26</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
-<b>Cloudy</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-08-26 13:00:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-08-26 16:35:37 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
