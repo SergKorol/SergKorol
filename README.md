@@ -52,7 +52,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-08-29 20:29:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-08-30 01:56:59 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,7 +60,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <div align="center">
 <h3>Today's Weather Forecast in Kyiv</h3>
 
-<b>Kyiv, Ukraine - 2025-08-29</b>
+<b>Kyiv, Ukraine - 2025-08-30</b>
 
 <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
@@ -148,56 +148,56 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>18.2 °C</td>
-<td>18 °C</td>
-<td>17.7 °C</td>
-<td>17.3 °C</td>
-<td>17 °C</td>
-<td>16.7 °C</td>
-<td>17 °C</td>
-<td>18.6 °C</td>
-<td>21.4 °C</td>
-<td>24.3 °C</td>
-<td>26.5 °C</td>
-<td>27.9 °C</td>
-<td>29.2 °C</td>
-<td>30.2 °C</td>
-<td>31 °C</td>
-<td>31.2 °C</td>
-<td>31.2 °C</td>
-<td>30.3 °C</td>
-<td>27.8 °C</td>
-<td>25.5 °C</td>
-<td>24.4 °C</td>
-<td>23.4 °C</td>
-<td>22.8 °C</td>
+<td>21.7 °C</td>
+<td>20.7 °C</td>
+<td>20.1 °C</td>
+<td>19.5 °C</td>
+<td>18.8 °C</td>
+<td>18.1 °C</td>
+<td>18.3 °C</td>
+<td>19.8 °C</td>
 <td>22.6 °C</td>
+<td>25.2 °C</td>
+<td>27.7 °C</td>
+<td>29.8 °C</td>
+<td>31 °C</td>
+<td>31.8 °C</td>
+<td>32.2 °C</td>
+<td>32.3 °C</td>
+<td>31.6 °C</td>
+<td>30.2 °C</td>
+<td>28 °C</td>
+<td>25.7 °C</td>
+<td>24.4 °C</td>
+<td>23.8 °C</td>
+<td>23.2 °C</td>
+<td>22.7 °C</td>
 </tr>
 <tr><th>Wind</th>
+<td>16.2 kph</td>
+<td>14 kph</td>
 <td>13 kph</td>
-<td>13.7 kph</td>
-<td>12.6 kph</td>
+<td>11.9 kph</td>
 <td>11.2 kph</td>
-<td>10.1 kph</td>
 <td>10.8 kph</td>
-<td>11.2 kph</td>
-<td>12.2 kph</td>
-<td>15.5 kph</td>
-<td>18 kph</td>
-<td>20.2 kph</td>
-<td>21.6 kph</td>
-<td>22 kph</td>
-<td>21.6 kph</td>
-<td>21.6 kph</td>
-<td>20.9 kph</td>
-<td>19.4 kph</td>
-<td>16.9 kph</td>
-<td>13 kph</td>
+<td>9.7 kph</td>
+<td>9.7 kph</td>
 <td>12.2 kph</td>
 <td>14 kph</td>
-<td>14.8 kph</td>
-<td>16.6 kph</td>
+<td>15.8 kph</td>
+<td>17.6 kph</td>
+<td>18.7 kph</td>
 <td>18 kph</td>
+<td>17.3 kph</td>
+<td>18 kph</td>
+<td>20.5 kph</td>
+<td>18.7 kph</td>
+<td>16.9 kph</td>
+<td>14.4 kph</td>
+<td>13 kph</td>
+<td>11.9 kph</td>
+<td>10.4 kph</td>
+<td>9.4 kph</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-08-29 20:29:35 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-08-30 01:57:03 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
