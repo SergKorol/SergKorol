@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1ka3o6h0ofhxizs4rxn.webp" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g">Design Pattern #10: Breaking the Chain of Irresponsibility</a><hr><p>Hi everyone! Today, I’d like to talk about a design pattern that you’ve probably heard of but might...</p><br><i>Published by: Serhii Korol</i><br><b>09/01/2025 13:11:23</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/train-your-own-model-with-mlnet-a-step-by-step-guide-to-personalized-ai-1med"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqif7mnb2n401tu6gkr4.webp" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/train-your-own-model-with-mlnet-a-step-by-step-guide-to-personalized-ai-1med">Train Your Own Model with ML.NET: A Step-by-Step Guide to Personalized AI</a><hr><p>Hi friends!  Today we’re diving into something quietly revolutionary: how AI, when personalized, can...</p><br><i>Published by: Serhii Korol</i><br><b>07/30/2025 13:47:35</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-7-from-chaos-to-clarity-with-the-state-pattern-48gh"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F37jmojzh37fnluqux8ia.jpeg" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-7-from-chaos-to-clarity-with-the-state-pattern-48gh">Design Patterns #7: From Chaos to Clarity with the State Pattern.</a><hr><p>Hi! Today, we’re going to talk about managing state. In fact, even this article has a state — it...</p><br><i>Published by: Serhii Korol</i><br><b>05/14/2025 11:03:11</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-6-filtering-made-elegant-with-the-specification-pattern-2ee8"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0m7xrelezf1v9ygvqvnk.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-6-filtering-made-elegant-with-the-specification-pattern-2ee8">Design Patterns #6: Filtering Made Elegant with the Specification Pattern</a><hr><p>Hi! Today, I want to talk about something we do almost every day as developers: fetching data. Nearly...</p><br><i>Published by: Serhii Korol</i><br><b>05/07/2025 10:53:02</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-09-01 12:58:06 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-01 16:34:33 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
