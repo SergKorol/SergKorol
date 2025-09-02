@@ -52,7 +52,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-01 20:28:57 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-02 02:04:50 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,7 +60,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <div align="center">
 <h3>Today's Weather Forecast in Kyiv</h3>
 
-<b>Kyiv, Ukraine - 2025-09-01</b>
+<b>Kyiv, Ukraine - 2025-09-02</b>
 
 <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
@@ -106,13 +106,13 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -132,13 +132,13 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
+<td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -148,56 +148,56 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>23 °C</td>
-<td>22.5 °C</td>
-<td>21.9 °C</td>
-<td>21.2 °C</td>
-<td>20.7 °C</td>
-<td>20.4 °C</td>
-<td>20.5 °C</td>
-<td>21.9 °C</td>
-<td>23.9 °C</td>
-<td>25.9 °C</td>
-<td>27.6 °C</td>
-<td>29.3 °C</td>
-<td>30.7 °C</td>
-<td>30.7 °C</td>
-<td>30.9 °C</td>
-<td>31.2 °C</td>
-<td>30.6 °C</td>
-<td>29.6 °C</td>
-<td>27.9 °C</td>
-<td>26.1 °C</td>
-<td>24.9 °C</td>
-<td>23.7 °C</td>
-<td>22.6 °C</td>
+<td>20.6 °C</td>
+<td>19.7 °C</td>
+<td>19.1 °C</td>
+<td>18.5 °C</td>
+<td>17.9 °C</td>
+<td>17.5 °C</td>
+<td>17.2 °C</td>
+<td>18.2 °C</td>
+<td>19.8 °C</td>
 <td>21.5 °C</td>
+<td>23.1 °C</td>
+<td>24.5 °C</td>
+<td>25.5 °C</td>
+<td>26.2 °C</td>
+<td>26.5 °C</td>
+<td>26.4 °C</td>
+<td>26.1 °C</td>
+<td>25.3 °C</td>
+<td>23.9 °C</td>
+<td>22 °C</td>
+<td>20.9 °C</td>
+<td>20.1 °C</td>
+<td>19.2 °C</td>
+<td>18.4 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>3.6 kph</td>
-<td>5 kph</td>
-<td>6.1 kph</td>
-<td>7.2 kph</td>
-<td>6.8 kph</td>
-<td>7.6 kph</td>
-<td>6.8 kph</td>
-<td>7.2 kph</td>
-<td>9.7 kph</td>
+<td>15.8 kph</td>
+<td>14.4 kph</td>
+<td>13 kph</td>
+<td>13 kph</td>
+<td>13 kph</td>
 <td>13 kph</td>
 <td>13.3 kph</td>
-<td>14.4 kph</td>
-<td>14.8 kph</td>
+<td>15.1 kph</td>
 <td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
 <td>16.2 kph</td>
-<td>19.8 kph</td>
-<td>22.3 kph</td>
-<td>21.6 kph</td>
-<td>20.2 kph</td>
-<td>20.2 kph</td>
-<td>19.4 kph</td>
-<td>18 kph</td>
-<td>16.9 kph</td>
+<td>16.6 kph</td>
+<td>16.6 kph</td>
+<td>16.6 kph</td>
 <td>16.2 kph</td>
+<td>13.3 kph</td>
+<td>11.9 kph</td>
+<td>10.8 kph</td>
+<td>10.1 kph</td>
+<td>9.7 kph</td>
+<td>9 kph</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-01 20:29:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-02 02:04:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
