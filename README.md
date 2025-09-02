@@ -29,7 +29,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <table>
         <tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1ka3o6h0ofhxizs4rxn.webp" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g">Design Pattern #10: Breaking the Chain of Irresponsibility</a><hr><p>Hi everyone! Today, I’d like to talk about a design pattern that you’ve probably heard of but might...</p><br><i>Published by: Serhii Korol</i><br><b>09/01/2025 13:11:23</b></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-10-breaking-the-chain-of-irresponsibility-343g">Design Patterns #10: Breaking the Chain of Irresponsibility</a><hr><p>Hi everyone! Today, I’d like to talk about a design pattern that you’ve probably heard of but might...</p><br><i>Published by: Serhii Korol</i><br><b>09/01/2025 13:11:23</b></td>
 </tr>
 <tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/train-your-own-model-with-mlnet-a-step-by-step-guide-to-personalized-ai-1med"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqif7mnb2n401tu6gkr4.webp" alt="thumbnail"></a></td>
@@ -37,7 +37,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 </tr>
 <tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffltuzejvpl7g0ucaf81u.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3">Design Pattern #9: A Hands-On Comparison of Mediator Pattern Approaches</a><hr><p>Today, let’s explore the Mediator design pattern—an approach that promotes loose coupling between...</p><br><i>Published by: Serhii Korol</i><br><b>07/08/2025 14:41:48</b></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3">Design Patterns #9: A Hands-On Comparison of Mediator Pattern Approaches</a><hr><p>Today, let’s explore the Mediator design pattern—an approach that promotes loose coupling between...</p><br><i>Published by: Serhii Korol</i><br><b>07/08/2025 14:41:48</b></td>
 </tr>
 <tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-8-if-repository-is-not-enough-exploring-real-world-data-patterns-lh9"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yhzjtv3ynd7bm0i17pf.png" alt="thumbnail"></a></td>
@@ -52,7 +52,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-02 04:34:02 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-02 08:36:29 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -148,56 +148,56 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>20.6 °C</td>
+<td>21.1 °C</td>
 <td>19.7 °C</td>
-<td>19.1 °C</td>
-<td>18.5 °C</td>
-<td>17.9 °C</td>
-<td>17.5 °C</td>
-<td>17.2 °C</td>
+<td>18.9 °C</td>
 <td>18.2 °C</td>
-<td>19.8 °C</td>
-<td>21.5 °C</td>
-<td>23.1 °C</td>
-<td>24.5 °C</td>
+<td>17.6 °C</td>
+<td>17 °C</td>
+<td>16.7 °C</td>
+<td>17.6 °C</td>
+<td>19.1 °C</td>
+<td>20.7 °C</td>
+<td>22.3 °C</td>
+<td>23.7 °C</td>
+<td>24.8 °C</td>
 <td>25.5 °C</td>
-<td>26.2 °C</td>
-<td>26.5 °C</td>
-<td>26.4 °C</td>
-<td>26.1 °C</td>
-<td>25.3 °C</td>
-<td>23.9 °C</td>
-<td>22 °C</td>
-<td>20.9 °C</td>
-<td>20.1 °C</td>
-<td>19.2 °C</td>
-<td>18.4 °C</td>
+<td>25.8 °C</td>
+<td>25.8 °C</td>
+<td>25.6 °C</td>
+<td>24.8 °C</td>
+<td>23.6 °C</td>
+<td>21.8 °C</td>
+<td>20.8 °C</td>
+<td>19.8 °C</td>
+<td>19 °C</td>
+<td>18.1 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>15.8 kph</td>
+<td>16.9 kph</td>
+<td>15.5 kph</td>
+<td>14.8 kph</td>
 <td>14.4 kph</td>
-<td>13 kph</td>
-<td>13 kph</td>
-<td>13 kph</td>
-<td>13 kph</td>
-<td>13.3 kph</td>
-<td>15.1 kph</td>
-<td>15.5 kph</td>
-<td>15.5 kph</td>
-<td>15.8 kph</td>
-<td>15.8 kph</td>
-<td>15.8 kph</td>
+<td>14 kph</td>
+<td>14 kph</td>
+<td>14.4 kph</td>
 <td>16.2 kph</td>
-<td>16.6 kph</td>
-<td>16.6 kph</td>
+<td>15.8 kph</td>
 <td>16.6 kph</td>
 <td>16.2 kph</td>
-<td>13.3 kph</td>
+<td>15.8 kph</td>
+<td>16.2 kph</td>
+<td>16.9 kph</td>
+<td>17.6 kph</td>
+<td>17.3 kph</td>
+<td>17.3 kph</td>
+<td>16.6 kph</td>
+<td>13.7 kph</td>
 <td>11.9 kph</td>
-<td>10.8 kph</td>
+<td>11.2 kph</td>
+<td>10.4 kph</td>
 <td>10.1 kph</td>
-<td>9.7 kph</td>
-<td>9 kph</td>
+<td>9.4 kph</td>
 </tr>
 </table>
 
@@ -205,7 +205,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-02 04:34:06 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-02 08:36:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
