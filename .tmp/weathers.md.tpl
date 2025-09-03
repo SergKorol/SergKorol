@@ -89,56 +89,56 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>17.1 °C</td>
-<td>16.6 °C</td>
+<td>17 °C</td>
+<td>16.4 °C</td>
+<td>15.9 °C</td>
+<td>15.5 °C</td>
+<td>15.1 °C</td>
+<td>14.7 °C</td>
+<td>14.6 °C</td>
 <td>16.1 °C</td>
-<td>15.6 °C</td>
-<td>15.2 °C</td>
-<td>14.8 °C</td>
-<td>14.8 °C</td>
-<td>16.1 °C</td>
-<td>18.1 °C</td>
-<td>20.1 °C</td>
-<td>22 °C</td>
+<td>18 °C</td>
+<td>20 °C</td>
+<td>21.9 °C</td>
 <td>23.5 °C</td>
-<td>24.6 °C</td>
-<td>25.5 °C</td>
-<td>26 °C</td>
+<td>24.7 °C</td>
+<td>25.6 °C</td>
+<td>26.1 °C</td>
 <td>26.2 °C</td>
 <td>26 °C</td>
 <td>25.2 °C</td>
 <td>23.5 °C</td>
 <td>21.8 °C</td>
-<td>20.9 °C</td>
-<td>20 °C</td>
-<td>19 °C</td>
-<td>18.1 °C</td>
+<td>21 °C</td>
+<td>20.1 °C</td>
+<td>19.1 °C</td>
+<td>18.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>7.6 kph</td>
 <td>6.8 kph</td>
-<td>6.1 kph</td>
-<td>5 kph</td>
+<td>5.8 kph</td>
+<td>5.4 kph</td>
 <td>5 kph</td>
 <td>5.4 kph</td>
-<td>6.1 kph</td>
-<td>7.2 kph</td>
-<td>7.2 kph</td>
+<td>5.8 kph</td>
+<td>6.8 kph</td>
 <td>6.8 kph</td>
 <td>6.5 kph</td>
-<td>7.6 kph</td>
+<td>6.5 kph</td>
+<td>6.8 kph</td>
+<td>7.9 kph</td>
 <td>8.6 kph</td>
 <td>9 kph</td>
 <td>9.4 kph</td>
 <td>9.7 kph</td>
 <td>9.7 kph</td>
-<td>9.7 kph</td>
 <td>8.3 kph</td>
 <td>8.3 kph</td>
-<td>9.4 kph</td>
-<td>9.4 kph</td>
 <td>9 kph</td>
-<td>7.6 kph</td>
+<td>9 kph</td>
+<td>8.3 kph</td>
+<td>7.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-09-03 04:32:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-03 08:35:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
