@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Today's Weather Forecast in Kyiv</h3>
 
-<b>Kyiv, Ukraine - 2025-09-04</b>
+<b>Kyiv, Ukraine - 2025-09-05</b>
 
 <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
@@ -89,56 +89,56 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>16.9 °C</td>
-<td>16.4 °C</td>
-<td>15.9 °C</td>
-<td>15.4 °C</td>
-<td>14.9 °C</td>
-<td>14.6 °C</td>
+<td>17.2 °C</td>
+<td>16.7 °C</td>
+<td>16.1 °C</td>
+<td>15.6 °C</td>
+<td>15.2 °C</td>
+<td>14.8 °C</td>
 <td>14.7 °C</td>
-<td>16.3 °C</td>
-<td>18.5 °C</td>
-<td>20.9 °C</td>
-<td>22.9 °C</td>
-<td>24.4 °C</td>
-<td>25.7 °C</td>
-<td>26.7 °C</td>
-<td>27.1 °C</td>
-<td>27.3 °C</td>
-<td>27 °C</td>
-<td>26.2 °C</td>
-<td>24.2 °C</td>
-<td>22.3 °C</td>
-<td>21.3 °C</td>
+<td>16.2 °C</td>
+<td>18.3 °C</td>
 <td>20.3 °C</td>
-<td>19.3 °C</td>
-<td>18.5 °C</td>
+<td>22.2 °C</td>
+<td>23.9 °C</td>
+<td>25.3 °C</td>
+<td>26.5 °C</td>
+<td>27.2 °C</td>
+<td>27.5 °C</td>
+<td>27.4 °C</td>
+<td>26.7 °C</td>
+<td>24.6 °C</td>
+<td>22.8 °C</td>
+<td>21.7 °C</td>
+<td>20.7 °C</td>
+<td>19.9 °C</td>
+<td>19.2 °C</td>
 </tr>
 <tr><th>Wind</th>
+<td>7.6 kph</td>
 <td>7.2 kph</td>
-<td>7.2 kph</td>
-<td>7.2 kph</td>
+<td>6.5 kph</td>
+<td>6.1 kph</td>
+<td>6.5 kph</td>
 <td>6.1 kph</td>
 <td>5.8 kph</td>
-<td>5.8 kph</td>
-<td>5.8 kph</td>
-<td>6.5 kph</td>
-<td>7.2 kph</td>
 <td>6.8 kph</td>
-<td>6.5 kph</td>
-<td>6.1 kph</td>
-<td>6.5 kph</td>
-<td>7.2 kph</td>
 <td>8.3 kph</td>
-<td>9.7 kph</td>
-<td>10.1 kph</td>
-<td>9.7 kph</td>
-<td>9 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
 <td>9 kph</td>
 <td>8.6 kph</td>
-<td>8.3 kph</td>
-<td>8.3 kph</td>
+<td>8.6 kph</td>
+<td>9 kph</td>
+<td>9.7 kph</td>
+<td>9.7 kph</td>
 <td>7.9 kph</td>
+<td>7.2 kph</td>
+<td>7.6 kph</td>
+<td>8.3 kph</td>
+<td>8.3 kph</td>
+<td>7.6 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-09-04 20:29:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-05 01:59:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
