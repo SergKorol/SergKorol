@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-09-18</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby" />
 
-<b>Overcast</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -56,7 +56,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-09-18 12:55:24 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-18 16:34:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
