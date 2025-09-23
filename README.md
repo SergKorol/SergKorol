@@ -20,7 +20,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 - 😄 Pronouns: he/his/him 
 - ⚡ Fun fact: I'm cheerful and resourceful 😁
 <br>
-[![Serhii Korol profile views](https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg)](https://u8views.com/github/SergKorol)
+[Serhii Korol profile views](https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg)](https://u8views.com/github/SergKorol)
 <h2>My Recent Articles:</h2>
 
 <table>
@@ -49,7 +49,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 14:17:08 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-23 14:19:41 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -202,7 +202,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 14:17:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-23 14:19:44 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
