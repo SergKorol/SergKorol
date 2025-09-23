@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Serhii
 #### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️
-![Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️](http://dartfordwaffler.co.uk/wp-content/uploads/2021/03/buy-me-a-beer.jpg)
+
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
 and gradually transitioned into a full-stack developer. My primary
