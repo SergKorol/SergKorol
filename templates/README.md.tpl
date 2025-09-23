@@ -20,7 +20,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 - 😄 Pronouns: he/his/him 
 - ⚡ Fun fact: I'm cheerful and resourceful 😁
 <br>
-[Serhii Korol profile views](https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg)](https://u8views.com/github/SergKorol)
+[![Serhii Korol profile views](https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg)](https://u8views.com/github/SergKorol)
 <h2>My Recent Articles:</h2>
 
 {{ template "articles.md.tpl" }}
