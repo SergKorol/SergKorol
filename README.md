@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Serhii
 #### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️
 ![Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️](http://dartfordwaffler.co.uk/wp-content/uploads/2021/03/buy-me-a-beer.jpg)
-
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
 and gradually transitioned into a full-stack developer. My primary
@@ -14,15 +13,15 @@ technical blog that has attracted a thriving community of several
 thousand subscribers.
 
 Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
-
 - 🔭 I’m currently open to work 
 - 🌱 I’m currently learning .NET MAUI 
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
 - ⚡ Fun fact: I'm cheerful and resourceful 😁
+<br>
+[![Hits](https://hits.sh/github.com/SergKorol/hits.svg)](https://hits.sh/github.com/SergKorol/hits/)
 
-[![Hits](https://hits.sh/github.com/SergKorol/hits.svg)](https://hits.sh/github.com/SergKorol/hits/) 
 [![Serhii Korol profile views](https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg)](https://u8views.com/github/SergKorol)
 <h2>My Recent Articles:</h2>
 
@@ -52,7 +51,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 12:55:51 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-23 14:06:05 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -205,7 +204,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 12:55:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-23 14:06:09 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
