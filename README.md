@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Serhii
 #### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️
-
+![Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️](http://dartfordwaffler.co.uk/wp-content/uploads/2021/03/buy-me-a-beer.jpg)
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
 and gradually transitioned into a full-stack developer. My primary
@@ -51,7 +51,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 14:06:05 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-23 14:14:26 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -204,7 +204,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-23 14:06:09 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-23 14:14:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
