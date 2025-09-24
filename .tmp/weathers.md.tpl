@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-09-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/263.png" alt="Patchy light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Patchy light drizzle</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-09-24 12:56:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-24 16:36:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
