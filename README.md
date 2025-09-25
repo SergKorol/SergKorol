@@ -49,7 +49,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-25 16:35:58 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-09-25 20:30:58 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -164,7 +164,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>14.7 °C</td>
 <td>13.8 °C</td>
 <td>12.4 °C</td>
-<td>11.5 °C</td>
+<td>11.6 °C</td>
 <td>10.9 °C</td>
 <td>10.2 °C</td>
 <td>9.3 °C</td>
@@ -190,7 +190,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>15.5 kph</td>
 <td>13.7 kph</td>
 <td>12.2 kph</td>
-<td>12.2 kph</td>
+<td>11.9 kph</td>
 <td>12.2 kph</td>
 <td>12.6 kph</td>
 <td>11.9 kph</td>
@@ -202,7 +202,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-09-25 16:36:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-25 20:31:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
