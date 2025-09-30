@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2025-09-30</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
 
 <b>Overcast</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-09-30 01:58:19 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-09-30 04:33:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
