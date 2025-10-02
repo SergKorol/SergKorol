@@ -49,7 +49,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-10-02 08:35:24 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-10-02 12:54:22 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -100,7 +100,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
@@ -110,8 +110,8 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
@@ -126,7 +126,6 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Overcast </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
@@ -136,8 +135,9 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Overcast </td>
-<td>Overcast </td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
@@ -151,24 +151,24 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>4.9 °C</td>
 <td>5 °C</td>
 <td>5.1 °C</td>
-<td>5.3 °C</td>
 <td>5.4 °C</td>
-<td>5.9 °C</td>
-<td>6.3 °C</td>
-<td>6.6 °C</td>
-<td>6.8 °C</td>
-<td>7.1 °C</td>
+<td>5.5 °C</td>
+<td>6 °C</td>
+<td>6.4 °C</td>
+<td>6.7 °C</td>
+<td>6.9 °C</td>
+<td>7.2 °C</td>
+<td>7.6 °C</td>
 <td>7.8 °C</td>
-<td>8.2 °C</td>
-<td>8 °C</td>
 <td>7.7 °C</td>
-<td>7.4 °C</td>
-<td>7.4 °C</td>
+<td>7.6 °C</td>
 <td>7.3 °C</td>
 <td>7.2 °C</td>
-<td>7.1 °C</td>
 <td>7 °C</td>
-<td>7.1 °C</td>
+<td>7 °C</td>
+<td>7 °C</td>
+<td>6.9 °C</td>
+<td>7 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>13.3 kph</td>
@@ -177,24 +177,24 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>11.9 kph</td>
 <td>11.5 kph</td>
 <td>11.2 kph</td>
-<td>10.4 kph</td>
-<td>10.1 kph</td>
+<td>9.7 kph</td>
+<td>9.4 kph</td>
 <td>9 kph</td>
 <td>7.9 kph</td>
+<td>7.9 kph</td>
 <td>7.6 kph</td>
+<td>7.6 kph</td>
+<td>7.2 kph</td>
+<td>7.6 kph</td>
+<td>7.6 kph</td>
+<td>7.9 kph</td>
+<td>7.9 kph</td>
+<td>7.6 kph</td>
+<td>7.2 kph</td>
 <td>6.8 kph</td>
 <td>6.5 kph</td>
-<td>7.2 kph</td>
-<td>7.2 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>6.8 kph</td>
-<td>6.8 kph</td>
+<td>6.1 kph</td>
+<td>6.1 kph</td>
 </tr>
 </table>
 
@@ -202,7 +202,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-10-02 08:35:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-10-02 12:54:26 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
