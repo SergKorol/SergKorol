@@ -49,7 +49,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-10-11 16:30:54 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-10-11 20:27:30 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -59,9 +59,9 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <b>Kyiv, Ukraine - 2025-10-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Partly Cloudy</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -108,14 +108,14 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -134,14 +134,14 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
+<td>Cloudy </td>
 <td>Patchy rain nearby</td>
 <td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Clear </td>
+<td>Clear </td>
+<td>Partly Cloudy </td>
 <td>Cloudy </td>
-<td>Overcast </td>
-<td>Partly Cloudy </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Partly Cloudy </td>
 <td>Overcast </td>
 </tr>
 <tr><th>Temperature</th>
@@ -156,19 +156,19 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>9.7 °C</td>
 <td>10 °C</td>
 <td>10.3 °C</td>
-<td>10.4 °C</td>
-<td>10 °C</td>
+<td>10.2 °C</td>
+<td>9.8 °C</td>
 <td>10.4 °C</td>
 <td>10.7 °C</td>
-<td>10.7 °C</td>
-<td>10.6 °C</td>
-<td>10.1 °C</td>
-<td>9.7 °C</td>
-<td>10.1 °C</td>
-<td>8.9 °C</td>
-<td>8.1 °C</td>
+<td>10.8 °C</td>
+<td>10.9 °C</td>
+<td>10.4 °C</td>
+<td>9.9 °C</td>
+<td>9 °C</td>
+<td>8.4 °C</td>
 <td>7.9 °C</td>
-<td>7.4 °C</td>
+<td>7.8 °C</td>
+<td>7.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>17.3 kph</td>
@@ -182,16 +182,16 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 <td>14.4 kph</td>
 <td>14.8 kph</td>
 <td>14.8 kph</td>
-<td>15.5 kph</td>
 <td>16.6 kph</td>
-<td>17.3 kph</td>
-<td>18.7 kph</td>
-<td>18.4 kph</td>
 <td>16.9 kph</td>
+<td>18 kph</td>
+<td>18.4 kph</td>
+<td>17.6 kph</td>
 <td>16.2 kph</td>
-<td>15.8 kph</td>
-<td>14 kph</td>
-<td>11.9 kph</td>
+<td>15.5 kph</td>
+<td>13.3 kph</td>
+<td>11.5 kph</td>
+<td>12.6 kph</td>
 <td>12.6 kph</td>
 <td>12.2 kph</td>
 <td>11.9 kph</td>
@@ -202,7 +202,7 @@ Skills: C#,  .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-10-11 16:30:58 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-10-11 20:27:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
