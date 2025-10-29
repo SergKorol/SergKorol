@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-10-29</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
 
-<b>Partly Cloudy</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -41,40 +41,42 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
 <td>Overcast </td>
+<td>Patchy rain nearby</td>
 <td>Partly Cloudy </td>
 <td>Light rain</td>
-<td>Overcast </td>
-<td>Light drizzle</td>
 <td>Patchy rain nearby</td>
 <td>Light rain</td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
+<td>Thundery outbreaks in nearby</td>
+<td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Light rain shower</td>
 <td>Patchy rain nearby</td>
@@ -84,61 +86,59 @@
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Cloudy </td>
+<td>Overcast </td>
 </tr>
 <tr><th>Temperature</th>
 <td>7.7 °C</td>
-<td>7.6 °C</td>
+<td>7.8 °C</td>
 <td>7 °C</td>
-<td>6.7 °C</td>
+<td>6.5 °C</td>
+<td>6.3 °C</td>
 <td>6.8 °C</td>
-<td>6.8 °C</td>
+<td>7 °C</td>
 <td>7.3 °C</td>
-<td>7.1 °C</td>
-<td>7 °C</td>
-<td>7.5 °C</td>
-<td>8.7 °C</td>
-<td>9.5 °C</td>
-<td>9.8 °C</td>
+<td>6.7 °C</td>
+<td>7.2 °C</td>
+<td>8.3 °C</td>
+<td>9.2 °C</td>
+<td>9.6 °C</td>
 <td>11.4 °C</td>
-<td>11.1 °C</td>
+<td>11.5 °C</td>
 <td>11 °C</td>
-<td>10.2 °C</td>
-<td>9.5 °C</td>
+<td>10.3 °C</td>
+<td>9.7 °C</td>
 <td>9.4 °C</td>
-<td>9.1 °C</td>
-<td>8.7 °C</td>
-<td>8.7 °C</td>
-<td>8.6 °C</td>
+<td>9.2 °C</td>
+<td>9.5 °C</td>
+<td>9.3 °C</td>
+<td>8.8 °C</td>
 <td>8.5 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>19.1 kph</td>
+<td>18 kph</td>
 <td>14.8 kph</td>
 <td>15.5 kph</td>
-<td>16.2 kph</td>
-<td>16.2 kph</td>
-<td>17.3 kph</td>
-<td>18.4 kph</td>
-<td>19.1 kph</td>
-<td>22.7 kph</td>
-<td>20.9 kph</td>
-<td>22.3 kph</td>
-<td>22.7 kph</td>
-<td>22 kph</td>
-<td>23.4 kph</td>
-<td>20.5 kph</td>
-<td>21.6 kph</td>
-<td>21.2 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
 <td>16.6 kph</td>
+<td>17.3 kph</td>
+<td>19.4 kph</td>
+<td>19.8 kph</td>
+<td>20.9 kph</td>
+<td>20.2 kph</td>
+<td>22.7 kph</td>
+<td>23 kph</td>
+<td>24.5 kph</td>
+<td>22.7 kph</td>
+<td>22.3 kph</td>
+<td>22 kph</td>
+<td>18.4 kph</td>
+<td>16.9 kph</td>
+<td>15.5 kph</td>
+<td>14.8 kph</td>
 <td>14 kph</td>
-<td>15.1 kph</td>
-<td>13.3 kph</td>
-<td>10.4 kph</td>
-<td>9 kph</td>
-<td>6.8 kph</td>
+<td>12.6 kph</td>
+<td>10.1 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-10-29 04:38:28 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-10-29 08:39:45 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
