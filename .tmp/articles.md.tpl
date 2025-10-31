@@ -1,5 +1,9 @@
 <table>
         <tr>
+<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-12-let-the-visitor-in-a-deep-dive-into-the-visitor-pattern-1kel"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fla0uossf6qmxcqra9wgl.png" alt="thumbnail"></a></td>
+<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-12-let-the-visitor-in-a-deep-dive-into-the-visitor-pattern-1kel">Design Patterns #12: Let the Visitor In — A Deep Dive into the Visitor Pattern.</a><hr><p>Hello, everyone. Today, I want to discuss a pattern you might have encountered, even though it's not...</p><br><i>Published by: Serhii Korol</i><br><b>10/31/2025 14:06:41</b></td>
+</tr>
+<tr>
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-11-controlled-extensibility-in-c-3icl"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42rkiyetoktyr97w155h.png" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-patterns-11-controlled-extensibility-in-c-3icl">Design Patterns #11: Controlled Extensibility in C#</a><hr><p>Hello. Today, I want to discuss a topic you're probably familiar with but might not consider very...</p><br><i>Published by: Serhii Korol</i><br><b>10/08/2025 10:01:23</b></td>
 </tr>
@@ -15,15 +19,11 @@
 <td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/train-your-own-model-with-mlnet-a-step-by-step-guide-to-personalized-ai-1med"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqif7mnb2n401tu6gkr4.webp" alt="thumbnail"></a></td>
 <td><a href="https://dev.to/serhii_korol_ab7776c50dba/train-your-own-model-with-mlnet-a-step-by-step-guide-to-personalized-ai-1med">Train Your Own Model with ML.NET: A Step-by-Step Guide to Personalized AI</a><hr><p>Hi friends!  Today we’re diving into something quietly revolutionary: how AI, when personalized, can...</p><br><i>Published by: Serhii Korol</i><br><b>07/30/2025 13:47:35</b></td>
 </tr>
-<tr>
-<td width="300px"><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffltuzejvpl7g0ucaf81u.png" alt="thumbnail"></a></td>
-<td><a href="https://dev.to/serhii_korol_ab7776c50dba/design-pattern-9-a-hands-on-comparison-of-mediator-pattern-approaches-2nm3">Design Patterns #9: A Hands-On Comparison of Mediator Pattern Approaches</a><hr><p>Today, let’s explore the Mediator design pattern—an approach that promotes loose coupling between...</p><br><i>Published by: Serhii Korol</i><br><b>07/08/2025 14:41:48</b></td>
-</tr>
 
 </table>
 
 <div align="right">
 
-<i>Updated at: 2025-10-31 12:58:49 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-10-31 16:37:12 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
