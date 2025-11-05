@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Serhii
-#### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️ | 👨‍🏫 Teacher
+#### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️ | Teacher 🧑‍🏫
 
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
@@ -49,7 +49,7 @@ Skills: C#, .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-05 16:40:57 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-05 20:13:07 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -202,7 +202,7 @@ Skills: C#, .NET, MAUI, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-05 16:41:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-05 20:13:10 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
