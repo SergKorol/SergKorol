@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Serhii
-#### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️ | 👨‍🏫 Teacher
+#### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️ | Teacher 🧑‍🏫
 
 I'm a seasoned Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
