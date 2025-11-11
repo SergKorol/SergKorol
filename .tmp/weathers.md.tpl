@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-11-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
-<b>Light drizzle</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -125,7 +125,7 @@
 <td>5 kph</td>
 <td>4 kph</td>
 <td>1.8 kph</td>
-<td>2.2 kph</td>
+<td>3.6 kph</td>
 <td>4.3 kph</td>
 <td>6.8 kph</td>
 <td>9.7 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-11-11 04:36:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-11 08:38:53 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
