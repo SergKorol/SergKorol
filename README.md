@@ -49,7 +49,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-13 20:28:25 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-13 20:33:03 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -202,7 +202,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-13 20:28:29 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-13 20:33:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
