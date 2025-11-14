@@ -14,7 +14,7 @@ thousand subscribers.
 
 Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 - 🔭 I’m currently open to work and my [CV](https://sergkorol.github.io/korolscv/)
-- 🌱 I’m currently learning .NET MAUI 
+- 🌱 I’m currently hard working
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
@@ -49,7 +49,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-14 16:39:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-14 17:29:54 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -59,9 +59,9 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 
 <b>Kyiv, Ukraine - 2025-11-14</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
-<b>Clear</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -202,7 +202,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 
 <div align="right">
 
-<i>Updated at: 2025-11-14 16:39:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-14 17:29:58 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
