@@ -14,7 +14,7 @@ thousand subscribers.
 
 Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure
 - 🔭 I’m currently open to work and my [CV](https://sergkorol.github.io/korolscv/)
-- 🌱 I’m currently learning .NET MAUI 
+- 🌱 I’m currently hard working
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
