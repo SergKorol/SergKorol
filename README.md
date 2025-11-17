@@ -49,7 +49,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-17 08:43:45 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-17 13:00:55 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -93,108 +93,108 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Overcast </td>
+<td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Cloudy </td>
 <td>Cloudy </td>
-<td>Cloudy </td>
-<td>Cloudy </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Cloudy </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Cloudy </td>
-<td>Cloudy </td>
-<td>Overcast </td>
 <td>Partly Cloudy </td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
+<td>Partly Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Sunny</td>
+<td>Partly Cloudy </td>
+<td>Cloudy </td>
+<td>Overcast </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Overcast </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
+<td>Partly Cloudy </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
-<td>5.1 °C</td>
-<td>5.4 °C</td>
-<td>5.8 °C</td>
-<td>6.1 °C</td>
-<td>6.5 °C</td>
-<td>6.3 °C</td>
-<td>6.2 °C</td>
+<td>5.3 °C</td>
+<td>5.3 °C</td>
+<td>5.5 °C</td>
 <td>6 °C</td>
-<td>6.1 °C</td>
+<td>6.5 °C</td>
+<td>7 °C</td>
+<td>7.1 °C</td>
 <td>6.9 °C</td>
-<td>8.5 °C</td>
-<td>10 °C</td>
-<td>9.5 °C</td>
-<td>9.3 °C</td>
-<td>9.8 °C</td>
+<td>6.8 °C</td>
+<td>7.6 °C</td>
+<td>9.1 °C</td>
+<td>10.5 °C</td>
+<td>11.6 °C</td>
+<td>11.9 °C</td>
+<td>11.4 °C</td>
 <td>10.7 °C</td>
 <td>10.7 °C</td>
 <td>10.6 °C</td>
-<td>10.9 °C</td>
-<td>11.2 °C</td>
-<td>11.2 °C</td>
-<td>10.8 °C</td>
 <td>10.7 °C</td>
-<td>11.1 °C</td>
+<td>11 °C</td>
+<td>11.4 °C</td>
+<td>11.2 °C</td>
+<td>11 °C</td>
+<td>11 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>16.2 kph</td>
-<td>16.2 kph</td>
-<td>16.6 kph</td>
-<td>16.2 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
 <td>16.9 kph</td>
-<td>15.8 kph</td>
-<td>15.5 kph</td>
-<td>14.4 kph</td>
+<td>16.6 kph</td>
+<td>16.9 kph</td>
+<td>14.8 kph</td>
 <td>15.1 kph</td>
-<td>14 kph</td>
-<td>14 kph</td>
-<td>15.5 kph</td>
 <td>14.8 kph</td>
 <td>13 kph</td>
+<td>13.7 kph</td>
+<td>15.1 kph</td>
+<td>15.5 kph</td>
+<td>13.3 kph</td>
+<td>14 kph</td>
+<td>16.9 kph</td>
 <td>16.2 kph</td>
-<td>18 kph</td>
-<td>17.6 kph</td>
-<td>18.7 kph</td>
+<td>18.4 kph</td>
+<td>19.8 kph</td>
+<td>20.9 kph</td>
+<td>19.1 kph</td>
+<td>20.9 kph</td>
 <td>21.2 kph</td>
-<td>18.7 kph</td>
-<td>20.5 kph</td>
-<td>20.2 kph</td>
-<td>20.5 kph</td>
-<td>21.6 kph</td>
 </tr>
 </table>
 
@@ -202,7 +202,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-17 08:43:49 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-17 13:00:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
