@@ -18,6 +18,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
+- Programming is life.
 - ⚡ Fun fact: I'm cheerful and resourceful 😁
 <br>
 <a href="https://u8views.com/github/SergKorol"><img src="https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg"></a>
@@ -49,7 +50,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-18 16:42:56 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-18 20:24:39 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -202,7 +203,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-18 16:43:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-18 20:24:42 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
