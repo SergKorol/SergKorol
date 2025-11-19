@@ -50,7 +50,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-19 04:35:53 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-11-19 08:39:20 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,9 +60,9 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <b>Kyiv, Ukraine - 2025-11-19</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Overcast</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -178,11 +178,11 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>4 kph</td>
 <td>3.2 kph</td>
 <td>2.2 kph</td>
-<td>3.6 kph</td>
+<td>1.8 kph</td>
 <td>4.3 kph</td>
 <td>4 kph</td>
 <td>2.5 kph</td>
-<td>3.2 kph</td>
+<td>3.6 kph</td>
 <td>4 kph</td>
 <td>4 kph</td>
 <td>4 kph</td>
@@ -203,7 +203,7 @@ Skills: C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-11-19 04:35:57 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-19 08:39:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
