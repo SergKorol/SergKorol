@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2025-11-21</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Fog" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog" />
 
 <b>Fog</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-11-21 12:58:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-11-21 16:35:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
