@@ -9,7 +9,7 @@ JavaScript and TypeScript. Currently, I am broadening my skill set in
 DevOps, with a focus on cloud computing and containerization
 technologies. Beyond my professional work, I am passionate about
 mentoring fellow developers and sharing my knowledge through a
-technical blog that has attracted a thriving community of several
+technical blog that has attracted a thriving community of five
 thousand subscribers.
 
 Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
