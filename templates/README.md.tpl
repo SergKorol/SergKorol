@@ -22,7 +22,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 - ⚡ Fun fact: I'm cheerful and resourceful 😁
 <br>
 <a href="https://u8views.com/github/SergKorol"><img src="https://u8views.com/api/v1/github/profiles/24244973/views/day-week-month-total-count.svg"></a>
-<h2>My Recent Articles:</h2>
+<h2>My Recent Articles from DEV.TO:</h2>
 
 {{ template "articles.md.tpl" }}
 <hr>
