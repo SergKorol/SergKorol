@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Serhii
 #### Software Engineer 🧑‍💻 | Enthusiast 😻 | Experimenter 🧪 | Author ✍️ | Teacher 🧑‍🏫 | Freelancer 👨‍💻
 
-I'm a seasoned Software Engineer with over eight years of
+I'm a seasoned and passionated Software Engineer with over eight years of
 experience in the IT industry. I began my career as a manual QA
 and gradually transitioned into a full-stack developer. My primary
 expertise is in .NET/C#, complemented by substantial experience in
