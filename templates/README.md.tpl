@@ -13,7 +13,7 @@ technical blog that has attracted a thriving community of five
 thousand subscribers.
 
 Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
-- 🔭 I’m currently open to work and my [CV](https://sergkorol.github.io/korolscv/)
+- 🔭 I’m currently isn't open to work but you can visit my [CV](https://sergkorol.github.io/korolscv/)
 - 🌱 I’m currently hard working
 - 💬 Ask me about new opportunities 
 - 📫 How to reach me: korols83@gmail.com 
