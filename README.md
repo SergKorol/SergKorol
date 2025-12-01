@@ -15,7 +15,7 @@ thousand subscribers.
 Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 - 🔭 I’m currently isn't open to work but you can visit my [CV](https://sergkorol.github.io/korolscv/)
 - 🌱 I’m currently hard working
-- 💬 Ask me about new opportunities 
+- 💬 Ask me about new opportunities and maybe I'll say yes
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
 - 🛟 Life credo: Programming is life.
@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-12-01 16:44:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-12-01 19:10:06 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-12-01 16:44:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-01 19:10:10 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
