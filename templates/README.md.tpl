@@ -15,7 +15,7 @@ thousand subscribers.
 Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 - 🔭 I’m currently isn't open to work but you can visit my [CV](https://sergkorol.github.io/korolscv/)
 - 🌱 I’m currently hard working
-- 💬 Ask me about new opportunities 
+- 💬 Ask me about new opportunities and maybe I'll say yes
 - 📫 How to reach me: korols83@gmail.com 
 - 😄 Pronouns: he/his/him 
 - 🛟 Life credo: Programming is life.
