@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-12-05 08:41:14 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2025-12-05 13:01:21 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -94,12 +94,12 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
@@ -120,12 +120,12 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
+<td>Cloudy </td>
 <td>Overcast </td>
+<td>Cloudy </td>
+<td>Cloudy </td>
 <td>Cloudy </td>
 <td>Partly Cloudy </td>
-<td>Overcast </td>
-<td>Overcast </td>
-<td>Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
@@ -146,56 +146,56 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>5.6 °C</td>
-<td>5.7 °C</td>
-<td>5.4 °C</td>
-<td>5.3 °C</td>
-<td>5.4 °C</td>
-<td>5.3 °C</td>
+<td>5.2 °C</td>
 <td>5.1 °C</td>
-<td>4.5 °C</td>
-<td>3.9 °C</td>
-<td>3.9 °C</td>
+<td>5.1 °C</td>
+<td>5.1 °C</td>
+<td>5 °C</td>
 <td>4.6 °C</td>
-<td>5.3 °C</td>
-<td>5.9 °C</td>
-<td>6.3 °C</td>
-<td>6.3 °C</td>
-<td>5.7 °C</td>
-<td>4.9 °C</td>
-<td>4.4 °C</td>
-<td>3.9 °C</td>
+<td>4 °C</td>
 <td>3.6 °C</td>
 <td>3.2 °C</td>
-<td>2.9 °C</td>
+<td>3.4 °C</td>
+<td>4.2 °C</td>
+<td>5 °C</td>
+<td>5.6 °C</td>
+<td>6 °C</td>
+<td>5.9 °C</td>
+<td>5.4 °C</td>
+<td>4.6 °C</td>
+<td>4.1 °C</td>
+<td>3.7 °C</td>
+<td>3.4 °C</td>
+<td>3 °C</td>
 <td>2.6 °C</td>
 <td>2.3 °C</td>
+<td>2 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>13.3 kph</td>
-<td>13.3 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
+<td>13 kph</td>
+<td>13 kph</td>
 <td>13 kph</td>
 <td>13.3 kph</td>
-<td>13.3 kph</td>
 <td>13 kph</td>
-<td>12.6 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
 <td>13 kph</td>
-<td>14.8 kph</td>
-<td>15.8 kph</td>
+<td>14.4 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
 <td>16.2 kph</td>
-<td>16.2 kph</td>
-<td>15.1 kph</td>
 <td>14.8 kph</td>
 <td>14 kph</td>
 <td>13.3 kph</td>
-<td>13.3 kph</td>
-<td>13 kph</td>
-<td>13 kph</td>
-<td>13.3 kph</td>
+<td>13.7 kph</td>
+<td>13.7 kph</td>
+<td>13.7 kph</td>
+<td>13.7 kph</td>
 <td>12.6 kph</td>
-<td>11.9 kph</td>
+<td>11.5 kph</td>
+<td>11.5 kph</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2025-12-05 08:41:17 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-05 13:01:25 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
