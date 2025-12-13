@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-12-13</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Partly Cloudy</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -137,7 +137,7 @@
 <td>7.9 kph</td>
 <td>6.8 kph</td>
 <td>4.7 kph</td>
-<td>3.2 kph</td>
+<td>3.6 kph</td>
 <td>0.7 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-12-13 16:36:46 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-13 20:31:55 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
