@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-12-15</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Moderate snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Moderate snow</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-12-15 02:27:10 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-15 04:51:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
