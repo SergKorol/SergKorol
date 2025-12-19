@@ -133,11 +133,11 @@
 <td>2.2 kph</td>
 <td>1.4 kph</td>
 <td>1.4 kph</td>
-<td>3.6 kph</td>
+<td>1.4 kph</td>
 <td>0.7 kph</td>
 <td>2.2 kph</td>
 <td>2.9 kph</td>
-<td>3.2 kph</td>
+<td>3.6 kph</td>
 <td>4 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-12-19 16:41:10 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-19 20:34:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
