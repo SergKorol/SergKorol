@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2025-12-27</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Light freezing rain" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
 
-<b>Light freezing rain</b>
+<b>Light snow</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2025-12-27 12:58:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2025-12-27 16:37:26 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
