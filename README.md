@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-01-06 16:46:02 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-01-06 20:35:51 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,9 +60,9 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <b>Kyiv, Ukraine - 2026-01-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/260.png" alt="Freezing fog" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Freezing fog</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -190,7 +190,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>3.2 kph</td>
 <td>3.2 kph</td>
 <td>1.8 kph</td>
-<td>3.6 kph</td>
+<td>1.8 kph</td>
 <td>1.8 kph</td>
 <td>5.4 kph</td>
 <td>5.4 kph</td>
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-01-06 16:46:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-01-06 20:35:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
