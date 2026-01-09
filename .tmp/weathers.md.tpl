@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2026-01-09</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/230.png" alt="Blizzard" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/230.png" alt="Blizzard" />
 
 <b>Blizzard</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-01-09 13:06:38 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-01-09 16:45:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
