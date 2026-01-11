@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-01-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/260.png" alt="Freezing fog" />
 
-<b>Mist</b>
+<b>Freezing fog</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-01-11 16:37:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-01-11 20:34:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
