@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-01-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Light snow</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -54,13 +54,13 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Mist</td>
@@ -80,13 +80,13 @@
 <td>Light freezing rain</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Light snow</td>
-<td>Light snow</td>
-<td>Light snow</td>
-<td>Light snow</td>
-<td>Light snow</td>
+<td>Mist</td>
+<td>Mist</td>
+<td>Mist</td>
+<td>Mist</td>
 <td>Light snow</td>
 <td>Mist</td>
+<td>Light snow</td>
 </tr>
 <tr><th>Temperature</th>
 <td>-9.8 °C</td>
@@ -107,11 +107,11 @@
 <td>-8.7 °C</td>
 <td>-9.1 °C</td>
 <td>-9.7 °C</td>
-<td>-9.7 °C</td>
-<td>-9.8 °C</td>
-<td>-9.8 °C</td>
-<td>-9.8 °C</td>
 <td>-9.9 °C</td>
+<td>-9.9 °C</td>
+<td>-10 °C</td>
+<td>-10.1 °C</td>
+<td>-10.1 °C</td>
 <td>-10.1 °C</td>
 </tr>
 <tr><th>Wind</th>
@@ -132,12 +132,12 @@
 <td>11.2 kph</td>
 <td>11.5 kph</td>
 <td>10.8 kph</td>
+<td>10.4 kph</td>
 <td>10.8 kph</td>
 <td>10.4 kph</td>
-<td>10.4 kph</td>
-<td>10.1 kph</td>
-<td>9.4 kph</td>
 <td>9.7 kph</td>
+<td>9.7 kph</td>
+<td>9.4 kph</td>
 <td>8.6 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-01-24 16:38:18 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-01-24 20:33:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
