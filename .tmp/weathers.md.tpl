@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-01-29</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Moderate snow" />
 
-<b>Fog</b>
+<b>Moderate snow</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-01-29 02:49:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-01-29 05:11:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
