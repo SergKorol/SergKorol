@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-02-05 03:09:17 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-02-05 05:21:57 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-02-05 03:09:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-05 05:22:01 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
