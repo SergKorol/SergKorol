@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-07</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Moderate snow" />
 
-<b>Light snow</b>
+<b>Moderate snow</b>
 </div>
 
 <table>
@@ -57,7 +57,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/332.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/260.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
@@ -83,7 +83,7 @@
 <td>Moderate snow</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Light snow</td>
+<td>Freezing fog</td>
 <td>Light snow</td>
 <td>Moderate snow</td>
 <td>Light snow</td>
@@ -106,13 +106,13 @@
 <td>-3.9 °C</td>
 <td>-3.8 °C</td>
 <td>-3.7 °C</td>
-<td>-4.1 °C</td>
-<td>-4.4 °C</td>
-<td>-4.6 °C</td>
-<td>-5.2 °C</td>
-<td>-5.5 °C</td>
-<td>-5.2 °C</td>
-<td>-5.2 °C</td>
+<td>-4.2 °C</td>
+<td>-4.3 °C</td>
+<td>-4.7 °C</td>
+<td>-5.6 °C</td>
+<td>-5.9 °C</td>
+<td>-5.3 °C</td>
+<td>-5.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.1 kph</td>
@@ -133,12 +133,12 @@
 <td>7.9 kph</td>
 <td>7.9 kph</td>
 <td>7.9 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>6.8 kph</td>
+<td>8.3 kph</td>
+<td>8.3 kph</td>
 <td>7.2 kph</td>
-<td>7.9 kph</td>
+<td>7.2 kph</td>
 <td>8.6 kph</td>
+<td>9.4 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-07 16:47:56 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-07 20:42:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
