@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Light freezing rain" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Light freezing rain</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -110,8 +110,8 @@
 <td>-1.4 °C</td>
 <td>-1.2 °C</td>
 <td>-1 °C</td>
-<td>-0.9 °C</td>
-<td>-0.7 °C</td>
+<td>-0.8 °C</td>
+<td>-0.5 °C</td>
 <td>-0.2 °C</td>
 </tr>
 <tr><th>Wind</th>
@@ -133,11 +133,11 @@
 <td>18.4 kph</td>
 <td>18 kph</td>
 <td>17.6 kph</td>
-<td>17.3 kph</td>
 <td>17.6 kph</td>
-<td>19.1 kph</td>
-<td>19.8 kph</td>
+<td>18 kph</td>
+<td>19.4 kph</td>
 <td>20.5 kph</td>
+<td>20.9 kph</td>
 <td>20.2 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-11 17:16:40 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-11 20:54:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
