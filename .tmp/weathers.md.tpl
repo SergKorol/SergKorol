@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-16</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Light snow</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -54,8 +54,8 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/260.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/260.png" alt="Weather Icon"></td>
@@ -80,8 +80,8 @@
 <td>Light snow</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Light freezing rain</td>
-<td>Light freezing rain</td>
+<td>Light snow</td>
+<td>Light snow</td>
 <td>Mist</td>
 <td>Freezing fog</td>
 <td>Freezing fog</td>
@@ -100,19 +100,19 @@
 <td>-10.3 °C</td>
 <td>-10.1 °C</td>
 <td>-9.6 °C</td>
-<td>-9.1 °C</td>
-<td>-8.4 °C</td>
-<td>-7.8 °C</td>
-<td>-7.4 °C</td>
+<td>-8.5 °C</td>
+<td>-7.9 °C</td>
+<td>-7.3 °C</td>
+<td>-7 °C</td>
+<td>-6.9 °C</td>
 <td>-7.2 °C</td>
-<td>-7.4 °C</td>
 <td>-8 °C</td>
 <td>-9.3 °C</td>
-<td>-10.3 °C</td>
-<td>-12.2 °C</td>
-<td>-12.6 °C</td>
-<td>-13 °C</td>
-<td>-13.6 °C</td>
+<td>-10.5 °C</td>
+<td>-12.8 °C</td>
+<td>-14 °C</td>
+<td>-14.1 °C</td>
+<td>-15 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>23.4 kph</td>
@@ -126,19 +126,19 @@
 <td>26.6 kph</td>
 <td>25.2 kph</td>
 <td>24.1 kph</td>
-<td>23.8 kph</td>
-<td>22.7 kph</td>
-<td>21.6 kph</td>
+<td>22 kph</td>
+<td>20.9 kph</td>
 <td>20.2 kph</td>
-<td>18.4 kph</td>
+<td>18.7 kph</td>
 <td>16.2 kph</td>
-<td>13.7 kph</td>
-<td>10.1 kph</td>
-<td>7.9 kph</td>
-<td>5.4 kph</td>
-<td>7.2 kph</td>
-<td>6.1 kph</td>
+<td>14 kph</td>
+<td>11.5 kph</td>
+<td>7.6 kph</td>
+<td>6.5 kph</td>
 <td>4.7 kph</td>
+<td>5.8 kph</td>
+<td>5.4 kph</td>
+<td>5.4 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-16 13:37:40 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-16 17:01:01 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
