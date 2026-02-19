@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-19</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Mist" />
 
-<b>Clear</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -54,7 +54,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
@@ -80,7 +80,7 @@
 <td>Light freezing rain</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Cloudy </td>
+<td>Light freezing rain</td>
 <td>Partly Cloudy </td>
 <td>Clear </td>
 <td>Mist</td>
@@ -108,11 +108,11 @@
 <td>-4.4 °C</td>
 <td>-5 °C</td>
 <td>-6.9 °C</td>
-<td>-9 °C</td>
-<td>-9.9 °C</td>
-<td>-10.3 °C</td>
-<td>-10.9 °C</td>
-<td>-12 °C</td>
+<td>-9.1 °C</td>
+<td>-10 °C</td>
+<td>-10.5 °C</td>
+<td>-11.2 °C</td>
+<td>-12.1 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>17.3 kph</td>
@@ -135,10 +135,10 @@
 <td>14.8 kph</td>
 <td>11.5 kph</td>
 <td>10.4 kph</td>
-<td>10.1 kph</td>
-<td>10.8 kph</td>
+<td>9.7 kph</td>
 <td>10.4 kph</td>
-<td>9 kph</td>
+<td>10.1 kph</td>
+<td>8.6 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-19 17:11:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-19 20:48:59 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
