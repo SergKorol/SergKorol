@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-20</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
-<b>Light snow</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -44,7 +44,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -120,7 +120,7 @@
 <td>6.8 kph</td>
 <td>5.8 kph</td>
 <td>5 kph</td>
-<td>3.6 kph</td>
+<td>3.2 kph</td>
 <td>3.6 kph</td>
 <td>4.3 kph</td>
 <td>5.4 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-20 03:09:26 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-20 05:21:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
