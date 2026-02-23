@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-23</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/317.png" alt="Light sleet" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
 
-<b>Light sleet</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-23 09:05:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-23 13:40:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
