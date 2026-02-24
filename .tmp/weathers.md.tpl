@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
-<b>Light snow</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-24 03:12:56 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-24 05:35:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
