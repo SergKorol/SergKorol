@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-24</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/317.png" alt="Light sleet" />
 
-<b>Fog</b>
+<b>Light sleet</b>
 </div>
 
 <table>
@@ -137,7 +137,7 @@
 <td>3.6 kph</td>
 <td>2.9 kph</td>
 <td>2.2 kph</td>
-<td>2.9 kph</td>
+<td>3.6 kph</td>
 <td>3.6 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-24 17:17:09 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-24 20:54:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
