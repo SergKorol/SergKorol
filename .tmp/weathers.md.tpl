@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-25</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Moderate snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/338.png" alt="Heavy snow" />
 
-<b>Moderate snow</b>
+<b>Heavy snow</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-25 03:14:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-25 05:37:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
