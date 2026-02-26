@@ -57,7 +57,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/311.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
@@ -83,7 +83,7 @@
 <td>Overcast </td>
 <td>Overcast </td>
 <td>Overcast </td>
-<td>Overcast </td>
+<td>Light freezing rain</td>
 <td>Light freezing rain</td>
 <td>Overcast </td>
 <td>Overcast </td>
@@ -106,13 +106,13 @@
 <td>-1.8 °C</td>
 <td>-1.8 °C</td>
 <td>-1.9 °C</td>
-<td>-2 °C</td>
-<td>-2.3 °C</td>
+<td>-2.2 °C</td>
 <td>-2.5 °C</td>
-<td>-2.6 °C</td>
 <td>-2.7 °C</td>
+<td>-2.8 °C</td>
 <td>-3 °C</td>
-<td>-2.9 °C</td>
+<td>-3.1 °C</td>
+<td>-3.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>11.5 kph</td>
@@ -133,12 +133,12 @@
 <td>11.9 kph</td>
 <td>10.8 kph</td>
 <td>11.2 kph</td>
-<td>10.4 kph</td>
-<td>9.4 kph</td>
 <td>10.1 kph</td>
-<td>7.9 kph</td>
-<td>5 kph</td>
-<td>4.7 kph</td>
+<td>9.4 kph</td>
+<td>9.4 kph</td>
+<td>7.6 kph</td>
+<td>5.8 kph</td>
+<td>4.3 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-26 17:16:06 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-26 20:54:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
