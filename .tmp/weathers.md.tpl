@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-02-28</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
 
-<b>Mist</b>
+<b>Cloudy</b>
 </div>
 
 <table>
@@ -45,7 +45,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
@@ -53,7 +53,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
@@ -71,7 +71,7 @@
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
-<td>Overcast </td>
+<td>Mist</td>
 <td>Cloudy </td>
 <td>Cloudy </td>
 <td>Mist</td>
@@ -79,7 +79,7 @@
 <td>Fog</td>
 <td>Fog</td>
 <td>Fog</td>
-<td>Mist</td>
+<td>Fog</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
@@ -89,54 +89,54 @@
 <td>Clear </td>
 </tr>
 <tr><th>Temperature</th>
-<td>-3.9 °C</td>
-<td>-3.5 °C</td>
-<td>-3.3 °C</td>
-<td>-3.9 °C</td>
 <td>-4.2 °C</td>
-<td>-4.2 °C</td>
+<td>-3.7 °C</td>
+<td>-4 °C</td>
+<td>-4.3 °C</td>
+<td>-4.1 °C</td>
+<td>-4.1 °C</td>
+<td>-4 °C</td>
 <td>-3.8 °C</td>
-<td>-3.9 °C</td>
 <td>-3.1 °C</td>
-<td>-2 °C</td>
-<td>-0.8 °C</td>
-<td>-0 °C</td>
-<td>0.4 °C</td>
-<td>0.8 °C</td>
-<td>1.1 °C</td>
-<td>1.1 °C</td>
-<td>0.9 °C</td>
+<td>-1.9 °C</td>
+<td>-0.7 °C</td>
 <td>0 °C</td>
+<td>0.5 °C</td>
+<td>0.8 °C</td>
+<td>1 °C</td>
+<td>0.8 °C</td>
+<td>0.6 °C</td>
+<td>0.1 °C</td>
 <td>-1 °C</td>
-<td>-1.3 °C</td>
-<td>-1.5 °C</td>
-<td>-2 °C</td>
+<td>-1.6 °C</td>
 <td>-2.2 °C</td>
 <td>-2.4 °C</td>
+<td>-2.6 °C</td>
+<td>-2.6 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>9.4 kph</td>
+<td>9.7 kph</td>
 <td>9 kph</td>
-<td>8.6 kph</td>
-<td>7.6 kph</td>
-<td>7.2 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>8.6 kph</td>
-<td>10.1 kph</td>
-<td>11.2 kph</td>
-<td>12.6 kph</td>
-<td>11.2 kph</td>
-<td>10.4 kph</td>
-<td>10.1 kph</td>
-<td>10.4 kph</td>
-<td>9.4 kph</td>
 <td>8.3 kph</td>
 <td>8.6 kph</td>
+<td>9 kph</td>
+<td>9 kph</td>
+<td>6.5 kph</td>
+<td>9 kph</td>
+<td>11.5 kph</td>
+<td>11.9 kph</td>
+<td>9.7 kph</td>
+<td>9 kph</td>
+<td>9.4 kph</td>
+<td>10.1 kph</td>
 <td>9.4 kph</td>
 <td>9.4 kph</td>
 <td>9.4 kph</td>
 <td>9 kph</td>
+<td>8.6 kph</td>
+<td>8.3 kph</td>
+<td>7.9 kph</td>
 <td>7.9 kph</td>
 <td>7.9 kph</td>
 </tr>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-02-28 05:01:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-02-28 08:44:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
