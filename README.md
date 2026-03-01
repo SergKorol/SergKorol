@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-03-01 13:09:11 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-03-01 16:43:59 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,9 +60,9 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <b>Kyiv, Ukraine - 2026-03-01</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Sunny</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -163,13 +163,13 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>3.5 °C</td>
 <td>3.4 °C</td>
 <td>3 °C</td>
-<td>2 °C</td>
-<td>0.8 °C</td>
-<td>0.6 °C</td>
-<td>0.5 °C</td>
-<td>0.3 °C</td>
+<td>1.9 °C</td>
+<td>0.7 °C</td>
+<td>0.4 °C</td>
 <td>0.2 °C</td>
 <td>0.1 °C</td>
+<td>-0.1 °C</td>
+<td>-0.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>7.9 kph</td>
@@ -183,19 +183,19 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>10.4 kph</td>
 <td>10.1 kph</td>
 <td>10.1 kph</td>
-<td>10.1 kph</td>
+<td>11.2 kph</td>
 <td>10.4 kph</td>
+<td>12.2 kph</td>
+<td>12.2 kph</td>
 <td>11.5 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
-<td>12.6 kph</td>
-<td>11.2 kph</td>
-<td>10.4 kph</td>
-<td>11.2 kph</td>
-<td>11.2 kph</td>
-<td>10.8 kph</td>
 <td>10.8 kph</td>
 <td>10.4 kph</td>
+<td>10.4 kph</td>
+<td>10.8 kph</td>
+<td>10.8 kph</td>
+<td>11.2 kph</td>
+<td>10.4 kph</td>
+<td>10.1 kph</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-03-01 13:09:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-01 16:44:03 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
