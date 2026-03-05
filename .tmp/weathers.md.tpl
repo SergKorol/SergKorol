@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-03-05</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Light snow showers" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
 
-<b>Light snow showers</b>
+<b>Light snow</b>
 </div>
 
 <table>
@@ -54,13 +54,13 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -80,13 +80,13 @@
 <td>Partly Cloudy </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
+<td>Light snow showers</td>
+<td>Light snow showers</td>
+<td>Moderate or heavy snow showers</td>
 <td>Patchy rain nearby</td>
-<td>Light snow showers</td>
-<td>Light snow showers</td>
-<td>Light snow showers</td>
 <td>Light snow</td>
-<td>Patchy rain nearby</td>
-<td>Overcast </td>
+<td>Light snow</td>
+<td>Light snow</td>
 </tr>
 <tr><th>Temperature</th>
 <td>0.6 °C</td>
@@ -106,13 +106,13 @@
 <td>4.2 °C</td>
 <td>4.3 °C</td>
 <td>4 °C</td>
-<td>3.5 °C</td>
-<td>2.9 °C</td>
-<td>2.3 °C</td>
+<td>3.3 °C</td>
+<td>2.8 °C</td>
+<td>2.2 °C</td>
 <td>1.9 °C</td>
 <td>1.7 °C</td>
 <td>1.6 °C</td>
-<td>1.6 °C</td>
+<td>1.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>12.6 kph</td>
@@ -132,13 +132,13 @@
 <td>22.7 kph</td>
 <td>22.3 kph</td>
 <td>21.2 kph</td>
-<td>19.1 kph</td>
-<td>18.7 kph</td>
-<td>16.9 kph</td>
 <td>18 kph</td>
-<td>18 kph</td>
+<td>16.2 kph</td>
 <td>16.9 kph</td>
-<td>14 kph</td>
+<td>17.3 kph</td>
+<td>18 kph</td>
+<td>17.3 kph</td>
+<td>15.1 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-05 18:19:29 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-05 20:52:06 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
