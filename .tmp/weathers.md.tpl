@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-03-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Patchy rain nearby</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -106,13 +106,13 @@
 <td>2.5 °C</td>
 <td>2.7 °C</td>
 <td>2.3 °C</td>
-<td>1.8 °C</td>
-<td>1.2 °C</td>
-<td>0.9 °C</td>
+<td>1.7 °C</td>
+<td>1.1 °C</td>
+<td>0.8 °C</td>
+<td>0.7 °C</td>
 <td>0.6 °C</td>
 <td>0.5 °C</td>
-<td>0.4 °C</td>
-<td>0.3 °C</td>
+<td>0.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>17.3 kph</td>
@@ -132,13 +132,13 @@
 <td>13.3 kph</td>
 <td>13 kph</td>
 <td>11.9 kph</td>
-<td>10.8 kph</td>
-<td>10.1 kph</td>
-<td>8.6 kph</td>
-<td>8.3 kph</td>
+<td>10.4 kph</td>
+<td>9.4 kph</td>
+<td>7.9 kph</td>
 <td>7.6 kph</td>
-<td>6.1 kph</td>
-<td>5 kph</td>
+<td>7.2 kph</td>
+<td>5.8 kph</td>
+<td>5.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-06 16:58:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-06 20:48:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
