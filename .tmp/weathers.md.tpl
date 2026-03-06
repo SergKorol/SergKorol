@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-03-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Light snow showers" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
 
-<b>Light snow showers</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-06 08:54:55 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-06 13:19:42 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
