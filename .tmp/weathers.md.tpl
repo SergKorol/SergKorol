@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-03-07</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
-<b>Overcast</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -122,7 +122,7 @@
 <td>4.7 kph</td>
 <td>4 kph</td>
 <td>3.2 kph</td>
-<td>2.5 kph</td>
+<td>3.6 kph</td>
 <td>2.2 kph</td>
 <td>3.2 kph</td>
 <td>4.3 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-07 02:43:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-07 05:06:58 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
