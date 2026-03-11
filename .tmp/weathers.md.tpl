@@ -106,13 +106,13 @@
 <td>12.1 °C</td>
 <td>12.2 °C</td>
 <td>11.8 °C</td>
-<td>10.8 °C</td>
-<td>9.2 °C</td>
-<td>8.1 °C</td>
-<td>7.5 °C</td>
-<td>7 °C</td>
-<td>6.3 °C</td>
-<td>5.8 °C</td>
+<td>11 °C</td>
+<td>9.3 °C</td>
+<td>8.3 °C</td>
+<td>7.7 °C</td>
+<td>7.1 °C</td>
+<td>6.5 °C</td>
+<td>5.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>14 kph</td>
@@ -132,10 +132,10 @@
 <td>20.5 kph</td>
 <td>19.1 kph</td>
 <td>17.6 kph</td>
-<td>15.1 kph</td>
+<td>15.5 kph</td>
 <td>12.6 kph</td>
 <td>12.6 kph</td>
-<td>13.3 kph</td>
+<td>13.7 kph</td>
 <td>13.3 kph</td>
 <td>13 kph</td>
 <td>12.2 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-11 17:08:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-11 20:48:50 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
