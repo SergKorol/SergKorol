@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-03-16 05:55:56 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-03-16 09:11:50 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -147,55 +147,55 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 </tr>
 <tr><th>Temperature</th>
 <td>4 °C</td>
-<td>3.4 °C</td>
-<td>2.9 °C</td>
+<td>3.5 °C</td>
+<td>3 °C</td>
 <td>2.5 °C</td>
-<td>2.1 °C</td>
-<td>1.8 °C</td>
-<td>1.5 °C</td>
+<td>2.2 °C</td>
+<td>1.9 °C</td>
 <td>1.6 °C</td>
-<td>2.7 °C</td>
-<td>4.2 °C</td>
-<td>5.7 °C</td>
-<td>7 °C</td>
-<td>7.9 °C</td>
-<td>8.6 °C</td>
-<td>9.1 °C</td>
-<td>9.3 °C</td>
-<td>9.2 °C</td>
-<td>8.7 °C</td>
-<td>7.5 °C</td>
-<td>6.7 °C</td>
-<td>6 °C</td>
-<td>5.4 °C</td>
+<td>1.8 °C</td>
+<td>2.9 °C</td>
+<td>4.5 °C</td>
+<td>5.9 °C</td>
+<td>7.3 °C</td>
+<td>8.3 °C</td>
+<td>8.9 °C</td>
+<td>9.4 °C</td>
+<td>9.6 °C</td>
+<td>9.5 °C</td>
+<td>9 °C</td>
+<td>7.8 °C</td>
+<td>7.1 °C</td>
+<td>6.5 °C</td>
+<td>5.9 °C</td>
+<td>5.3 °C</td>
 <td>4.8 °C</td>
-<td>4.2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>9.4 kph</td>
 <td>7.9 kph</td>
 <td>7.9 kph</td>
 <td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
 <td>7.6 kph</td>
-<td>9 kph</td>
+<td>7.6 kph</td>
+<td>7.2 kph</td>
+<td>7.2 kph</td>
+<td>8.6 kph</td>
 <td>10.1 kph</td>
 <td>10.4 kph</td>
 <td>10.4 kph</td>
-<td>10.8 kph</td>
-<td>9.4 kph</td>
-<td>9 kph</td>
-<td>9.4 kph</td>
+<td>10.1 kph</td>
 <td>9.7 kph</td>
-<td>9 kph</td>
+<td>9.4 kph</td>
+<td>8.6 kph</td>
+<td>8.6 kph</td>
 <td>7.9 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>7.6 kph</td>
+<td>6.8 kph</td>
+<td>6.1 kph</td>
+<td>6.1 kph</td>
+<td>6.5 kph</td>
+<td>6.5 kph</td>
+<td>6.1 kph</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-03-16 05:56:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-16 09:11:54 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
