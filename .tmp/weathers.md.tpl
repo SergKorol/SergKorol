@@ -54,10 +54,10 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/332.png" alt="Weather Icon"></td>
@@ -80,10 +80,10 @@
 <td>Light snow showers</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Light snow</td>
 <td>Patchy rain nearby</td>
-<td>Light snow</td>
-<td>Light snow</td>
+<td>Patchy rain nearby</td>
+<td>Light snow showers</td>
+<td>Moderate or heavy snow showers</td>
 <td>Light snow</td>
 <td>Light snow</td>
 <td>Moderate snow</td>
@@ -106,11 +106,11 @@
 <td>2.7 °C</td>
 <td>2.6 °C</td>
 <td>2.7 °C</td>
-<td>2.6 °C</td>
-<td>2.5 °C</td>
+<td>2.7 °C</td>
 <td>2.5 °C</td>
 <td>2.4 °C</td>
 <td>2.3 °C</td>
+<td>2.2 °C</td>
 <td>2.3 °C</td>
 <td>2.2 °C</td>
 </tr>
@@ -132,13 +132,13 @@
 <td>11.9 kph</td>
 <td>11.5 kph</td>
 <td>12.2 kph</td>
+<td>13.3 kph</td>
 <td>13 kph</td>
-<td>13 kph</td>
 <td>13.3 kph</td>
-<td>13.3 kph</td>
-<td>13.3 kph</td>
-<td>11.9 kph</td>
-<td>11.5 kph</td>
+<td>14 kph</td>
+<td>12.2 kph</td>
+<td>11.2 kph</td>
+<td>11.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-18 17:16:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-18 20:55:05 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
