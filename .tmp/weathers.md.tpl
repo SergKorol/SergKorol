@@ -3,7 +3,7 @@
 
 <b>Kyiv, Ukraine - 2026-03-27</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
 <b>Partly Cloudy</b>
 </div>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-27 03:28:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-27 05:49:37 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
