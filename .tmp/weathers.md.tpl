@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-03-31</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy" />
 
-<b>Partly Cloudy</b>
+<b>Cloudy</b>
 </div>
 
 <table>
@@ -56,7 +56,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
@@ -82,7 +82,7 @@
 <td>Cloudy </td>
 <td>Cloudy </td>
 <td>Cloudy </td>
-<td>Cloudy </td>
+<td>Partly Cloudy </td>
 <td>Partly Cloudy </td>
 <td>Cloudy </td>
 <td>Cloudy </td>
@@ -107,12 +107,12 @@
 <td>11.7 °C</td>
 <td>12 °C</td>
 <td>12 °C</td>
-<td>11.6 °C</td>
-<td>10.8 °C</td>
-<td>10 °C</td>
-<td>9.5 °C</td>
+<td>11.3 °C</td>
+<td>10.4 °C</td>
+<td>9.6 °C</td>
 <td>9.2 °C</td>
-<td>9 °C</td>
+<td>8.9 °C</td>
+<td>8.7 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>6.5 kph</td>
@@ -136,9 +136,9 @@
 <td>8.6 kph</td>
 <td>7.2 kph</td>
 <td>7.2 kph</td>
-<td>7.2 kph</td>
 <td>6.8 kph</td>
-<td>7.2 kph</td>
+<td>6.8 kph</td>
+<td>6.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-03-31 17:12:16 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-03-31 20:56:20 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
