@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-04-07</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby" />
 
-<b>Light drizzle</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -49,18 +49,18 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/362.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/362.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Clear </td>
@@ -75,18 +75,18 @@
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Light sleet showers</td>
+<td>Patchy rain nearby</td>
+<td>Light rain</td>
 <td>Light sleet showers</td>
 <td>Light rain shower</td>
 <td>Light rain shower</td>
-<td>Light drizzle</td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
+<td>Light rain shower</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Light snow</td>
+<td>Partly Cloudy </td>
 </tr>
 <tr><th>Temperature</th>
 <td>5.3 °C</td>
@@ -101,18 +101,18 @@
 <td>4.6 °C</td>
 <td>5.3 °C</td>
 <td>4.7 °C</td>
-<td>5.2 °C</td>
+<td>5.1 °C</td>
+<td>6.3 °C</td>
 <td>5.5 °C</td>
-<td>7 °C</td>
-<td>6.8 °C</td>
-<td>7.3 °C</td>
-<td>6.8 °C</td>
-<td>6.1 °C</td>
-<td>5.6 °C</td>
+<td>6.7 °C</td>
+<td>6.9 °C</td>
+<td>6.9 °C</td>
+<td>6.6 °C</td>
+<td>5.9 °C</td>
+<td>5.2 °C</td>
 <td>4.9 °C</td>
 <td>4.6 °C</td>
-<td>4.3 °C</td>
-<td>4 °C</td>
+<td>4.1 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>22.7 kph</td>
@@ -127,18 +127,18 @@
 <td>23.8 kph</td>
 <td>24.5 kph</td>
 <td>25.2 kph</td>
-<td>24.8 kph</td>
-<td>25.6 kph</td>
-<td>25.2 kph</td>
-<td>24.8 kph</td>
-<td>25.2 kph</td>
-<td>25.9 kph</td>
 <td>21.2 kph</td>
-<td>21.6 kph</td>
-<td>17.3 kph</td>
-<td>16.9 kph</td>
-<td>16.2 kph</td>
-<td>17.3 kph</td>
+<td>24.5 kph</td>
+<td>22 kph</td>
+<td>23 kph</td>
+<td>25.2 kph</td>
+<td>22.7 kph</td>
+<td>19.4 kph</td>
+<td>18 kph</td>
+<td>15.8 kph</td>
+<td>14.8 kph</td>
+<td>15.5 kph</td>
+<td>14.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-04-07 13:58:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-04-07 17:14:27 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
