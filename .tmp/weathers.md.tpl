@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-04-09</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Patchy rain nearby</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -51,16 +51,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Moderate or heavy snow showers</td>
@@ -77,16 +77,16 @@
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
+<td>Overcast </td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Clear </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
+<td>Overcast </td>
 </tr>
 <tr><th>Temperature</th>
 <td>2.9 °C</td>
@@ -101,18 +101,18 @@
 <td>2.6 °C</td>
 <td>3.1 °C</td>
 <td>4 °C</td>
-<td>4.6 °C</td>
-<td>5.4 °C</td>
-<td>6.2 °C</td>
-<td>6.2 °C</td>
-<td>6.2 °C</td>
-<td>5.7 °C</td>
-<td>5.5 °C</td>
-<td>5.1 °C</td>
-<td>4 °C</td>
-<td>3.5 °C</td>
-<td>3 °C</td>
-<td>2.7 °C</td>
+<td>4.4 °C</td>
+<td>4.7 °C</td>
+<td>4.8 °C</td>
+<td>4.7 °C</td>
+<td>5.2 °C</td>
+<td>5.3 °C</td>
+<td>5 °C</td>
+<td>4.7 °C</td>
+<td>4.5 °C</td>
+<td>4.3 °C</td>
+<td>4.2 °C</td>
+<td>3.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>18 kph</td>
@@ -128,17 +128,17 @@
 <td>16.2 kph</td>
 <td>15.8 kph</td>
 <td>15.8 kph</td>
-<td>14.8 kph</td>
-<td>15.1 kph</td>
-<td>15.8 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>16.2 kph</td>
 <td>16.9 kph</td>
 <td>18 kph</td>
-<td>17.6 kph</td>
-<td>17.3 kph</td>
 <td>16.6 kph</td>
+<td>16.2 kph</td>
+<td>15.5 kph</td>
 <td>15.1 kph</td>
-<td>14 kph</td>
-<td>13.3 kph</td>
+<td>15.1 kph</td>
+<td>16.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-04-09 14:10:39 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-04-09 17:20:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
