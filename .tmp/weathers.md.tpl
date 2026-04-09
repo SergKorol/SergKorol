@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-04-09</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Light snow showers" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Moderate or heavy snow showers" />
 
-<b>Light snow showers</b>
+<b>Moderate or heavy snow showers</b>
 </div>
 
 <table>
@@ -43,7 +43,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/368.png" alt="Weather Icon"></td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-04-09 03:26:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-04-09 05:56:40 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
