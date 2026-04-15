@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-04-15 09:48:14 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-04-15 14:02:46 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,9 +60,9 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <b>Kyiv, Ukraine - 2026-04-15</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
-<b>Sunny</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -120,30 +120,30 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
-<td>Clear </td>
+<td>Clear</td>
+<td>Clear</td>
+<td>Clear</td>
+<td>Clear</td>
+<td>Clear</td>
+<td>Clear</td>
+<td>Clear</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
 <td>Sunny</td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Partly Cloudy </td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
 <td>Patchy rain nearby</td>
-<td>Cloudy </td>
-<td>Partly Cloudy </td>
-<td>Cloudy </td>
-<td>Overcast </td>
+<td>Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Cloudy</td>
+<td>Overcast</td>
 </tr>
 <tr><th>Temperature</th>
 <td>8.5 °C</td>
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-04-15 09:48:18 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-04-15 14:02:49 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
