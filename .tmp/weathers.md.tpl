@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-05-01</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
 
-<b>Cloudy</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-05-01 04:13:52 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-01 06:44:34 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
