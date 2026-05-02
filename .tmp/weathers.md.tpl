@@ -121,7 +121,7 @@
 <td>2.9 kph</td>
 <td>3.6 kph</td>
 <td>4 kph</td>
-<td>3.6 kph</td>
+<td>3.2 kph</td>
 <td>2.9 kph</td>
 <td>4 kph</td>
 <td>5 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-05-02 03:48:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-02 06:19:32 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
