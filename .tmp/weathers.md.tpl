@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-05-02</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
-<b>Patchy rain nearby</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -127,7 +127,7 @@
 <td>4.3 kph</td>
 <td>3.6 kph</td>
 <td>2.9 kph</td>
-<td>3.6 kph</td>
+<td>2.9 kph</td>
 <td>3.6 kph</td>
 <td>3.6 kph</td>
 <td>3.6 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-05-02 09:19:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-02 13:45:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
