@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-05-04 07:21:11 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-05-04 10:23:28 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -146,56 +146,56 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>Clear</td>
 </tr>
 <tr><th>Temperature</th>
-<td>10.6 °C</td>
-<td>10.1 °C</td>
-<td>9.7 °C</td>
+<td>9.9 °C</td>
+<td>9.6 °C</td>
+<td>9.1 °C</td>
+<td>8.8 °C</td>
+<td>8.5 °C</td>
+<td>8.3 °C</td>
+<td>8.2 °C</td>
 <td>9.4 °C</td>
-<td>9.2 °C</td>
-<td>9 °C</td>
-<td>9 °C</td>
-<td>10.3 °C</td>
-<td>12.5 °C</td>
-<td>15.1 °C</td>
-<td>17.5 °C</td>
-<td>19.7 °C</td>
-<td>21.6 °C</td>
-<td>23 °C</td>
-<td>23.9 °C</td>
-<td>24.3 °C</td>
-<td>24.2 °C</td>
-<td>23.9 °C</td>
+<td>11.5 °C</td>
+<td>14 °C</td>
+<td>16.3 °C</td>
+<td>18.4 °C</td>
+<td>20.2 °C</td>
+<td>21.8 °C</td>
+<td>22.8 °C</td>
+<td>23.3 °C</td>
 <td>23.5 °C</td>
-<td>21.7 °C</td>
+<td>23.2 °C</td>
+<td>22.7 °C</td>
+<td>20.8 °C</td>
 <td>19.3 °C</td>
 <td>18.2 °C</td>
-<td>17.4 °C</td>
-<td>16.8 °C</td>
+<td>17.5 °C</td>
+<td>17 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>11.5 kph</td>
 <td>10.8 kph</td>
+<td>10.8 kph</td>
+<td>10.4 kph</td>
+<td>10.1 kph</td>
 <td>9.7 kph</td>
-<td>9.4 kph</td>
-<td>8.6 kph</td>
-<td>9.4 kph</td>
+<td>9.7 kph</td>
 <td>9 kph</td>
-<td>7.2 kph</td>
+<td>7.9 kph</td>
+<td>8.6 kph</td>
+<td>7.9 kph</td>
 <td>6.8 kph</td>
-<td>6.1 kph</td>
-<td>5.4 kph</td>
+<td>5.8 kph</td>
+<td>5 kph</td>
 <td>4.3 kph</td>
 <td>3.6 kph</td>
-<td>3.2 kph</td>
 <td>2.5 kph</td>
-<td>3.2 kph</td>
+<td>2.2 kph</td>
 <td>4.3 kph</td>
-<td>5 kph</td>
-<td>6.1 kph</td>
-<td>9 kph</td>
-<td>11.5 kph</td>
-<td>11.9 kph</td>
+<td>6.5 kph</td>
+<td>8.6 kph</td>
+<td>10.4 kph</td>
 <td>10.8 kph</td>
-<td>10.8 kph</td>
+<td>10.1 kph</td>
+<td>10.1 kph</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-05-04 07:21:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-04 10:23:32 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
