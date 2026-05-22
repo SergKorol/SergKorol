@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-05-22</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/386.png" alt="Patchy light rain in area with thunder" />
 
-<b>Sunny</b>
+<b>Patchy light rain in area with thunder</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-05-22 15:19:11 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-22 18:01:58 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
