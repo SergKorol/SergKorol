@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-05-31</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
 
-<b>Light drizzle</b>
+<b>Patchy rain nearby</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-05-31 10:23:04 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-05-31 14:09:07 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
