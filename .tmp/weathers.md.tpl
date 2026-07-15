@@ -95,7 +95,7 @@
 <td>18.5 °C</td>
 <td>18.3 °C</td>
 <td>17.9 °C</td>
-<td>17.9 °C</td>
+<td>18 °C</td>
 <td>19.1 °C</td>
 <td>20.7 °C</td>
 <td>22.3 °C</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-07-15 03:29:45 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-07-15 06:25:45 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
