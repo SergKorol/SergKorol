@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-07-23</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Partly Cloudy</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -49,17 +49,17 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -75,17 +75,17 @@
 <td>Partly Cloudy</td>
 <td>Partly Cloudy</td>
 <td>Sunny</td>
+<td>Patchy rain nearby</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
+<td>Partly Cloudy</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy</td>
-<td>Partly Cloudy</td>
-<td>Partly Cloudy</td>
-<td>Partly Cloudy</td>
-<td>Partly Cloudy</td>
+<td>Sunny</td>
 <td>Clear</td>
-<td>Partly Cloudy</td>
+<td>Clear</td>
 <td>Clear</td>
 </tr>
 <tr><th>Temperature</th>
@@ -101,18 +101,18 @@
 <td>17.8 °C</td>
 <td>19.3 °C</td>
 <td>19.7 °C</td>
-<td>20 °C</td>
-<td>20.5 °C</td>
-<td>21.2 °C</td>
-<td>22.1 °C</td>
-<td>22.7 °C</td>
-<td>22.5 °C</td>
 <td>21.3 °C</td>
-<td>20.4 °C</td>
-<td>19.8 °C</td>
-<td>18.8 °C</td>
-<td>17.8 °C</td>
-<td>17.2 °C</td>
+<td>22.1 °C</td>
+<td>21.4 °C</td>
+<td>20.8 °C</td>
+<td>20.9 °C</td>
+<td>21.3 °C</td>
+<td>21.1 °C</td>
+<td>20.5 °C</td>
+<td>19.5 °C</td>
+<td>18.7 °C</td>
+<td>18.4 °C</td>
+<td>18.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.4 kph</td>
@@ -127,18 +127,18 @@
 <td>4.7 kph</td>
 <td>6.8 kph</td>
 <td>9.4 kph</td>
-<td>11.9 kph</td>
-<td>12.6 kph</td>
-<td>13.3 kph</td>
-<td>12.6 kph</td>
+<td>10.1 kph</td>
+<td>10.1 kph</td>
+<td>11.2 kph</td>
+<td>10.4 kph</td>
 <td>9.7 kph</td>
+<td>9.4 kph</td>
+<td>9 kph</td>
+<td>9 kph</td>
+<td>9.4 kph</td>
 <td>8.3 kph</td>
-<td>7.6 kph</td>
+<td>6.8 kph</td>
 <td>5 kph</td>
-<td>0.7 kph</td>
-<td>2.2 kph</td>
-<td>3.2 kph</td>
-<td>2.5 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-07-23 14:27:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-07-23 17:43:38 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
