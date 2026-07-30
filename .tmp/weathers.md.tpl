@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-07-30</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy" />
 
-<b>Sunny</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -95,7 +95,7 @@
 <td>15.1 °C</td>
 <td>14.8 °C</td>
 <td>14.4 °C</td>
-<td>14.2 °C</td>
+<td>14.3 °C</td>
 <td>15.4 °C</td>
 <td>16.9 °C</td>
 <td>17.8 °C</td>
@@ -121,7 +121,7 @@
 <td>10.8 kph</td>
 <td>10.4 kph</td>
 <td>10.4 kph</td>
-<td>11.2 kph</td>
+<td>10.8 kph</td>
 <td>11.9 kph</td>
 <td>14.4 kph</td>
 <td>14.8 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-07-30 03:23:56 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-07-30 06:38:48 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
