@@ -101,18 +101,18 @@
 <td>26 °C</td>
 <td>28.1 °C</td>
 <td>29.8 °C</td>
-<td>31.3 °C</td>
-<td>32.4 °C</td>
-<td>33 °C</td>
+<td>32.3 °C</td>
 <td>33.4 °C</td>
-<td>33.5 °C</td>
+<td>33.9 °C</td>
+<td>34 °C</td>
+<td>33.9 °C</td>
 <td>33.2 °C</td>
-<td>32.7 °C</td>
-<td>31.7 °C</td>
-<td>29.8 °C</td>
+<td>32.8 °C</td>
+<td>31.8 °C</td>
+<td>29.7 °C</td>
 <td>28.2 °C</td>
-<td>27.1 °C</td>
-<td>26.1 °C</td>
+<td>27.4 °C</td>
+<td>26.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>7.9 kph</td>
@@ -127,18 +127,18 @@
 <td>5 kph</td>
 <td>6.1 kph</td>
 <td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>8.3 kph</td>
-<td>9.4 kph</td>
-<td>10.8 kph</td>
-<td>12.2 kph</td>
-<td>13.3 kph</td>
-<td>11.5 kph</td>
-<td>10.1 kph</td>
+<td>1.4 kph</td>
+<td>1.4 kph</td>
+<td>5 kph</td>
 <td>8.6 kph</td>
-<td>8.3 kph</td>
+<td>11.2 kph</td>
+<td>13.3 kph</td>
+<td>11.9 kph</td>
+<td>10.4 kph</td>
 <td>7.9 kph</td>
-<td>7.9 kph</td>
+<td>6.1 kph</td>
+<td>5 kph</td>
+<td>5.8 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-04 10:48:14 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-04 14:36:57 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
