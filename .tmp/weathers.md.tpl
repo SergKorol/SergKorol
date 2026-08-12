@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-12</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -89,56 +89,56 @@
 <td>Clear</td>
 </tr>
 <tr><th>Temperature</th>
-<td>21.8 °C</td>
+<td>21.3 °C</td>
 <td>20.3 °C</td>
-<td>19 °C</td>
-<td>17.6 °C</td>
-<td>16.4 °C</td>
-<td>15.6 °C</td>
-<td>14.8 °C</td>
-<td>15.2 °C</td>
-<td>16.4 °C</td>
-<td>17.9 °C</td>
-<td>19.2 °C</td>
-<td>20.7 °C</td>
-<td>21.9 °C</td>
-<td>23 °C</td>
-<td>23.8 °C</td>
-<td>24.3 °C</td>
-<td>24.5 °C</td>
-<td>24.3 °C</td>
+<td>18.9 °C</td>
+<td>17.4 °C</td>
+<td>16.5 °C</td>
+<td>15.5 °C</td>
+<td>14.7 °C</td>
+<td>15.1 °C</td>
+<td>16.3 °C</td>
+<td>17.7 °C</td>
+<td>19.1 °C</td>
+<td>20.5 °C</td>
+<td>21.8 °C</td>
+<td>22.9 °C</td>
+<td>23.7 °C</td>
+<td>24.2 °C</td>
+<td>24.4 °C</td>
+<td>24.2 °C</td>
 <td>23.6 °C</td>
-<td>22.7 °C</td>
+<td>22.8 °C</td>
 <td>21 °C</td>
 <td>19.3 °C</td>
 <td>18.3 °C</td>
-<td>17.4 °C</td>
+<td>17.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>18 kph</td>
-<td>17.6 kph</td>
+<td>18 kph</td>
 <td>16.9 kph</td>
-<td>16.6 kph</td>
-<td>16.6 kph</td>
-<td>15.8 kph</td>
-<td>15.8 kph</td>
 <td>16.9 kph</td>
+<td>15.5 kph</td>
+<td>15.5 kph</td>
+<td>15.1 kph</td>
+<td>16.6 kph</td>
+<td>18.4 kph</td>
+<td>18.4 kph</td>
 <td>18.4 kph</td>
 <td>18.7 kph</td>
-<td>18.4 kph</td>
-<td>18.4 kph</td>
 <td>18.7 kph</td>
 <td>19.1 kph</td>
 <td>19.4 kph</td>
-<td>19.8 kph</td>
-<td>20.2 kph</td>
-<td>20.9 kph</td>
-<td>20.9 kph</td>
 <td>19.4 kph</td>
+<td>19.8 kph</td>
+<td>20.5 kph</td>
+<td>20.9 kph</td>
+<td>19.1 kph</td>
 <td>15.8 kph</td>
-<td>13.7 kph</td>
-<td>10.4 kph</td>
+<td>13.3 kph</td>
 <td>11.2 kph</td>
+<td>9 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-12 02:40:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-12 05:44:08 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
