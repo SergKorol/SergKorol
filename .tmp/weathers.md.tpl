@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-12</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Partly Cloudy</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -89,56 +89,56 @@
 <td>Clear</td>
 </tr>
 <tr><th>Temperature</th>
-<td>21.7 °C</td>
-<td>20.5 °C</td>
-<td>19.2 °C</td>
-<td>17.8 °C</td>
-<td>16.7 °C</td>
-<td>15.9 °C</td>
+<td>21.8 °C</td>
+<td>20.3 °C</td>
+<td>19 °C</td>
+<td>17.6 °C</td>
+<td>16.4 °C</td>
+<td>15.6 °C</td>
+<td>14.8 °C</td>
 <td>15.2 °C</td>
-<td>15.4 °C</td>
-<td>16.5 °C</td>
-<td>17.8 °C</td>
+<td>16.4 °C</td>
+<td>17.9 °C</td>
 <td>19.2 °C</td>
-<td>20.6 °C</td>
+<td>20.7 °C</td>
 <td>21.9 °C</td>
 <td>23 °C</td>
 <td>23.8 °C</td>
 <td>24.3 °C</td>
 <td>24.5 °C</td>
-<td>24.2 °C</td>
+<td>24.3 °C</td>
 <td>23.6 °C</td>
 <td>22.7 °C</td>
-<td>20.9 °C</td>
+<td>21 °C</td>
 <td>19.3 °C</td>
 <td>18.3 °C</td>
 <td>17.4 °C</td>
 </tr>
 <tr><th>Wind</th>
-<td>19.8 kph</td>
-<td>18.4 kph</td>
-<td>16.9 kph</td>
-<td>17.3 kph</td>
-<td>16.9 kph</td>
+<td>18 kph</td>
+<td>17.6 kph</td>
 <td>16.9 kph</td>
 <td>16.6 kph</td>
+<td>16.6 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
 <td>16.9 kph</td>
 <td>18.4 kph</td>
-<td>18.4 kph</td>
+<td>18.7 kph</td>
 <td>18.4 kph</td>
 <td>18.4 kph</td>
 <td>18.7 kph</td>
-<td>18.7 kph</td>
-<td>19.8 kph</td>
-<td>19.8 kph</td>
-<td>20.5 kph</td>
-<td>22.3 kph</td>
-<td>21.2 kph</td>
+<td>19.1 kph</td>
 <td>19.4 kph</td>
-<td>16.2 kph</td>
-<td>12.6 kph</td>
-<td>9.7 kph</td>
+<td>19.8 kph</td>
+<td>20.2 kph</td>
+<td>20.9 kph</td>
+<td>20.9 kph</td>
+<td>19.4 kph</td>
+<td>15.8 kph</td>
+<td>13.7 kph</td>
 <td>10.4 kph</td>
+<td>11.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-11 21:01:10 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-12 02:40:31 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
