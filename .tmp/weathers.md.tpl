@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-14</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Partly Cloudy</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -120,7 +120,7 @@
 <td>4.3 kph</td>
 <td>3.2 kph</td>
 <td>4.3 kph</td>
-<td>3.6 kph</td>
+<td>3.2 kph</td>
 <td>2.5 kph</td>
 <td>4.7 kph</td>
 <td>6.8 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-14 02:42:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-14 05:43:47 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
