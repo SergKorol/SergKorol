@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-15</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny" />
 
-<b>Clear</b>
+<b>Sunny</b>
 </div>
 
 <table>
@@ -37,12 +37,12 @@
 <td>23:00</td>
 </tr>
 <tr><th>Weather</th>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -51,7 +51,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Icon"></td>
@@ -63,12 +63,12 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
-<td>Clear</td>
 <td>Partly Cloudy</td>
 <td>Clear</td>
 <td>Clear</td>
 <td>Clear</td>
 <td>Clear</td>
+<td>Clear</td>
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
@@ -77,7 +77,7 @@
 <td>Sunny</td>
 <td>Sunny</td>
 <td>Sunny</td>
-<td>Partly Cloudy</td>
+<td>Sunny</td>
 <td>Partly Cloudy</td>
 <td>Partly Cloudy</td>
 <td>Sunny</td>
@@ -89,56 +89,56 @@
 <td>Clear</td>
 </tr>
 <tr><th>Temperature</th>
-<td>17.9 °C</td>
-<td>17.1 °C</td>
-<td>16.3 °C</td>
-<td>15.9 °C</td>
-<td>15.5 °C</td>
+<td>17 °C</td>
+<td>16.4 °C</td>
+<td>16 °C</td>
+<td>15.6 °C</td>
+<td>15.2 °C</td>
+<td>14.9 °C</td>
+<td>14.5 °C</td>
 <td>15.1 °C</td>
-<td>14.6 °C</td>
-<td>15.3 °C</td>
-<td>17.4 °C</td>
-<td>19.5 °C</td>
-<td>21.3 °C</td>
-<td>22.8 °C</td>
-<td>24.1 °C</td>
-<td>25.1 °C</td>
-<td>26 °C</td>
-<td>26.6 °C</td>
+<td>17 °C</td>
+<td>19.1 °C</td>
+<td>21.1 °C</td>
+<td>22.6 °C</td>
+<td>23.8 °C</td>
+<td>24.9 °C</td>
+<td>25.8 °C</td>
+<td>26.4 °C</td>
+<td>26.7 °C</td>
 <td>26.8 °C</td>
-<td>26.8 °C</td>
-<td>26.5 °C</td>
+<td>26.4 °C</td>
 <td>25.6 °C</td>
 <td>23.6 °C</td>
 <td>22.3 °C</td>
 <td>21.4 °C</td>
-<td>20.8 °C</td>
+<td>20.7 °C</td>
 </tr>
 <tr><th>Wind</th>
+<td>6.5 kph</td>
+<td>7.2 kph</td>
+<td>7.2 kph</td>
 <td>7.6 kph</td>
+<td>7.2 kph</td>
+<td>6.8 kph</td>
+<td>7.2 kph</td>
 <td>8.3 kph</td>
-<td>8.6 kph</td>
-<td>8.3 kph</td>
-<td>7.9 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
-<td>8.3 kph</td>
-<td>9.4 kph</td>
-<td>9.4 kph</td>
-<td>10.1 kph</td>
-<td>10.8 kph</td>
-<td>11.2 kph</td>
-<td>10.4 kph</td>
-<td>10.8 kph</td>
-<td>10.8 kph</td>
-<td>10.4 kph</td>
-<td>10.4 kph</td>
+<td>9 kph</td>
+<td>9 kph</td>
 <td>9.7 kph</td>
+<td>10.1 kph</td>
+<td>10.4 kph</td>
+<td>10.4 kph</td>
+<td>10.4 kph</td>
+<td>10.1 kph</td>
+<td>9.7 kph</td>
+<td>10.1 kph</td>
+<td>9.4 kph</td>
 <td>7.2 kph</td>
 <td>5 kph</td>
-<td>6.5 kph</td>
-<td>7.6 kph</td>
-<td>7.6 kph</td>
+<td>5.8 kph</td>
+<td>6.8 kph</td>
+<td>7.2 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-15 01:47:23 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-15 04:44:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
