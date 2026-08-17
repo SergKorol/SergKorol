@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy" />
 
-<b>Light drizzle</b>
+<b>Cloudy</b>
 </div>
 
 <table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-17 16:43:41 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-17 20:40:57 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
