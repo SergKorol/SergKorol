@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-08-30</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower" />
 
-<b>Overcast</b>
+<b>Light rain shower</b>
 </div>
 
 <table>
@@ -55,7 +55,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Weather Icon"></td>
@@ -81,7 +81,7 @@
 <td>Overcast</td>
 <td>Overcast</td>
 <td>Overcast</td>
-<td>Cloudy</td>
+<td>Overcast</td>
 <td>Cloudy</td>
 <td>Overcast</td>
 <td>Light rain shower</td>
@@ -106,8 +106,8 @@
 <td>23.8 °C</td>
 <td>23.3 °C</td>
 <td>23.5 °C</td>
-<td>23.2 °C</td>
-<td>22.8 °C</td>
+<td>24.2 °C</td>
+<td>23.4 °C</td>
 <td>22.9 °C</td>
 <td>22.8 °C</td>
 <td>21.7 °C</td>
@@ -131,9 +131,9 @@
 <td>7.9 kph</td>
 <td>5 kph</td>
 <td>1.1 kph</td>
-<td>3.6 kph</td>
 <td>2.9 kph</td>
-<td>3.6 kph</td>
+<td>15.5 kph</td>
+<td>12.6 kph</td>
 <td>2.2 kph</td>
 <td>3.2 kph</td>
 <td>4.7 kph</td>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-08-30 13:46:50 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-08-30 19:17:55 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
