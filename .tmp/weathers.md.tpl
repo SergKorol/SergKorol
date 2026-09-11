@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-09-11</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Cloudy</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -54,8 +54,8 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
@@ -80,8 +80,8 @@
 <td>Overcast</td>
 <td>Cloudy</td>
 <td>Overcast</td>
-<td>Partly Cloudy</td>
-<td>Cloudy</td>
+<td>Overcast</td>
+<td>Overcast</td>
 <td>Cloudy</td>
 <td>Overcast</td>
 <td>Overcast</td>
@@ -106,13 +106,13 @@
 <td>21.7 °C</td>
 <td>22.2 °C</td>
 <td>22.3 °C</td>
+<td>22.7 °C</td>
 <td>21.9 °C</td>
-<td>21.4 °C</td>
 <td>20 °C</td>
-<td>19.5 °C</td>
+<td>20.2 °C</td>
+<td>19.7 °C</td>
 <td>19 °C</td>
 <td>18.5 °C</td>
-<td>17.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>19.1 kph</td>
@@ -132,13 +132,13 @@
 <td>11.2 kph</td>
 <td>10.8 kph</td>
 <td>10.4 kph</td>
-<td>9.7 kph</td>
-<td>8.6 kph</td>
+<td>9 kph</td>
+<td>9 kph</td>
 <td>7.9 kph</td>
+<td>7.9 kph</td>
+<td>6.8 kph</td>
 <td>7.2 kph</td>
 <td>7.2 kph</td>
-<td>5.8 kph</td>
-<td>10.4 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-09-11 12:48:22 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-09-11 19:09:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
