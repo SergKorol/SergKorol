@@ -53,14 +53,14 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
 <td>Overcast</td>
@@ -80,13 +80,13 @@
 <td>Overcast</td>
 <td>Overcast</td>
 <td>Overcast</td>
-<td>Overcast</td>
-<td>Overcast</td>
-<td>Overcast</td>
-<td>Overcast</td>
-<td>Overcast</td>
-<td>Overcast</td>
 <td>Patchy rain nearby</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
 </tr>
 <tr><th>Temperature</th>
 <td>9.2 °C</td>
@@ -106,13 +106,13 @@
 <td>10.4 °C</td>
 <td>11 °C</td>
 <td>10.6 °C</td>
-<td>9.6 °C</td>
-<td>9.8 °C</td>
-<td>9.7 °C</td>
-<td>9.3 °C</td>
 <td>9.5 °C</td>
-<td>9.4 °C</td>
-<td>8.7 °C</td>
+<td>9.9 °C</td>
+<td>9.8 °C</td>
+<td>9.3 °C</td>
+<td>9.6 °C</td>
+<td>9.5 °C</td>
+<td>8.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>6.1 kph</td>
@@ -132,13 +132,13 @@
 <td>7.2 kph</td>
 <td>8.6 kph</td>
 <td>7.6 kph</td>
-<td>6.8 kph</td>
-<td>6.5 kph</td>
-<td>6.1 kph</td>
 <td>7.2 kph</td>
-<td>6.1 kph</td>
+<td>7.2 kph</td>
 <td>6.8 kph</td>
-<td>6.5 kph</td>
+<td>7.2 kph</td>
+<td>6.8 kph</td>
+<td>7.2 kph</td>
+<td>7.6 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-10-30 15:00:33 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-10-30 20:43:45 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
