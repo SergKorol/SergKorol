@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-11-06</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Light snow showers" />
 
-<b>Patchy rain nearby</b>
+<b>Light snow showers</b>
 </div>
 
 <table>
@@ -48,7 +48,7 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/362.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
@@ -57,9 +57,9 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/368.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/371.png" alt="Weather Icon"></td>
 </tr>
 <tr><th>Condition</th>
@@ -74,7 +74,6 @@
 <td>Light rain shower</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Light sleet showers</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
@@ -84,8 +83,9 @@
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
+<td>Overcast</td>
 <td>Light snow showers</td>
-<td>Light snow showers</td>
+<td>Moderate or heavy snow showers</td>
 <td>Moderate or heavy snow showers</td>
 </tr>
 <tr><th>Temperature</th>
@@ -100,19 +100,19 @@
 <td>5 °C</td>
 <td>5.1 °C</td>
 <td>5.7 °C</td>
-<td>5.7 °C</td>
-<td>6.3 °C</td>
-<td>6.9 °C</td>
-<td>6 °C</td>
+<td>5.9 °C</td>
 <td>6.4 °C</td>
-<td>5.8 °C</td>
-<td>4.3 °C</td>
+<td>7 °C</td>
+<td>6.3 °C</td>
+<td>6.5 °C</td>
+<td>5.9 °C</td>
+<td>5.2 °C</td>
 <td>4.7 °C</td>
-<td>4.1 °C</td>
-<td>3.5 °C</td>
-<td>3.7 °C</td>
-<td>3.6 °C</td>
-<td>3.3 °C</td>
+<td>4.3 °C</td>
+<td>4 °C</td>
+<td>3.4 °C</td>
+<td>3.4 °C</td>
+<td>2.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>16.2 kph</td>
@@ -126,18 +126,18 @@
 <td>15.1 kph</td>
 <td>19.4 kph</td>
 <td>21.2 kph</td>
-<td>20.5 kph</td>
+<td>20.9 kph</td>
 <td>22.7 kph</td>
 <td>21.2 kph</td>
-<td>20.5 kph</td>
-<td>22.3 kph</td>
-<td>20.5 kph</td>
-<td>18.7 kph</td>
-<td>20.2 kph</td>
-<td>20.5 kph</td>
-<td>18 kph</td>
-<td>20.5 kph</td>
+<td>20.9 kph</td>
+<td>22 kph</td>
 <td>19.8 kph</td>
+<td>18.7 kph</td>
+<td>20.5 kph</td>
+<td>20.9 kph</td>
+<td>19.4 kph</td>
+<td>17.6 kph</td>
+<td>18.4 kph</td>
 <td>16.9 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-06 12:01:15 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-06 19:19:00 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
