@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-11-08</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear" />
 
-<b>Patchy rain nearby</b>
+<b>Clear</b>
 </div>
 
 <table>
@@ -107,12 +107,12 @@
 <td>4.8 °C</td>
 <td>4.6 °C</td>
 <td>4 °C</td>
+<td>4.2 °C</td>
 <td>4.1 °C</td>
-<td>4 °C</td>
-<td>3.3 °C</td>
+<td>3.1 °C</td>
 <td>2.9 °C</td>
-<td>2.5 °C</td>
-<td>2.4 °C</td>
+<td>2.6 °C</td>
+<td>2.3 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.1 kph</td>
@@ -132,13 +132,13 @@
 <td>9 kph</td>
 <td>11.5 kph</td>
 <td>10.8 kph</td>
-<td>6.8 kph</td>
+<td>7.2 kph</td>
 <td>10.4 kph</td>
 <td>10.1 kph</td>
-<td>7.9 kph</td>
+<td>7.2 kph</td>
 <td>8.3 kph</td>
-<td>7.9 kph</td>
-<td>6.8 kph</td>
+<td>7.6 kph</td>
+<td>6.5 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-08 15:07:06 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-08 20:26:24 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
