@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-11-12</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle" />
 
-<b>Overcast</b>
+<b>Light drizzle</b>
 </div>
 
 <table>
@@ -51,13 +51,13 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
@@ -77,13 +77,13 @@
 <td>Overcast</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
 <td>Light drizzle</td>
 <td>Light drizzle</td>
+<td>Light drizzle</td>
+<td>Light drizzle</td>
+<td>Light drizzle</td>
+<td>Patchy rain nearby</td>
+<td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Mist</td>
@@ -94,25 +94,25 @@
 <td>2.5 °C</td>
 <td>2.5 °C</td>
 <td>2.4 °C</td>
-<td>2.3 °C</td>
-<td>2.3 °C</td>
-<td>2.3 °C</td>
+<td>2.5 °C</td>
+<td>2.4 °C</td>
+<td>2.4 °C</td>
 <td>2.5 °C</td>
 <td>3.1 °C</td>
 <td>3.7 °C</td>
-<td>4.3 °C</td>
+<td>4.6 °C</td>
+<td>4.4 °C</td>
+<td>4.2 °C</td>
 <td>4.1 °C</td>
 <td>4.1 °C</td>
 <td>4 °C</td>
-<td>3.9 °C</td>
-<td>3.8 °C</td>
-<td>3.7 °C</td>
-<td>3.8 °C</td>
-<td>3.8 °C</td>
-<td>3.9 °C</td>
+<td>4 °C</td>
+<td>4 °C</td>
 <td>4.1 °C</td>
-<td>4.2 °C</td>
+<td>4.1 °C</td>
 <td>4.3 °C</td>
+<td>4.4 °C</td>
+<td>4.5 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>10.4 kph</td>
@@ -120,23 +120,23 @@
 <td>8.6 kph</td>
 <td>7.6 kph</td>
 <td>6.8 kph</td>
+<td>6.8 kph</td>
 <td>6.5 kph</td>
 <td>5.8 kph</td>
-<td>5 kph</td>
-<td>5 kph</td>
-<td>6.5 kph</td>
-<td>8.6 kph</td>
-<td>10.1 kph</td>
-<td>10.4 kph</td>
+<td>5.8 kph</td>
+<td>6.8 kph</td>
+<td>9 kph</td>
+<td>10.8 kph</td>
+<td>10.8 kph</td>
 <td>11.2 kph</td>
-<td>11.9 kph</td>
-<td>12.6 kph</td>
-<td>13.3 kph</td>
-<td>14 kph</td>
+<td>12.2 kph</td>
+<td>13 kph</td>
+<td>13.7 kph</td>
 <td>14.4 kph</td>
+<td>15.1 kph</td>
+<td>14.8 kph</td>
 <td>14.8 kph</td>
 <td>14 kph</td>
-<td>13.3 kph</td>
 <td>13 kph</td>
 <td>12.2 kph</td>
 </tr>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-12 07:03:30 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-12 16:46:14 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
