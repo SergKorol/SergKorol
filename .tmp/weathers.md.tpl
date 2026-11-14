@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-11-14</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast" />
 
-<b>Patchy rain nearby</b>
+<b>Overcast</b>
 </div>
 
 <table>
@@ -48,16 +48,16 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
@@ -74,16 +74,16 @@
 <td>Overcast</td>
 <td>Overcast</td>
 <td>Overcast</td>
-<td>Cloudy</td>
-<td>Patchy rain nearby</td>
+<td>Overcast</td>
 <td>Patchy rain nearby</td>
 <td>Overcast</td>
 <td>Overcast</td>
+<td>Overcast</td>
 <td>Patchy rain nearby</td>
-<td>Patchy rain nearby</td>
-<td>Cloudy</td>
-<td>Cloudy</td>
-<td>Partly Cloudy</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
+<td>Overcast</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
@@ -100,19 +100,19 @@
 <td>3.4 °C</td>
 <td>4 °C</td>
 <td>4.7 °C</td>
+<td>5.9 °C</td>
+<td>5.8 °C</td>
 <td>5.5 °C</td>
-<td>5.5 °C</td>
-<td>5.2 °C</td>
-<td>5.2 °C</td>
-<td>5.2 °C</td>
+<td>5.4 °C</td>
+<td>5.4 °C</td>
+<td>5.3 °C</td>
 <td>5.1 °C</td>
+<td>4.9 °C</td>
+<td>4.8 °C</td>
 <td>4.9 °C</td>
 <td>4.7 °C</td>
 <td>4.6 °C</td>
-<td>4.7 °C</td>
-<td>4.2 °C</td>
-<td>3.8 °C</td>
-<td>3.4 °C</td>
+<td>4.4 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>20.5 kph</td>
@@ -126,17 +126,17 @@
 <td>15.8 kph</td>
 <td>16.2 kph</td>
 <td>17.3 kph</td>
-<td>18.4 kph</td>
-<td>19.8 kph</td>
-<td>19.1 kph</td>
-<td>18.4 kph</td>
-<td>18.4 kph</td>
-<td>16.9 kph</td>
-<td>15.8 kph</td>
+<td>18.7 kph</td>
+<td>20.2 kph</td>
+<td>19.4 kph</td>
+<td>18 kph</td>
+<td>17.6 kph</td>
+<td>16.2 kph</td>
+<td>15.5 kph</td>
 <td>15.1 kph</td>
-<td>14.8 kph</td>
-<td>14.4 kph</td>
-<td>14.4 kph</td>
+<td>15.8 kph</td>
+<td>15.8 kph</td>
+<td>15.5 kph</td>
 <td>14.8 kph</td>
 <td>14.8 kph</td>
 </tr>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-14 11:25:09 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-14 17:57:37 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
