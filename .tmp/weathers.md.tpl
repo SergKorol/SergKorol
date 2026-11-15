@@ -106,10 +106,10 @@
 <td>6.3 °C</td>
 <td>5.6 °C</td>
 <td>4.7 °C</td>
-<td>3.9 °C</td>
-<td>3.5 °C</td>
-<td>3 °C</td>
-<td>2.6 °C</td>
+<td>4.1 °C</td>
+<td>3.6 °C</td>
+<td>3.1 °C</td>
+<td>2.7 °C</td>
 <td>2.4 °C</td>
 <td>2.2 °C</td>
 <td>2 °C</td>
@@ -132,13 +132,13 @@
 <td>9.4 kph</td>
 <td>8.6 kph</td>
 <td>7.9 kph</td>
-<td>7.9 kph</td>
-<td>8.6 kph</td>
+<td>8.3 kph</td>
+<td>9 kph</td>
 <td>9.4 kph</td>
 <td>10.1 kph</td>
-<td>10.8 kph</td>
-<td>11.9 kph</td>
-<td>13 kph</td>
+<td>11.2 kph</td>
+<td>12.2 kph</td>
+<td>13.3 kph</td>
 </tr>
 </table>
 
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-15 15:37:29 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-15 21:00:21 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
