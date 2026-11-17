@@ -50,7 +50,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-11-17 02:54:03 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
+<i>Updated at: 2026-11-17 13:15:32 - by <b>[SergKorol/DevToArticlesList](https://github.com/SergKorol/DevToArticlesList)</b></i>
 
 </div>
 
@@ -60,9 +60,9 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <b>Kyiv, Ukraine - 2026-11-17</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle" />
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Mist" />
 
-<b>Light drizzle</b>
+<b>Mist</b>
 </div>
 
 <table>
@@ -103,12 +103,12 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png" alt="Weather Icon"></td>
@@ -129,12 +129,12 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>Light drizzle</td>
 <td>Light drizzle</td>
 <td>Light drizzle</td>
-<td>Light rain</td>
+<td>Light drizzle</td>
 <td>Light rain</td>
 <td>Light rain</td>
 <td>Light drizzle</td>
 <td>Light rain</td>
-<td>Patchy rain nearby</td>
+<td>Light drizzle</td>
 <td>Mist</td>
 <td>Mist</td>
 <td>Mist</td>
@@ -151,25 +151,25 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>4.5 °C</td>
 <td>4.2 °C</td>
 <td>3.9 °C</td>
-<td>3.7 °C</td>
-<td>3.7 °C</td>
-<td>3.7 °C</td>
 <td>3.8 °C</td>
-<td>4 °C</td>
-<td>4.2 °C</td>
+<td>3.8 °C</td>
+<td>3.8 °C</td>
+<td>3.8 °C</td>
+<td>3.9 °C</td>
+<td>4.1 °C</td>
 <td>4.4 °C</td>
 <td>4.7 °C</td>
-<td>5.1 °C</td>
-<td>5.5 °C</td>
-<td>5.6 °C</td>
-<td>5.6 °C</td>
-<td>5.6 °C</td>
+<td>5 °C</td>
+<td>5.4 °C</td>
+<td>5.4 °C</td>
 <td>5.5 °C</td>
 <td>5.3 °C</td>
 <td>5.2 °C</td>
+<td>5.2 °C</td>
+<td>4.9 °C</td>
+<td>5 °C</td>
 <td>5.4 °C</td>
 <td>5.6 °C</td>
-<td>5.9 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>21.2 kph</td>
@@ -177,25 +177,25 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 <td>20.9 kph</td>
 <td>20.5 kph</td>
 <td>20.5 kph</td>
-<td>20.5 kph</td>
-<td>20.2 kph</td>
-<td>20.2 kph</td>
+<td>19.8 kph</td>
+<td>19.8 kph</td>
+<td>19.8 kph</td>
 <td>19.8 kph</td>
 <td>19.4 kph</td>
-<td>18.4 kph</td>
+<td>18.7 kph</td>
 <td>17.6 kph</td>
 <td>15.5 kph</td>
 <td>14.4 kph</td>
-<td>12.6 kph</td>
-<td>11.9 kph</td>
-<td>10.8 kph</td>
-<td>10.1 kph</td>
-<td>10.1 kph</td>
-<td>11.2 kph</td>
-<td>11.9 kph</td>
-<td>11.9 kph</td>
-<td>12.6 kph</td>
+<td>13 kph</td>
 <td>12.2 kph</td>
+<td>11.2 kph</td>
+<td>9.7 kph</td>
+<td>10.1 kph</td>
+<td>10.8 kph</td>
+<td>11.5 kph</td>
+<td>11.5 kph</td>
+<td>11.9 kph</td>
+<td>10.4 kph</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ Skills: Fullstack, C#, .NET, MAUI, Angular, TS/JS, Docker, Azure, DDD
 
 <div align="right">
 
-<i>Updated at: 2026-11-17 02:54:06 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-17 13:15:36 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
 
