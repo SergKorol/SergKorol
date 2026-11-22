@@ -3,9 +3,9 @@
 
 <b>Kyiv, Ukraine - 2026-11-22</b>
 
-<img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Light snow" />
+<img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy" />
 
-<b>Light snow</b>
+<b>Partly Cloudy</b>
 </div>
 
 <table>
@@ -54,11 +54,11 @@
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/323.png" alt="Weather Icon"></td>
-<td><img src="https://cdn.weatherapi.com/weather/64x64/night/323.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/326.png" alt="Weather Icon"></td>
+<td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Icon"></td>
 <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Icon"></td>
 </tr>
@@ -80,11 +80,11 @@
 <td>Light snow</td>
 <td>Light snow</td>
 <td>Patchy rain nearby</td>
-<td>Overcast</td>
+<td>Patchy rain nearby</td>
 <td>Light snow</td>
 <td>Light snow</td>
-<td>Patchy light snow</td>
-<td>Patchy light snow</td>
+<td>Light snow</td>
+<td>Patchy rain nearby</td>
 <td>Patchy rain nearby</td>
 <td>Partly Cloudy</td>
 </tr>
@@ -106,13 +106,13 @@
 <td>3.8 °C</td>
 <td>3.6 °C</td>
 <td>3.7 °C</td>
-<td>3.7 °C</td>
-<td>3 °C</td>
-<td>3 °C</td>
-<td>2.8 °C</td>
-<td>2.4 °C</td>
-<td>2.2 °C</td>
+<td>3.3 °C</td>
+<td>2.7 °C</td>
+<td>2.9 °C</td>
+<td>2.6 °C</td>
+<td>2.3 °C</td>
 <td>2.1 °C</td>
+<td>2 °C</td>
 </tr>
 <tr><th>Wind</th>
 <td>13 kph</td>
@@ -132,12 +132,12 @@
 <td>15.8 kph</td>
 <td>15.1 kph</td>
 <td>15.5 kph</td>
-<td>13.7 kph</td>
-<td>14.8 kph</td>
 <td>14 kph</td>
-<td>15.8 kph</td>
 <td>15.1 kph</td>
-<td>13.3 kph</td>
+<td>15.8 kph</td>
+<td>18 kph</td>
+<td>16.2 kph</td>
+<td>14 kph</td>
 <td>14.4 kph</td>
 </tr>
 </table>
@@ -146,6 +146,6 @@
 
 <div align="right">
 
-<i>Updated at: 2026-11-22 16:13:12 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
+<i>Updated at: 2026-11-22 21:45:02 - by <b>[SergKorol/WeatherForecast](https://github.com/SergKorol/WeatherForecast)</b></i>
 
 </div>
